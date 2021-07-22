@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../out/ODD-2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="EXP_0001">
+ <body>
+  <div type="letter" xml:id="EXP_0001-1" n="1">
+   <head>A <persName>MONSEIGNEVR LE DVC D’ESPERNON</persName>. <lb/>Lettre I.</head>
+   <p n="1" xml:id="EXP_0001-1-1">
+    <persName>Monseignevr</persName>, Quand ie ne ſerois pas nay cõme ie ſuis, voſtre tres-humble
+    ſeruiteur, il faudroit que ie fuſſe mauuais François pour ne me reſioüir pas des contẽtemens de
+    voſtre <orgName>maiſon</orgName>, puis que ce ſont des felicités publiques. <lb/>Nous auõs ſçeu
+    l’heureux ſuccés du voyage que vous auez fait en <placeName>Bearn</placeName>, &amp; les grands
+    commencemens que vous auez donnez à tout ce que <persName>le Roy</persName> voudra
+    entreprendre : <lb/>Et certes le choix qu’il a fait de vous pour le ſeruir en vne occaſion de
+    telle importance a eſté ſi generalement approuué, que ſi on remarquoit auparauant quelques
+    deffaux en la conduite de nos affaires, il faut auoüer que cette derniere action a iuſtifié
+    toutes les autres, &amp; qu’on voit bien que ce n’eſt pas la ſeule faueur qui met de la
+    difference entre les hõmes. <lb/>Ie ne doute point que le bon droit &amp; la puiſſance ſe
+    rencontrant du meſme coſté, l’euenement des choſes ne soit celuy que nous deſirons ; <lb/>mais
+    quoy qu’il arriue, vous auez deſia la gloire d’auoir rendu la victoire ayſée, &amp; fait voir
+    que les ennemis de <orgName>l’Eſtat</orgName> n’ont pas eſté iuſques icy ſi conſiderables par
+    leurs propres forces, que par l’opinion que nous en auions conceuë[.] Maintenãt
+     <persName>Monſeigneur</persName>, il eſt temps Lettres dv sievr que vous recognoiſſiez les
+    auantages que Dieu vous a donnés par deſſus le reſte des hommes ; <lb/>Au moins vous deuez vous
+    ſouuenir, qu’eſtant las des choſes du monde, &amp; eſloigné de <orgName>la Cour</orgName>, la
+    neceſſité publique ne vous eût pas eſté chercher dans le repos de voſtre
+     <orgName>maiſon</orgName> pour vous mettre entre les mains les armes <persName>du
+     Roy</persName> ſi vous n’eſtiez celuy-là dont tout le monde attẽd le reſtabliſſement de ſes
+    affaires. <lb/>Ie ne me fie pas tant en mon opiniõ, que ie veuille reſpondre de l’auenir :
+    <lb/>Toutesfois quand ie conſidere les actiõs de voſtre vie qui ſont telles, que nous auons de
+    la peine à les croire apres les auoir veuës, &amp; en tel nombre, qu’il ſemble aux eſtrangers
+    que vous viuiez dés le commencement de noſtre Monarchie, ie penſe pouuoir dire auec verité, que
+    s’il y a encore quelque choſe de grand à faire dans le monde, il ne faut pas que ce ſoit vn
+    autre que vous qui l’entreprene. <lb/>Vous auez poſſedé les bonnes graces des Roys comme des
+    biens qui ſe peuuent perdre, &amp; n’auez pas craint que leur paſſiõ deuſt plus durer que voſtre
+    innocence ; <lb/>cette grãde authorité que vous auiez acquiſe par voſtre faueur, vous l’auez
+    depuis touſiours maintenuë par voſtre courage. <lb/>Dans les mal-heurs du temps &amp;
+    l’vſurpation de la puiſſance legitime vous auez conſerué tout ſeul la liberté de la France.
+    <lb/>Qui eſt-ce qui peut dire cela de ſoy ? Où ſont ceux qui ſe ſont tenus fermes entre la
+    rebelliõ &amp; la ſeruitude ? En quel tẽps a t’õ veu vne vieilleſſe ſi neceſſaire au monde,
+    &amp; tant de bonne &amp; de mauuaiſe fortune également glorieuſe ?
+     <persName>Monſeigneur</persName>, vous auez trop de cognoiſſance de vous meſme pour penſer que
+    ie vous flatte, &amp; mon humeur eſt ſi eſloignee de toute action ſeruile, que la Court à me
+    donner pour me faire rien dire contre ma cõſcience. <lb/>Ie parle donc de la ſorte pour le ſeul
+    intereſt de la vertu, &amp; ſi elle n’eſtoit de noſtre coſté, ie l’irois pluſtoſt chercher parmy
+    les ennemis, afin de luy rendre ce qu’elle merite. <lb/>Perſonne ne Lettres dv sievr croira que
+    i’aye de pretention dans les armees <persName>du Roy d’Eſpaigne</persName>, ny que ie veüille
+    faire fortune en Hollande : <lb/>&amp; neantmoins ie louë <persName>le Prince
+     d’Aurãge</persName>, &amp; <persName>le Marquis de Spinola</persName>, comme ſi i’eſtois des
+    deux partys contraires en meſme temps : <lb/>En effet, <persName>Monſeigneur</persName>, ie
+    penſe auoir de l’obligation à ceux qui me donnent le moyen de mettre enſemble les deux plus
+    rares choſes du monde, c’eſt à ſçauoir la verité &amp; l’eloquence, Vous m’auez touſiours fait
+    l’honneur de me vouloir du bien, &amp; i’ay reçeu vne infinité de faueurs de
+     <persName>Monſeigneur le Cardinal voſtre Fils</persName> ; <lb/>mais quoy qu’il en ſoit, ie
+    vous ſupplie de croire que mon affection eſt toute pure, &amp; que mes intereſts ne ſe meſlent
+    point auec elle : <lb/>i’ay le contentement de vous auoir ſeruy en vne mauuaiſe ſaiſon, &amp;
+    d’auoir eſté du plus foible party, à cauſe que ie croyois qu’il eſtoit le plus honneſte :
+    <lb/>Depuis ce temps la ie n’ay pas chãgé d’aduis, &amp; les raiſons qui m’ont porté à faire ce
+    que i’ay fait, eſtãt encore les meſmes, Ie ſuis veritablement comme i’ay touſiours eſté.
+     <lb/><persName>MONSEIGNEVR</persName>, Voſtre tres-humble &amp; tres-obeiſſant ſeruiteur. </p>
+   <closer>
+    <persName>Balzac.</persName>
+    <lb/>A <placeName>Rome</placeName> le 7. <lb/>de Iuin 1621. </closer>
+  </div>
+ </body>
+</text>
