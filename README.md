@@ -8,7 +8,7 @@ This script process segmentation, normalization and lemmatization of XML-TEI enc
 
 * clone or download this repository
 ```bash
-git clone git@github.com:e-ditiones/SEG17.git
+git clone git@github.com:e-ditiones/Annotator.git
 cd SEG17
 ```
 
@@ -73,6 +73,8 @@ python3 scripts/normalize_lstm.py path/to/file_segmented
 5. The file `output/data.csv` will be updated and contain the result of the normalisation.
 
 #### NER
+
+TO DO
 
 #### Get an XML file
 
