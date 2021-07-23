@@ -54,7 +54,7 @@ deactivate
 2. create a second virtual environment and activate it
 ```bash
 python3 -m venv norm_lstm
-source env/bin/activate
+source norm_lstm/bin/activate
 ```
 2. install dependencies
 ```bash
@@ -68,7 +68,7 @@ bash download_model.sh
 4. if you want to **normalize** your segmented file
 ```bash
 cd ..
-python3 scripts/normlize_lstm.py path/to/file_segmented
+python3 scripts/normalize_lstm.py path/to/file_segmented
 ```
 5. The file `output/data.csv` will be updated and contain the result of the normalisation.
 

@@ -21,10 +21,12 @@ def normalize(doc):
     for seg in segs:
         id = seg.xpath('./@xml:id', namespaces=ns)
         texte = seg.text.strip('\n')
-        nb_token_source = len(texte.split()))
-        #subprocess.run(["NORM17-LSTM/run_normalisation.sh", texte])
+        nb_token_source = len(texte.split())
+        subprocess.run(["NORM17-LSTM/run_normalisation.sh", texte])
         #assert nb_token_source == len(), 'Attention, le nombre de token de la source et le nombre de tokens normalisés ne sont pas les mêmes, voir segment' + id
     
+
+    # Attention, de mémoire les &amp; posent pb, les remplacer avant de les envoyer au script de Rachel
     return token_norm
 
 
@@ -34,8 +36,8 @@ if __name__ == "__main__":
     parser = etree.XMLParser(remove_blank_text=True)
     doc = etree.parse(args.file, parser)
     # on récupère une liste contenant l'ensemble des tokens normalisés et on l'ajoute au csv
-    #data_norm = normalize(doc)
+    data_norm = normalize(doc)
 
-    df = pd.read_csv("output/data.csv", delimiter='\t')
-    df["NORM_LSTM"] = ""
-    df.to_csv("output/data.csv", index=False)
+    #df = pd.read_csv("output/data.csv", delimiter='\t')
+    #df["NORM_LSTM"] = ""
+    #df.to_csv("output/data.csv", index=False)
