@@ -16,4 +16,4 @@ if __name__ == "__main__":
     doc = etree.parse(args.file, parser)
 
 
-    doc.write(args.file, pretty_print=True, encoding="utf-8", method="xml")
+    doc.write(args.file.replace("_segmented", "_annotated"), pretty_print=True, encoding="utf-8", method="xml")

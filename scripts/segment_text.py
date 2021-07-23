@@ -79,7 +79,7 @@ def segment(doc):
     segment_elements(paragraphs)
     segment_elements(lines)
     # This output file is specific to the project e-ditiones, you can easily change the output with e.g. doc.write("New" + args.file, ...)
-    return doc.write(args.file.replace("-2", "-3"), pretty_print=True, encoding="utf-8", method="xml")
+    return doc.write(args.file.replace(".xml", "_segmented.xml"), pretty_print=True, encoding="utf-8", method="xml")
 
 
 def rebuild_words(doc):
