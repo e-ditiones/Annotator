@@ -38,7 +38,7 @@ def align(src_file, hyp_file, cache_file, already_tokenised=False):
                 src = postprocess_word(a[0])
                 trg = postprocess_word(a[1])
                 print('\t'.join([src, trg]))
-                print(trg)
+                # !! trg est à récupérer et les print peuvent être supprimés !!
             print()
                 
     # dump cache_filescores
