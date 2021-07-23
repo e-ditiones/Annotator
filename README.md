@@ -40,7 +40,7 @@ PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download fr
 ```
 3. if you want to **lemmatize** your segmented file
 ```bash
-PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 scripts/lemmatize path/to/file_segmented.xml
+PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended python3 scripts/lemmatize.py path/to/file_segmented.xml
 ```
 4. In `output/data.csv`, you will find the results of the lemmatisation.
 
