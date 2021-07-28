@@ -45,7 +45,24 @@ def lemmatize(doc):
             if lemmas[index]['POS'] != None:
                 output["pos"] = lemmas[index]['POS']
             if lemmas[index]['morph'] != None:
-                output["msd"] = lemmas[index]['morph']
+                msd = lemmas[index]['morph']
+                output['msd'] = msd
+                if 'MORPH' in msd:
+                    morph = re.search(r'MORPH=.*', msd)
+                    output['msd_morph'] = morph.group(0)
+                if 'MODE' in msd:
+                    output['msd_mode'] = re.search(r'MODE=[a-z]*\|', msd).group(0)
+                if 'TEMS' in msd:
+                    output['msd_tems'] = re.search(r'TEMS=.*\|', msd).group(0)
+                if 'PERS' in msd:
+                    output['msd_pers'] = re.search(r'PERS\.=.', msd).group(0)
+                if 'NOMB' in msd:
+                    output['msd_nomb'] = re.search(r'NOMB\.=.', msd).group(0)
+                if 'GENRE' in msd:
+                    output['msd_genre'] = re.search(r'GENRE=.', msd).group(0)
+                if 'CAS' in msd:
+                    output['msd_cas'] = re.search(r'CAS=.', msd).group(0)
+
             data.append(output)
 
     return data
@@ -58,7 +75,7 @@ if __name__ == "__main__":
     data = lemmatize(doc)
 
     with open('output/data.csv', 'w+', newline='') as csvfile:
-        fieldnames = ['token', 'lemma', 'pos', 'msd']
+        fieldnames = ['token', 'lemma', 'pos', 'msd', 'msd_morph', 'msd_mode', 'msd_temps', 'msd_pers', 'msd_nomb', 'msd_genre', 'msd_cas']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter='\t')
         writer.writeheader()
         for item in data:
