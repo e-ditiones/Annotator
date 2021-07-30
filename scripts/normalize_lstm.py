@@ -22,6 +22,7 @@ def normalize(doc):
     # remplacement des tirets car ils empêchent le fonctionnement du normalisateur (à corriger plus tard)
     texte_str_propre = texte_str.replace("-", " ")
     # Idéalement, on récupère la liste des tokens normalisés, voir le script NORM17-LSTMT/align/align.py pour la sortie
+    # Je récupère ce qui s'affiche dans le terminal et je le restructure. Solution de repli mais le plus simple serait de juste imprimer le résultat dans un csv que l'on relit derrière.
     token_norm = subprocess.check_output(["bash", "run_normalisation_param.sh", texte_str_propre])
     token_norm_decode = token_norm.decode("utf-8")
     token_norm_list = token_norm_decode.split("\n")
