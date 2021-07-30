@@ -45,12 +45,12 @@ if __name__ == "__main__":
     list_norm = normalize(doc)
 
     # AJOUT D'UNE COLONNE CONTENANT LA NORMALISATION
-    df = pd.read_csv("../output/data.csv", delimiter=',')
+    df = pd.read_csv("../output/data.csv", delimiter='\t')
     df['norm']=""
     for n in range(0, len(df)):
         token = df.loc[n].token
         for el in list_norm:
             if el[0] == token:
                 df.at[n, 'norm'] = el[1]
-    df.to_csv("../output/data.csv", index=False)
+    df.to_csv("../output/data.csv", sep="\t", encoding="utf8", escapechar="\n", index=False)
 
