@@ -73,13 +73,6 @@ python3 scripts/normalize_lstm.py path/to/file_segmented
 5. The file `output/data.csv` will be updated and contain the result of the normalisation.
 
 #### NER
-
-TO DO
-
-#### Get an XML file
-
-Using the created csv file, `csv_to_xml.py` will constitute an XML file.
-
 1. First, you have to deactivate the previous virtual env, using 
 ```bash
 deactivate
@@ -88,11 +81,33 @@ deactivate
 ```bash
 source env/bin/activate
 ```
-3. Get the annotated XML file
+3. install model
+
+Download https://sharedocs.huma-num.fr/wl/?id=hNkFbpu7qU4uQsvRaPWM3mm8SEK5CypU&fmode=download and uncompress it on the data folder.
+
+Download https://sharedocs.huma-num.fr/wl/?id=Kq2woXBVoUv8BIyEQrIP0L0dv6XysWO3&fmode=download and uncompress it on the logs folder.
+
+```
+cd presto-tagger
+bash prepare.sh
+```
+
+4. if you want to do ***NER*** on your file:
+```
+python3 ../scripts/ner.py ../output/data.csv
+```
+
+5. The file `output/data.csv` will be updated and contain the result of the ner.
+
+#### Get an XML file
+1. In the first environment
+
+Using the created csv file, `csv_to_xml.py` will constitute an XML file.
+2. Get the annotated XML file
 ```bash
 python3 scripts/csv_to_xml.py path/to/file_segmented
 ```
-4. You will get `file_annotated.xml`.
+3. You will get `file_annotated.xml`.
 
 
 ## How it works
