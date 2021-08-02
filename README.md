@@ -67,8 +67,7 @@ bash download_model.sh
 ```
 4. if you want to **normalize** your segmented file
 ```bash
-cd ..
-python3 scripts/normalize_lstm.py path/to/file_segmented
+python3 ../scripts/normalize_lstm.py ../path/to/file_segmented
 ```
 5. The file `output/data.csv` will be updated and contain the result of the normalisation.
 
