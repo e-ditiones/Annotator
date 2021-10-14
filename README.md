@@ -1,6 +1,6 @@
 # SEG17
 
-This script process segmentation, normalization and lemmatization of XML-TEI encoded files. 
+This script process segmentation, lemmatization, normalization and NER of XML-TEI encoded files. 
 
 ## Getting starded
 
@@ -72,24 +72,26 @@ python3 ../scripts/normalize_lstm.py ../path/to/file_segmented
 5. The file `output/data.csv` will be updated and contain the result of the normalisation.
 
 #### NER
+
 1. First, you have to deactivate the previous virtual env, using 
 ```bash
 deactivate
 ```
 2. Then, activate the first virutal env
 ```bash
+cd ..
 source env/bin/activate
 ```
 3. install model
-
-Download https://sharedocs.huma-num.fr/wl/?id=hNkFbpu7qU4uQsvRaPWM3mm8SEK5CypU&fmode=download and uncompress it on the data folder.
-
-Download https://sharedocs.huma-num.fr/wl/?id=Kq2woXBVoUv8BIyEQrIP0L0dv6XysWO3&fmode=download and uncompress it on the logs folder.
 
 ```
 cd presto-tagger
 bash prepare.sh
 ```
+
+Download https://sharedocs.huma-num.fr/wl/?id=hNkFbpu7qU4uQsvRaPWM3mm8SEK5CypU&fmode=download and uncompress it on the data folder.
+
+Download https://sharedocs.huma-num.fr/wl/?id=Kq2woXBVoUv8BIyEQrIP0L0dv6XysWO3&fmode=download and uncompress it on the logs folder.
 
 4. if you want to do ***NER*** on your file:
 ```
@@ -98,15 +100,19 @@ python3 ../scripts/ner.py ../output/data.csv
 
 5. The file `output/data.csv` will be updated and contain the result of the ner.
 
-#### Get an XML file
-1. In the first environment
+#### NER with Wikidata
 
-Using the created csv file, `csv_to_xml.py` will constitute an XML file.
+#### Get an XML file
+
+1. Be sure that `env` is activated.
+
+
 2. Get the annotated XML file
+Using the created csv file, `csv_to_xml.py` will constitute an XML file.
 ```bash
-python3 scripts/csv_to_xml.py path/to/file_segmented
+python3 scripts/csv_to_xml.py XML/path/to/file_segmented
 ```
-3. You will get `file_annotated.xml`.
+3. You will get `file_annotated.xml` in the folder `XML`.
 
 
 ## How it works
