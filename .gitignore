@@ -1,5 +1,6 @@
 .DS_Store
 NORM17-LSTM/model
+NORM17-LSTM/align/__pycache__
 # virtual env
 norm_lstm/
 seg/
