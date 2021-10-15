@@ -1,80 +1,186 @@
-<text xmlns="http://www.tei-c.org/ns/1.0">
-  <body>
-    <div>
-      <head>A MONSEIGNEVR LE DVC D’ESPERNON. <lb/>Lettre I.</head>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:id="EDI_0001_header">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lettres de Guez de Balzac</title>
+        <title type="sub">E-Ditiones edition</title>
+        <author ref="isni:0000000114443046">Guez de Balzac, Jean-Louis</author>
+        <editor ref="orcid:0000-0001-9094-4475">Simon Gabay</editor>
+      </titleStmt>
+      <extent>
+        <measure unit="words" quantity="874"/>
+        <measure unit="images" quantity="10"/>
+      </extent>
+      <publicationStmt>
+        <publisher>E-Ditiones project</publisher>
+        <ref target="https://github.com/e-ditiones"/>
+        <availability status="restricted" n="cc-by">
+          <licence target="https://creativecommons.org/licenses/by/4.0"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b86262420"/>
+          <title>LETTRES DV SIEVR DE BALZAC</title>
+          <author ref="isni:0000000114443046">Guez de Balzac, Jean-Louis</author>
+          <publisher ref="isni:0000000121321725">Toussaint du Bray</publisher>
+          <pubPlace ref="geonames:2988507">Paris</pubPlace>
+          <date when="1624">1624</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change who="orcid:0000-0003-0850-8266" when="2021-01-11">Adaptation of the XML-TEI
+                encoding according to the new ODD.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
       <p>
-        <seg n="1" xml:id="s1">Monseignevr, Quand ie ne ſerois pas nay cõme ie ſuis, voſtre tres-humble
-    ſeruiteur, il faudroit que ie fuſſe mauuais François pour ne me reſioüir pas des contẽtemens de
-    voſtre maiſon, puis que ce ſont des felicités publiques.</seg>
-        <seg n="2" xml:id="s2">Nous auõs ſçeu
-    l’heureux ſuccés du voyage que vous auez fait en Bearn, &amp; les grands
-    commencemens que vous auez donnez à tout ce que le Roy voudra
-    entreprendre :</seg>
-        <seg n="3" xml:id="s3">Et certes le choix qu’il a fait de vous pour le ſeruir en vne occaſion de
-    telle importance a eſté ſi generalement approuué, que ſi on remarquoit auparauant quelques
-    deffaux en la conduite de nos affaires, il faut auoüer que cette derniere action a iuſtifié
-    toutes les autres, &amp; qu’on voit bien que ce n’eſt pas la ſeule faueur qui met de la
-    difference entre les hõmes.</seg>
-        <seg n="4" xml:id="s4">Ie ne doute point que le bon droit &amp; la puiſſance ſe
-    rencontrant du meſme coſté, l’euenement des choſes ne soit celuy que nous deſirons ;</seg>
-        <seg n="5" xml:id="s5">mais
-    quoy qu’il arriue, vous auez deſia la gloire d’auoir rendu la victoire ayſée, &amp; fait voir
-    que les ennemis de l’Eſtat n’ont pas eſté iuſques icy ſi conſiderables par
-    leurs propres forces, que par l’opinion que nous en auions conceuë[.</seg>
-        <seg n="6" xml:id="s6">] Maintenãt
-     Monſeigneur, il eſt temps Lettres dv sievr que vous recognoiſſiez les
-    auantages que Dieu vous a donnés par deſſus le reſte des hommes ;</seg>
-        <seg n="7" xml:id="s7">Au moins vous deuez vous
-    ſouuenir, qu’eſtant las des choſes du monde, &amp; eſloigné de la Cour, la
-    neceſſité publique ne vous eût pas eſté chercher dans le repos de voſtre
-     maiſon pour vous mettre entre les mains les armes du
-     Roy ſi vous n’eſtiez celuy-là dont tout le monde attẽd le reſtabliſſement de ſes
-    affaires.</seg>
-        <seg n="8" xml:id="s8">Ie ne me fie pas tant en mon opiniõ, que ie veuille reſpondre de l’auenir :</seg>
-        <seg n="9" xml:id="s9">Toutesfois quand ie conſidere les actiõs de voſtre vie qui ſont telles, que nous auons de
-    la peine à les croire apres les auoir veuës, &amp; en tel nombre, qu’il ſemble aux eſtrangers
-    que vous viuiez dés le commencement de noſtre Monarchie, ie penſe pouuoir dire auec verité, que
-    s’il y a encore quelque choſe de grand à faire dans le monde, il ne faut pas que ce ſoit vn
-    autre que vous qui l’entreprene.</seg>
-        <seg n="10" xml:id="s10">Vous auez poſſedé les bonnes graces des Roys comme des
-    biens qui ſe peuuent perdre, &amp; n’auez pas craint que leur paſſiõ deuſt plus durer que voſtre
-    innocence ;</seg>
-        <seg n="11" xml:id="s11">cette grãde authorité que vous auiez acquiſe par voſtre faueur, vous l’auez
-    depuis touſiours maintenuë par voſtre courage.</seg>
-        <seg n="12" xml:id="s12">Dans les mal-heurs du temps &amp;
-    l’vſurpation de la puiſſance legitime vous auez conſerué tout ſeul la liberté de la France.</seg>
-        <seg n="13" xml:id="s13">Qui eſt-ce qui peut dire cela de ſoy ?</seg>
-        <seg n="14" xml:id="s14">Où ſont ceux qui ſe ſont tenus fermes entre la
-    rebelliõ &amp; la ſeruitude ?</seg>
-        <seg n="15" xml:id="s15">En quel tẽps a t’õ veu vne vieilleſſe ſi neceſſaire au monde,
-    &amp; tant de bonne &amp; de mauuaiſe fortune également glorieuſe ?</seg>
-        <seg n="16" xml:id="s16">Monſeigneur, vous auez trop de cognoiſſance de vous meſme pour penſer que
-    ie vous flatte, &amp; mon humeur eſt ſi eſloignee de toute action ſeruile, que la Court à me
-    donner pour me faire rien dire contre ma cõſcience.</seg>
-        <seg n="17" xml:id="s17">Ie parle donc de la ſorte pour le ſeul
-    intereſt de la vertu, &amp; ſi elle n’eſtoit de noſtre coſté, ie l’irois pluſtoſt chercher parmy
-    les ennemis, afin de luy rendre ce qu’elle merite.</seg>
-        <seg n="18" xml:id="s18">Perſonne ne Lettres dv sievr croira que
-    i’aye de pretention dans les armees du Roy d’Eſpaigne, ny que ie veüille
-    faire fortune en Hollande :</seg>
-        <seg n="19" xml:id="s19">&amp; neantmoins ie louë le Prince
-     d’Aurãge, &amp; le Marquis de Spinola, comme ſi i’eſtois des
-    deux partys contraires en meſme temps :</seg>
-        <seg n="20" xml:id="s20">En effet, Monſeigneur, ie
-    penſe auoir de l’obligation à ceux qui me donnent le moyen de mettre enſemble les deux plus
-    rares choſes du monde, c’eſt à ſçauoir la verité &amp; l’eloquence, Vous m’auez touſiours fait
-    l’honneur de me vouloir du bien, &amp; i’ay reçeu vne infinité de faueurs de
-     Monſeigneur le Cardinal voſtre Fils ;</seg>
-        <seg n="21" xml:id="s21">mais quoy qu’il en ſoit, ie
-    vous ſupplie de croire que mon affection eſt toute pure, &amp; que mes intereſts ne ſe meſlent
-    point auec elle :</seg>
-        <seg n="22" xml:id="s22">i’ay le contentement de vous auoir ſeruy en vne mauuaiſe ſaiſon, &amp;
-    d’auoir eſté du plus foible party, à cauſe que ie croyois qu’il eſtoit le plus honneſte :</seg>
-        <seg n="23" xml:id="s23">Depuis ce temps la ie n’ay pas chãgé d’aduis, &amp; les raiſons qui m’ont porté à faire ce
-    que i’ay fait, eſtãt encore les meſmes, Ie ſuis veritablement comme i’ay touſiours eſté.</seg>
-        <seg n="24" xml:id="s24">MONSEIGNEVR, Voſtre tres-humble &amp; tres-obeiſſant ſeruiteur.</seg>
+        <seg n="1" xml:id="s1">A MONSEIGNEVR LE DVC D’ESPERNON.</seg>
+        <seg n="2" xml:id="s2">Lettre I.</seg>
+        <seg n="3" xml:id="s3">Monseignevr,
+                Quand ie ne ſerois pas nay cõme ie ſuis, voſtre tres-humble ſeruiteur, il faudroit que
+                ie fuſſe mauuais François
+                pour ne me reſioüir pas des
+                contẽtemens de voſtre
+                contẽtemens de voſtre mai
+                ,
+                ſon puis que ce ſont des felicités publiques.</seg>
+        <seg n="4" xml:id="s4">Nous auõs
+                ſçeu l’heureux ſuccés du
+                voyage que vous auez fait
+                en Bearn, &amp; les grands commencemens que vous auez
+                 donnez à tout ce que le Roy
+                voudra entreprendre :</seg>
+        <seg n="5" xml:id="s5">Et
+                certes le choix qu’il a fait de
+                vous pour le ſeruir en vne
+                occaſion de telle importance a eſté ſi generalement approuué, que ſi on remarquoit auparauant quelques
+                deffaux en la conduite de
+                nos affaires, il faut auoüer
+                que cette derniere action
+                a iuſtifié toutes les autres, &amp;
+                qu’on voit bien que ce n’eſt
+                pas la ſeule faueur qui met
+                de la difference entre les hõmes.</seg>
+        <seg n="6" xml:id="s6">Ie ne doute point que
+                le bon droit &amp; la puiſſance
+                ſe rencontrant du meſme
+                coſté, l’euenement des choſes ne soit celuy que nous
+                deſirons ;</seg>
+        <seg n="7" xml:id="s7">mais quoy qu’il arriue, vous auez deſia la gloire
+                d’auoir rendu la victoire ayſée, &amp; fait voir que les ennemis de l'Eſtat n’ont pas eſté
+                iuſques icy ſi conſiderables par leurs propres forces, que
+                par l’opinion que nous en auions conceuë[.</seg>
+        <seg n="8" xml:id="s8">] Maintenãt
+                Monſeigneur, il eſt temps
+                que vous recognoiſſiez les
+                auantages que Dieu vous
+                a donnés par deſſus le reſte
+                des hommes ;</seg>
+        <seg n="9" xml:id="s9">Au moins vous deuez vous ſouuenir,
+                qu’eſtant las des choſes du
+                monde, &amp; eſloigné de la
+                Cour, la neceſſité publique
+                ne vous eût pas eſté chercher dans le repos de voſtre
+                maiſon pour vous mettre
+                entre les mains les armes du
+                Roy ſi vous n’eſtiez celuy-
+                là dont tout le monde attẽd
+                le reſtabliſſement de ſes affaires.</seg>
+        <seg n="10" xml:id="s10">Ie ne me fie pas tant
+                en mon opiniõ, que ie veuille reſpondre de l’auenir :</seg>
+        <seg n="11" xml:id="s11">Toutesfois quand ie conſidere les actiõs de voſtre vie
+                qui ſont telles, que nous auons de la peine à les croire
+                apres les auoir veuës, &amp;
+                en tel nombre, qu’il ſemble aux
+                eſtrangers que vous viuiez
+                dés le commencement de
+                noſtre Monarchie, ie penſe
+                pouuoir dire auec verité,
+                que s’il y a encore quelque
+                choſe de grand à faire dans
+                le monde, il ne faut pas
+                que ce ſoit vn autre que vous qui
+                l’entreprene.</seg>
+        <seg n="12" xml:id="s12">Vous auez
+                poſſedé les bonnes graces
+                des Roys comme des biens
+                qui ſe peuuent perdre, &amp;
+                n’auez pas craint que leur
+                paſſiõ deuſt plus durer que
+                voſtre innocence ;</seg>
+        <seg n="13" xml:id="s13">cette grãde authorité que vous auiez
+                acquiſe par voſtre faueur,
+                vous l’auez depuis touſiours
+                maintenuë par voſtre courage.</seg>
+        <seg n="14" xml:id="s14">Dans les mal-heurs du
+                temps &amp; l’vſurpation de la
+                puiſſance legitime vous auez conſerué tout ſeul la liberté de la France.</seg>
+        <seg n="15" xml:id="s15">Qui eſt-
+                ce qui peut dire cela de ſoy ?</seg>
+        <seg n="16" xml:id="s16">Où ſont ceux qui ſe ſont tenus fermes entre la rebelliõ
+                &amp; la ſeruitude ?</seg>
+        <seg n="17" xml:id="s17">En quel tẽps
+                a t’õ veu vne vieilleſſe ſi neceſſaire au monde, &amp; tant
+                de bonne &amp; de mauuaiſe
+                fortune également glorieuſe ?</seg>
+        <seg n="18" xml:id="s18">Monſeigneur, vous auez
+                trop de cognoiſſance de
+                vous meſme pour penſer
+                que ie vous flatte, &amp; mon
+                humeur eſt ſi eſloignee de
+                toute action ſeruile, que la
+                Court n'a point assez d'eſperance à me donner pour me
+                faire rien dire contre ma cõſcience.</seg>
+        <seg n="19" xml:id="s19">Ie parle donc de la
+                ſorte pour le ſeul intereſt de
+                la vertu, &amp; ſi elle n’eſtoit de
+                noſtre coſté, ie l’irois pluſtoſt chercher parmy les ennemis, afin de luy rendre ce
+                qu’elle merite.</seg>
+        <seg n="20" xml:id="s20">Perſonne ne
+                croira que i’aye de pretention dans les armees du Roy
+                d’Eſpaigne, ny que ie veüille faire fortune en Hollande :</seg>
+        <seg n="21" xml:id="s21">&amp; neantmoins ie louë le
+                Prince d’Aurãge, &amp; le Marquis de Spinola, comme ſi
+                i’eſtois des deux partys contraires en meſme temps :</seg>
+        <seg n="22" xml:id="s22">En
+                effet, Monſeigneur, ie penſe auoir de l’obligation à
+                ceux qui me donnent le
+                moyen de mettre enſemble
+                les deux plus rares choſes
+                du monde, c’eſt à ſçauoir la
+                verité &amp; l’eloquence, Vous
+                m’auez touſiours fait l’honneur de me vouloir du bien,
+                &amp; i’ay reçeu vne infinité de
+                faueurs de Monſeigneur
+                le Cardinal voſtre Fils ;</seg>
+        <seg n="23" xml:id="s23">mais
+                quoy qu’il en ſoit, ie vous
+                ſupplie de croire que mon
+                affection eſt toute pure, &amp;
+                que mes intereſts ne ſe
+                meſlent point auec elle :</seg>
+        <seg n="24" xml:id="s24">i’ay
+                le contentement de vous auoir ſeruy en vne mauuaiſe
+                ſaiſon, &amp; d’auoir eſté du
+                plus foible party, à cauſe que
+                ie croyois qu’il eſtoit le plus
+                honneſte :</seg>
+        <seg n="25" xml:id="s25">Depuis ce temps
+                la ie n’ay pas chãgé d’aduis,
+                &amp; les raiſons qui m’ont porté à faire ce que i’ay fait, eſtãt
+                encore les meſmes, Ie ſuis
+                veritablement comme i’ay
+                touſiours eſté.</seg>
+        <seg n="26" xml:id="s26">MONSEIGNEVR,
+                Voſtre tres-humble &amp; tres-
+                obeiſſant ſeruiteur.</seg>
+        <seg n="27" xml:id="s27">Balzac.</seg>
+        <seg n="28" xml:id="s28">A Rome le 7.</seg>
+        <seg n="29" xml:id="s29">de Iuin 1621.</seg>
       </p>
-      <closer>Balzac.<lb/>A Rome le 7. <lb/>de Iuin 1621. </closer>
-    </div>
-  </body>
-</text>
+    </body>
+  </text>
+</TEI>
