@@ -1,5 +1,7 @@
 .DS_Store
 NORM17-LSTM/model
-lemm
-norm_lstm
-env
+# virtual env
+norm_lstm/
+seg/
+ner/
+wiki/

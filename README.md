@@ -9,15 +9,15 @@ This script process segmentation, lemmatization, normalization and NER of XML-TE
 * clone or download this repository
 ```bash
 git clone git@github.com:e-ditiones/Annotator.git
-cd SEG17
+cd Annotator
 ```
 
 #### Segmentation
 
 1. create a first virtual environment and activate it
 ```bash
-python3 -m venv env
-source env/bin/activate
+python3 -m venv seg
+source seg/bin/activate
 ```
 2. install dependencies
 ```bash
@@ -32,7 +32,7 @@ python3 scripts/segment_text.py path/to/file
 
 #### Lemmatisation
 
-1. The virtual env to be used is `env`.
+1. The virtual env to be used is `seg`.
 
 2. install lemmatisation models
 ```
@@ -56,20 +56,20 @@ deactivate
 python3 -m venv norm_lstm
 source norm_lstm/bin/activate
 ```
-2. install dependencies
+3. install dependencies
 ```bash
 pip install -r NORM17-LSTM/requirements.txt
 ```
-3. download the model
+4. download the model
 ```bash
 cd NORM17-LSTM
 bash download_model.sh
 ```
-4. if you want to **normalize** your segmented file
+5. if you want to **normalize** your segmented file
 ```bash
 python3 ../scripts/normalize_lstm.py ../path/to/file_segmented
 ```
-5. The file `output/data.csv` will be updated and contain the result of the normalisation.
+6. The file `output/data.csv` will be updated and contain the result of the normalisation.
 
 #### NER
 
@@ -77,34 +77,58 @@ python3 ../scripts/normalize_lstm.py ../path/to/file_segmented
 ```bash
 deactivate
 ```
-2. Then, activate the first virutal env
+2. Then, create a new first virutal env
 ```bash
 cd ..
-source env/bin/activate
+python3 -m venv ner
+source ner/bin/activate
 ```
-3. install model
-
+3. install dependencies
+```bash
+pip install -r NORM17-LSTM/requirements.txt
+```
+4. install model
 ```
 cd presto-tagger
 bash prepare.sh
 ```
 
-Download https://sharedocs.huma-num.fr/wl/?id=hNkFbpu7qU4uQsvRaPWM3mm8SEK5CypU&fmode=download and uncompress it on the data folder.
+Download https://sharedocs.huma-num.fr/wl/?id=hNkFbpu7qU4uQsvRaPWM3mm8SEK5CypU&fmode=download, uncompress it and replace the existing `data` folder with it.
 
-Download https://sharedocs.huma-num.fr/wl/?id=Kq2woXBVoUv8BIyEQrIP0L0dv6XysWO3&fmode=download and uncompress it on the logs folder.
+Download https://sharedocs.huma-num.fr/wl/?id=Kq2woXBVoUv8BIyEQrIP0L0dv6XysWO3&fmode=download and uncompress it in the logs folder.
 
-4. if you want to do ***NER*** on your file:
+5. if you want to do ***NER*** on your file:
 ```
 python3 ../scripts/ner.py ../output/data.csv
 ```
 
-5. The file `output/data.csv` will be updated and contain the result of the ner.
+6. The file `output/data.csv` will be updated and contain the result of the ner.
 
 #### NER with Wikidata
 
+1. First, you have to deactivate the previous virtual env, using 
+```bash
+deactivate
+```
+2. Then, create a new first virutal env
+```bash
+cd ..
+python3 -m venv wiki
+source wiki/bin/activate
+```
+3. install dependencies
+```bash
+pip install -r wikidataMultisearch/requirements.txt
+```
+4. run the script (!à modifier, passer des Args)
+```bash
+python3 wikidataMultisearch/wikidataMultisearch.py
+```
+5. The updated file will be in `output` and be named `data.csv.wikidata.tsv`
+
 #### Get an XML file
 
-1. Be sure that `env` is activated.
+1. Be sure that `????` is activated.
 
 
 2. Get the annotated XML file
