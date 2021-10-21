@@ -1,4 +1,4 @@
-# SEG17
+# Annotator
 
 This script process segmentation, lemmatization, normalization and NER of XML-TEI encoded files. 
 

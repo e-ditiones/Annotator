@@ -20,7 +20,7 @@ def transform_text(doc):
     :return: XML doc after transformation
     :rtype: XLM doc
     """
-    xslt = etree.parse('scripts/XSLT/Level-2_to_level-3.xsl')
+    xslt = etree.parse('scripts/XSLT/clean_text.xsl')
     transform = etree.XSLT(xslt)
     doc_transf = transform(doc)
     return doc_transf
