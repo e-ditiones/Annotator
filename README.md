@@ -8,7 +8,7 @@ This script process segmentation, lemmatization, normalization and NER of XML-TE
 
 * clone or download this repository
 ```bash
-git clone git@github.com:e-ditiones/Annotator.git
+git clone https://github.com/e-ditiones/Annotator.git
 cd Annotator
 ```
 
