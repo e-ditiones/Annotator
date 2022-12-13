@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-model href='https://raw.githubusercontent.com/Antonomaz/ODD/main/Schema/ODD_Antonomaz.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'?>
+<?xml-model href='https://raw.githubusercontent.com/Antonomaz/ODD/main/Schema/ODD_Antonomaz.rng' type='application/xml' schematypens='http://purl.oclc.org/dsdl/schematron'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Moreau2564_GBOOKS">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" source="Moreau">L'objet de la haine publique, ou la Honte du ministre
+          d'État découverte.</title>
+        <title type="sub">Édition Antonomaz</title>
+        <respStmt>
+          <resp>Chaîne de traitement</resp>
+          <persName ref="orcid:0000-0001-9518-1040" role="Project_manager">Abiven Karine</persName>
+          <persName ref="orcid:0000-0002-4795-2362" role="Project_manager">Lejeune Gaël</persName>
+          <persName ref="orcid:0000-0002-0007-1664" role="OCRisation">Tanguy
+            Jean-Baptiste</persName>
+          <persName ref="orcid:0000-0003-0850-8266" role="engineer">Bartz Alexandre</persName>
+          <persName ref="orcid:0000-0001-5815-9506" role="intern">Faure Margaux</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Projet ANTONOMAZ / Sorbonne Université</publisher>
+        <ref target="https://github.com/Antonomaz"/>
+        <date type="file_creation" when="2021-11-02">2 novembre 2021</date>
+        <availability n="cc-by" status="restricted">
+          <licence target="https://creativecommons.org/licenses/by/4.0"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ref target="https://books.google.fr/books?id=3X1KAAAAcAAJ&amp;hl=fr"/>
+          <author/>
+          <title source="Moreau">Objet (l') de la haine publique, ou la Honte du ministre d'État
+            découverte.</title>
+          <pubPlace ref="geonames:2988507" source="Moreau">Paris</pubPlace>
+          <publisher ref="isni:0000000140388204" xml:id="IL_MusnierFrancois.xml">
+            <persName>
+              <forename>François</forename>
+              <surname>Musnier</surname>
+            </persName>
+          </publisher>
+          <date source="Moreau" when="1649">1649</date>
+          <extent>
+            <measure quantity="8" unit="page"/>
+          </extent>
+          <note type="format">in-4</note>
+          <relatedItem source="Mazarine" type="identifier" subtype="none" cert="low" target="none"/>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <settlement ref="geonames:2761369">Vienne</settlement>
+            <institution>Bibliothèque nationale</institution>
+            <repository/>
+            <idno type="cote">127325-B</idno>
+          </msIdentifier>
+          <history>
+            <provenance>
+              <stamp>False</stamp>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Cette édition a été réalisée dans le cadre du projet ANTONOMAZ. Son objectif principal
+          est de fournir un texte destiné à l'exploration avec des outils électroniques. De ce fait,
+          ce n'est ni une édition philologique, ni une édition pédagogique ou de redécouverte d'un
+          auteur oublié.</p>
+        <p>Les textes encodés dans le cadre du projet ANTONOMAZ sont issus de numérisations de
+          bibliothèques numériques publiques et de Google livres.</p>
+        <p>L'édition présentée ici est issue d'un processus d'OCRisation réalisé avec Kraken.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fra">Document en français</language>
+      </langUsage>
+      <abstract>
+        <p source="Mazarine"/>
+        <p source="Moreau">2564. Objet (l') de la haine publique, ou la Honte du ministre d'État
+          découverte. Paris, François Musnier, 1649,8 pages.</p>
+      </abstract>
+      <textClass>
+        <keywords>
+          <term type="form">prose</term>
+          <term type="genre">pamphlet</term>
+          <term type="genre">rhétorique judiciaire</term>
+          <term type="subject"/>
+          <term type="handwritten_note" subtype="no"/>
+          <term type="table_of_content" subtype="no"/>
+          <term type="illustration" subtype="no"/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change status="corrected" when="2022-06-10" who="MF"/>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <pb n="5"/>
+        <lb/>L'OBIET
+        <lb/>DE LA
+        <lb/>HAINE PVBLIQVE
+        <lb/>OV
+        <lb/>LA HONTE
+        <lb/>DV
+        <lb/>MINISTRE D'ESTAT
+        <lb/>DE’COVVERTE. <figure type="decoration"/>
+        <lb/>A PARIS,
+        <lb/>Chez FRANCOIS MVSNIER, au mont
+        <lb/>ſainct Hilaire. 1649. <pb n="6"/>
+        <pb n="7"/>
+        <lb/>2
+        <lb/>L’OBIET DE LA AINE PVBLIQVE,
+        <lb/>ou la honte das Miniſtre d’Eſlat découuoree.
+        <lb/> elque amour que i’aye pour ma Patrie,
+        <lb/>l faur auoüer que i’ enay peaucoup plus
+        <lb/> pour la verité, c’eſt ce qui m’a oblige
+        <lb/>d’exan, Iner ſi la haine publique que don a coh
+        <lb rend="¬" break="no"/>cuë contre le Mazarin eſt bien fondee, &amp; s’il doir
+        <lb/>eſtre noircy des titres honteux que l’on luy donr
+        <lb/>ne. Il eſt bien vray que ie n’auois qu à conſiderr
+        <lb/>les Arreſts prononcez contre ce perfide, l’vnion
+        <lb/>des Princes &amp; de tous les Pai lcmens pour m’oſter
+        <lb/>de ce doute. De ſorre que je ne ſuis plus en peine
+        <lb/>de ce point, puis que des Heros ſi genereux &amp;
+        <lb/>dont la vieille Rome auroit fait ſes duinitez, &amp;
+        <lb/>des Senateurs dont la probiré eſt incomparable,
+        <lb/>me leuent ce ſcrupule. Ileſt bien vtay que qual
+        <lb rend="¬" break="no"/>que ſom que i’euſſe apporté à eſtudier toutes les
+        <lb/>act ions de ce meſchant Miniſtre, ie n’y auois pû̂
+        <lb/>remarquer que de la laſcheté &amp; de l’ignorance:
+        <lb/>mais certes de peu de m’eſtre trompé, ie n’oſois
+        <lb/>prononcer hardiment ſuiuant ma penſee. On
+        <lb/>peut dire qu’en quelque façon nous ſomes les.
+        <lb/>aush urs de nos maux; &amp; puis que la flatteriea
+        <lb/>eſté ſi grande en l’ame de pluſieurs que ie connoi,
+        <lb/>que lon n’a point eu honte de luydopner es
+        <lb/>élpgs. qui n’eſloient deubs quau imenss, <pb n="8"/>
+        <lb/>qu’aux d’Albornos &amp; aux ichelies. C’eſt
+        <lb/>abuzer des fleurs de l’éloquence, &amp; montrer qu’il
+        <lb/>n’y a rien d’infame en Ia narure qui ne reçoiue
+        <lb/>des applaudiſſemens, &amp; que l’on couronne des
+        <lb/>monſtres que l’on deuroit égorger. Ie crois qu’il
+        <lb/>n’y a à preſent aucun deſes orateurs mercenaires,
+        <lb/>&amp; de ces Poëtes affamez, qui ne faſſe la peniten
+        <lb rend="¬" break="no"/>ce de ce crime, &amp; qui ne voulut de bon cœur nmar
+        <lb rend="¬" break="no"/>cherſur l’ldole qu’il a encenſee. le confeſſe fran
+        <lb rend="¬" break="no"/>chement que i’ay eſté au rang de ſes Idolatres:
+        <lb/>mais auſſi il faut que lon ſç̧ache que depuis que
+        <lb/>ay reconnu que Mazarin eſtoit le plus perfide de
+        <lb/>tous les hommes, que i’ay fait ceſſer mes adra
+        <lb rend="¬" break="no"/>tions; &amp; que i’ay eſteé́ le premier qui a rendu les
+        <lb/>teſmoignagnes publics par vne palinodie de naon
+        <lb/>erreur. I’ay reconnu qu’il n’y auoit rien de bon
+        <lb/>en Mazarin; qu’il n’y a que des ordures dans ſon
+        <lb/>berceau, ie veux dire en ſa naiſſance; &amp; que ſon
+        <lb/>enfance a eſte vn ſeminaire de toutes ſortes de
+        <lb/>fourberies, &amp; de ſubeilitez dangereuſes.
+        <lb/> Pour raoy ie tiens pour vne maxime infaillible,
+        <lb/>que l’on ne doit iamais admettre aux grandeurs,
+        <lb/>ceux qui ne ſont nays que dans la baſſeſſe &amp; dans
+        <lb/>la honte. Les Nobles ſont portez aux grandes
+        <lb/>actions, par celles de leurs Ayeux, qui leur tien
+        <lb rend="¬" break="no"/>nent lieu de flambeau &amp; de guides fidelles. Quoy
+        <lb/>qu’vn docte ayt dit autresfois, que tout le ſang
+        <lb/>eſt d’vne couleur: ſi eſt il tres certain qu’il y a ie?
+        <lb/>neſç̧ay quoy de grand, &amp; pour ainſi dire vn eſe
+        <lb rend="¬" break="no"/>conde ame dans ceux qu lont nays de parens il¬ <pb n="9"/>
+        <lb/>laſtres; Qu’onu ne ’eſtonne donc pas s’il n’ya
+        <lb/>rien que de bas &amp; de honteux dans le Mazarin,
+        <lb/>puis, qu’il eſt detres baſſe naiſſance: Mais ceet
+        <lb/>pas celadlont is le blaſme, c’eſt de n’auoir aucne
+        <lb/>crainte de Dieu; quoy qu’au dire des ſçauans elle
+        <lb/>ſoie la fidelle gardienne de la ſoeieté entre le
+        <lb/>hommes. C’eſt vn eſtrangeabus, que dans un
+        <lb/>Rorumepieur &amp; eraignant Dieu, avant a pre
+        <lb rend="¬" break="no"/>ſent vn oy quia tous les traits de cette vet, n
+        <lb/>aye admisauminiſtere vn homme ſans religion
+        <lb/>&amp; lans pieteé.
+        <lb/> Ie ne dis rien en cela qui ne ſoit ſçeu de tout le
+        <lb/>nondes &amp; publiéput tout ouil y a des ames qui
+        <lb/>ſoient capables de quelque lentimentde pier
+        <lb/>Penſe pouuoir dire iey auee hardieſe, qu’ilny en
+        <lb/>apus vn de ceun neſme quiſont aachei aſa fo
+        <lb rend="¬" break="no"/>une pat leur propre inrere ſt qui oſaſ conmredin
+        <lb/>cce veriré etaut il done pasauouer que cea
+        <lb/>failircomreroue ſore de nmnimes, d’a pro he
+        <lb/>dn ieune o &amp;e verueux des p ſonnes d.
+        <lb/>ere laure &amp; que ſi nuſtre esnl p dne ne
+        <lb/>lois peſeue put vne gnee ſpeiale i ſeroit
+        <lb/>aindte &amp; pour ly &amp; pout nous, que de ſ per
+        <lb/>poau uinſtres ne coromp ſeu ſon ſpni,
+        <lb/>Quanta moy ie ſuis du ſenimient de celuy qui
+        <lb/>dits que la perd, la uſtee, &amp; la magnanimie
+        <lb/>ont les rois pardes de lame d’vn tſlt n
+        <lb/> aueune de ſes vertus, &amp; ſi ie e enuionoi
+        <lb/>de rtombor en des redite, ie pourois
+        <lb/>ler quelque chole de ſa vie infane; mais cerre,.
+        <lb/>B
+        <lb/>la
+        <lb/>¬ <pb n="10"/>
+        <lb/>elle eſt ſi connuë, on en a fait tant de por
+        <lb rend="¬" break="no"/>traits, que ce ne ſeroit que le meſme tableau
+        <lb/>ou les leules couleurs ſeroient differentes. Ce
+        <lb/>ne ſeroit apres tout qu’vn tableau des vices les
+        <lb/>plus inſeames dot tu te noirey àla veue &amp; aulseu
+        <lb/>e toures les nations. Il ne faut que cete ſeule
+        <lb/>einnre pour endrele oe odeui ene neſne
+        <lb/>quenſeonr les pumle plu reles l os lo
+        <lb/>lent que ce fut vn des artiſhees d’vn bon Pelat
+        <lb/> leandre qui pour faire conceuoir à ſe peu
+        <lb rend="¬" break="no"/>e de la laine donure vne llole nmoniſtrueule
+        <lb/>onmmendat qu’elle fut expoſée au publie; mais
+        <lb/>e ſaroit vn trauail inutile: tes vices ſont connus
+        <lb/>e, vices ſont publiez, &amp; l’on peut dire que tes
+        <lb/>Peintres n’ont pas aquis peu de reputation,
+        <lb/>’eelnmee du pmeau ſle fait connoiſtre auſi
+        <lb/>uen vne ouenon quenvne lledene &amp; le cde
+        <lb/>’oeuune de Phy das elitoit vndsaire Touut’Eu
+        <lb rend="¬" break="no"/>opele puunt de ues fouo la nre de e l
+        <lb/>s,, u onme di que tu lavavole le Cudinalat.
+        <lb/>renmole que ere dignire doiue dtre deſomi
+        <lb/>lneeonmpeſe des l’aehee, &amp; ſi les San Pere
+        <lb rend="¬" break="no"/> denrde pus de ſerupule n la ditnbuto de
+        <lb/>eet haonnmeu, ce quiaſetuy dereconnoiſſancenu
+        <lb/>aomn lluſires ie de pleeone ſeoon plus qun
+        <lb/>ls perode &amp;e ambinieun. Poſeous due e
+        <lb/>a ſuiet de ſeandale, &amp; qui doi arirerle
+        <lb/>laudesd’n chaeun deſlus tateiſe Onſoui que
+        <lb/> pi s delies dela vansene, &amp; qus u ds de
+        <lb/> a eur de cet Ielisn qui diſoit que les Dieux
+        <lb/>1 <pb n="11"/>
+        <lb/>1
+        <lb/>eſtoient gardé́ le meilleur de tous les morceaux
+        <lb/>en ſe releruans le plaiſir de la vangeance; mais
+        <lb/>comme ce ſentiment eſt criminel quoy qu’expri
+        <lb rend="¬" break="no"/>mé par la bouche d’vn profane, qu’el nom doit. il
+        <lb/>prendre en celle d’vn Prince de l’Egliſe? cela n’a
+        <lb/>rien de cette ancienne Rome ny de la nouuelle.
+        <lb/>La profane eſtoit plus conſcientieuſe, &amp; la ſainte
+        <lb/>ne peut ſouffrir ce que tu appreuues. Quoy les
+        <lb/>eſtrangers ne diront ils pas que c’eft vne honte à
+        <lb/>la Frane qu’elle ſouffre vn miniſtre qui ne reſpi
+        <lb rend="¬" break="no"/>re qu’apres le meurtre &amp; le carnage de ceux qui
+        <lb/>l’ont reçeu chez eui auec honneur, &amp; que tét in
+        <lb rend="¬" break="no"/>ſolent donne des exemples ſi pernicieux aà̀ vn ieu
+        <lb rend="¬" break="no"/>ne Monarque? Tout le mode crie tout haut que
+        <lb/>u imites les voleurs des graãds chemins qui tuent
+        <lb/>ceux à qui ils ont oté la bourſe. Pour peur que
+        <lb/>t euſſes leu les Hiſtoires tu aurois appris que la
+        <lb/>clémence eſt la conſeruatrice des mpires, &amp;
+        <lb/>qu’il n’y a que les tirans qui ſe plaiſent à voir des
+        <lb/>ſupplices. Vn bel eſprit dit fort à propos ſur ce ſu
+        <lb rend="¬" break="no"/>iet qu’il faut épargner le ſang des hommes pour
+        <lb/>ce que le grand nombre des ſupplices n’apporte
+        <lb/>pas moins de des-honneur à vn Prince, que fait le
+        <lb/>grand nombre de funerailles aà vn Medecin. C’eſt
+        <lb/>doncauee raiſon que l’on mettra delormais leMa
+        <lb rend="¬" break="no"/>zarin au rang des demons qui ne ſont capables
+        <lb/>que du mal, &amp; peut eſtre auſſi que comme eux il
+        <lb/> porte ſon enfer dedans le ſein. S’il luy reſte quel
+        <lb rend="¬" break="no"/>que peu de conſcience elle doit eſtre dechiré́e par
+        <lb/>les remords de ſes crimescõme par mille imptoya <pb n="12"/>
+        <lb/>bles bourreaux. Toutefois comme il aintelligen
+        <lb rend="¬" break="no"/>ce aueç cette ſorte de perſonnes ( ie veux dire les
+        <lb/>Financiers quiſont les bourreaux du pauure peu
+        <lb rend="¬" break="no"/>ple) &amp; puis qu’il en eſt le protecteur il faut croite
+        <lb/>qu ileneſt moins tourmenté. Cependant ie me fi
+        <lb rend="¬" break="no"/>gure, que s’il ne fait reſtitutioa de ſes larcins, &amp;
+        <lb/>particulierement du Roy qu’il nous a enleué, qu’il
+        <lb/>aura des bourreaux eternels auſſi bien que des
+        <lb/>tourmens qui ne finiront iamais. Il me ſemble
+        <lb/>que c’eſtoit bien aſſez de paſſer pour vn coupeur
+        <lb/>de bourſeſans ioindre aà̀ ce crime celuy de voleur
+        <lb/>de nuict, puis que ceſt a la faueur des tenebres
+        <lb/>qu il nous a derobé noſtreieune Monarque. N’eſt
+        <lb/>il pas vray de die qu’apres auoir ouuragé tous les
+        <lb/>Potentats de la terre, &amp; toutes les nations il a
+        <lb/>deſſein d’entreprendreſur l’authorité du S. Siege,
+        <lb/>puis que n’eſtant pas Pape, il veut inſtituer va
+        <lb/>ouueau ieuſne en affamant la ville de Paris. Mais.
+        <lb/>omme ce deſſein eſt horrible le Ciel n’exauce
+        <lb/>pasſes vœux, il s’oppoſe a ſes iniuſtes pretentions,
+        <lb/>Dieu a ſoin des innocens que cét herode voudroit
+        <lb/> egorger. Si l’õ6 a dit de celuy là qu’il valloit mieux
+        <lb/>étreſon pourceau que ſon fils on peurt dire de ce
+        <lb rend="¬" break="no"/>uy -cy qu’il vaut mieux eſtre le iniſtre de ſesvo
+        <lb rend="¬" break="no"/>luptez, ou quelque choſe de pire, ſi l’on veut éui
+        <lb rend="¬" break="no"/>rer la fureur. I’aurois beaucoup plus a dire ſur ce
+        <lb/>ſuiet ; mais i’ay peur de me ſalir parmyces ordur
+        <lb/>res, dont la vie de Mazariu eſt la ſource inpare
+        <lb rend="¬" break="no"/>men feconde... </p>
+    </body>
+  </text>
+</TEI>

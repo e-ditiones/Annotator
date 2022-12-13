@@ -1,5 +1,0 @@
-fairseq @ git+git://github.com/pytorch/fairseq.git@5a75b079bf8911a327940c28794608e003a9fa52
-sentencepiece==0.1.96
-lxml==4.2.1
-pandas==1.3.3
-

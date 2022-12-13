@@ -1,12 +1,9 @@
 from lxml import etree
+import glob
 import os
-import csv
+import re
 import pandas as pd
 import subprocess
-import argparse
-arg_parser = argparse.ArgumentParser()
-arg_parser.add_argument("file", help="file to process")
-args = arg_parser.parse_args()
 
 ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
@@ -40,18 +37,23 @@ def normalize(doc):
 
 
 if __name__ == "__main__":
+    XMLs = glob.glob("../../in_XML/*_segmented.xml")
     parser = etree.XMLParser(remove_blank_text=True)
-    doc = etree.parse(args.file, parser)
-    # on récupère une liste contenant l'ensemble des tokens normalisés et on l'ajoute au csv
-    list_norm = normalize(doc)
 
-    # AJOUT D'UNE COLONNE CONTENANT LA NORMALISATION
-    df = pd.read_csv("../output/data.csv", delimiter='\t')
-    df['norm']=""
-    for n in range(0, len(df)):
-        token = df.loc[n].token
-        for el in list_norm:
-            if el[0] == token:
-                df.at[n, 'norm'] = el[1]
-    df.to_csv("../output/data.csv", sep="\t", encoding="utf8", escapechar="\n", index=False)
+    for XML in XMLs:
+        doc = etree.parse(XML, parser)
+        id = os.path.basename(XML)
+        id = re.sub("_segmented.xml","",id)
+        # on récupère une liste contenant l'ensemble des tokens normalisés et on l'ajoute au csv
+        list_norm = normalize(doc)
+
+        # AJOUT D'UNE COLONNE CONTENANT LA NORMALISATION
+        df = pd.read_csv("../../out/TSV/%s.tsv" %(id), delimiter='\t')
+        df['norm']=""
+        for n in range(0, len(df)):
+            token = df.loc[n].token
+            for el in list_norm:
+                if el[0] == token:
+                    df.at[n, 'norm'] = el[1]
+        df.to_csv("../../out/TSV/%s.tsv" %(id), sep="\t", encoding="utf8", escapechar="\n", index=False)
 

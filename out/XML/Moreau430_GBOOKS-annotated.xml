@@ -1,0 +1,1900 @@
+<?xml-model href='https://raw.githubusercontent.com/Antonomaz/ODD/main/Schema/ODD_Antonomaz.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'?>
+<?xml-model href='https://raw.githubusercontent.com/Antonomaz/ODD/main/Schema/ODD_Antonomaz.rng' type='application/xml' schematypens='http://purl.oclc.org/dsdl/schematron'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Moreau430_GBOOKS">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" source="Moreau">L’astrologue françois, prédisant les événements singulier
+          et universels des États et empires du monde, selon le changement des globes célestes dans
+          la présente année astronomique</title>
+        <title type="sub">Édition Antonomaz</title>
+        <respStmt>
+          <resp>Chaîne de traitement</resp>
+          <persName ref="orcid:0000-0001-9518-1040" role="Project_manager">Abiven Karine</persName>
+          <persName ref="orcid:0000-0002-4795-2362" role="Project_manager">Lejeune Gaël</persName>
+          <persName ref="orcid:0000-0002-0007-1664" role="OCRisation">Tanguy
+            Jean-Baptiste</persName>
+          <persName ref="orcid:0000-0003-0850-8266" role="engineer">Bartz Alexandre</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Projet ANTONOMAZ / Sorbonne Université</publisher>
+        <ref target="https://github.com/Antonomaz"/>
+        <date type="file_creation" when="2021-11-02">2 novembre 2021</date>
+        <availability n="cc-by" status="restricted">
+          <licence target="https://creativecommons.org/licenses/by/4.0"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ref target="https://books.google.fr/books?id=scVv4HbV4e4C"/>
+          <author/>
+          <title source="Moreau">Astrologue (l’) françois, prédisant les événements singulier (sic)
+            et universels des États et empires du monde, selon le changement des globes célestes
+            dans la présente année astronomique</title>
+          <pubPlace ref="geonames:2988507" source="Moreau">Paris</pubPlace>
+          <publisher ref="isni:0000000063027789" xml:id="IL_MorlotClaude.xml">
+            <persName>
+              <forename>Claude</forename>
+              <surname>Morlot</surname>
+            </persName>
+          </publisher>
+          <date source="Moreau" when="1649">1649</date>
+          <date source="Carrier" notBefore="1649-01" notAfter="1649-03">pendant le blocus de
+            Paris</date>
+          <extent>
+            <measure quantity="8" unit="page"/>
+          </extent>
+          <note type="format">in-4</note>
+          <relatedItem source="Mazarine" type="identifier" subtype="BM01588" cert="high" target="https://mazarinades.bibliotheque-mazarine.fr/ark:/61562/bm50483"/>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <settlement ref="geonames:2996944">Lyon</settlement>
+            <institution>Bibliothèque municipale</institution>
+            <repository/>
+            <idno type="cote">SJ IF 247/178, 14</idno>
+          </msIdentifier>
+          <history>
+            <provenance>
+              <stamp>False</stamp>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Cette édition a été réalisée dans le cadre du projet ANTONOMAZ. Son objectif principal
+          est de fournir un texte destiné à l'exploration avec des outils électroniques. De ce fait,
+          ce n'est ni une édition philologique, ni une édition pédagogique ou de redécouverte d'un
+          auteur oublié.</p>
+        <p>Les textes encodés dans le cadre du projet ANTONOMAZ sont issus de numérisations de
+          bibliothèques numériques publiques et de Google livres.</p>
+        <p>L'édition présentée ici est issue d'un processus d'OCRisation réalisé avec Kraken.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fra">Document en français</language>
+      </langUsage>
+      <abstract>
+        <p source="Mazarine">D'après Hubert Carrier, texte paru pendant le blocus de Paris
+          (Bibliothèque Mazarine, Ms. 4682-1, f. 227v).</p>
+        <p source="Moreau">430. Astrologue (l’) françois, prédisant les événements singulier (sic)
+          et universels des États et empires du monde, selon le changement des globes célestes dans
+          la présente année astronomique. Parrs, Claude Mor- lot, 1649, B pages.</p>
+      </abstract>
+      <textClass>
+        <keywords>
+          <term type="form">prose</term>
+          <term type="subject">Prophéties</term>
+          <term type="subject">Astrologie et politique</term>
+          <term type="handwritten_note" subtype="no"/>
+          <term type="table_of_content" subtype="no"/>
+          <term type="illustration" subtype="no"/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change status="corrected" when="2022-04-04" who="AB"/>
+    </revisionDesc>
+  </teiHeader>
+  <text type="transcription">
+    <body>
+      <p><pb n="1"/><lb/>L'ASTROLOGVE
+        <lb/>FRANCOIS.
+        <lb/>PREDISANT LES EVENEMENS
+        <lb/>SINGVLIER ET VNIVERSELS
+        <lb/>DES ESTATS ET EMPIRES DV MONDE.
+        <lb/>Selon le changement des Globes Celeſtes en l’année
+        <lb/>preſente Aſtronomicque. <figure type="decoration"/>
+        <lb/>A PARIS,
+        <lb/>Chez CLAVDE MORLOT, ruë de la Bucherie,
+        <lb/>aux vieilles Eſtuues.
+        <lb/>M. DC. XLIX.
+        <lb/>
+        <imprimatur>AVEC PERMISSION.</imprimatur>
+        <pb n="2"/>
+        <pb n="3"/>
+        <lb/>3
+        <lb/>L’ASTROLOGVE FRANCOIS,
+        <lb/>prediſant les euenemens ſinguliers &amp; vniuer
+        <lb rend="¬" break="no"/>ſels des Eſtats &amp; Empires du monde.
+        <lb/>Selo le changemene des labes eleſtes.
+        <lb/>J EXPERIENCE iournaliere nous fait
+        <lb/>LLvoir que les Anciens Philoſophes ont eu
+        <lb/>bone grace de dire que les Cauſes ſuperieures
+        <lb/>gouuetnent les inferieures; &amp; que ce n’eſt pas ſan
+        <lb/>raiſon qu’vn de nosPoëtes a dit, ſtra regunt ho
+        <lb rend="¬" break="no"/>mines, ſed Deas ftra regit. Dans mon Aſtrolo
+        <lb rend="¬" break="no"/>gie ie n’entends point parler des Euenemens des
+        <lb/>Cauſes Vegetatiues &amp; Senſitiues, ny auſſi des
+        <lb/>Corps ſimples; Si vous exceptez le Ciel &amp; la Ter
+        <lb rend="¬" break="no"/>re, ſeulemet ie deſire monſtrer, le bon-heur &amp;
+        <lb/>leperil desVilles, des Eſtars, des Royaumes &amp;
+        <lb/>Bapires, en deſcouurent le: changement de la
+        <lb/>bonne &amp; mauuaiſe fortune des plus grands hom
+        <lb rend="¬" break="no"/>mes de l’Vniuers. Pour ce ſuject ie ſuiuray la me
+        <lb rend="¬" break="no"/>dode des Anciens Geographes, en diuiſant le
+        <lb/>Clobe Terreſtre en quatre parties. C’eſt à̀ ſça
+        <lb rend="¬" break="no"/>uit, en Europe, Aſie, Affrique, &amp; les deux A
+        <lb rend="¬" break="no"/>meriques. En premier lieu, comme l’Europe eſt
+        <lb/>l plus noble partie de l’Vniuets, dans laquelle
+        <lb/>eſne nous habitons, il ne ſera pas hors de pro¬ <pb n="4"/>
+        <lb/>pos de commencer par elle; Vous remarquerez
+        <lb/>donc que la terre dont la longueur et de trois
+        <lb/>mille trois cens cinquante lieues, Sa lergeur de
+        <lb/>deux mille cent cinquante, &amp; que le Globe de
+        <lb/>l eau &amp; de la terre n’a que neuf mille lieuë detour,
+        <lb/>lequel Globe reçoit non ſeulement les influences
+        <lb rend="¬" break="no"/>des quarante-huit Conſtellations Celeſtes :mais
+        <lb rend="¬" break="no"/>encore tous les Eſtres qui ſont produits, où qui y
+        <lb/>viuent, ſi vous exceptez l’Ame raiſonnable, la
+        <lb rend="¬" break="no"/>quelle eſtant immaterielle eſt incapable de ſouf¬
+        <lb rend="¬" break="no"/>frir des paſſions eſtrangeres. L’LEuropeeſtvne des
+        <lb/>parties de ce Globe, qui contient les Eſtats &amp; les
+        <lb rend="¬" break="no"/>terres du Pape, du Roy de France, de lEmpe
+        <lb rend="¬" break="no"/>reur, du Roy d’Eſpagne, des Ducs de Florence,
+        <lb/>de Veniſe, de Sennes &amp; de Gennes. Comme auſ
+        <lb rend="¬" break="no"/>ſi des Rois d’Angleterre, de Hongrie, de Boëf.
+        <lb/>me; du Portuguez, de Pologne &amp; de Dannemarc,
+        <lb/>ces puiſſances ſuprémes ont ſur leur domination
+        <lb/>pluſieurs grands Perſonnages. Ie preuois par la
+        <lb/>Conijonction de Mars auecque Venus -au ſecond
+        <lb/>degré duBelier, que Bellonne apres quelques aſ
+        <lb rend="¬" break="no"/>ſaurs qu’elle aura donneé, ſera contrainte de faire
+        <lb/>filer ſon bagage ailleurs, ſi elle n’eſt arreſtée en
+        <lb/>Angleterre, &amp; chez les Venitiens, par la feoide
+        <lb/>mine de Mereure, pluſieurs grands Perſonnages
+        <lb/>ſeront accuſez de Peculat &amp; Concuſſions &amp; quel
+        <lb rend="¬" break="no"/>ques vns mourront par poiſons.
+        <lb/>Ie ne puis bien reprimer mes penſeées-ny mes
+        <lb/>con¬ <pb n="5"/>
+        <lb/>1
+        <lb/>1
+        <lb/>iy
+        <lb/>1
+        <lb/>blement des trois parties quireſtent, par ce qu’el
+        <lb rend="¬" break="no"/>les ſont domińes par quatre grande Puiſſances,
+        <lb/>quiſont, le grand Seigneur, le grand Sophy de
+        <lb/>Perſe, le grand Tartare &amp; le Preſtre Iean. Ie ne
+        <lb/>aiſſeraypas de parler le plus diſtinctement que ie
+        <lb/>pourray, Si bien que vous ſçauray que l’Aſie eſt ſa
+        <lb/>ſeconde partie du monde, enuironneée preſque de
+        <lb/>outes pars de la mer Oeceanne, dont la longueur
+        <lb/>depuis l’Orient à l’Occident eſt de dix-ſept cens
+        <lb/>cinquante lieueës, &amp; ce depuis la mer Noire iuſques
+        <lb/>àl’Occean de Lachine Orientale, &amp; ſa largeur eſt
+        <lb/>-de quime cens cinquante lieuës, en ſuitte ſui l’Af
+        <lb rend="¬" break="no"/>fique, qui ſeroit Iſle ſi vn iſtines eſtoit couppé, ſa
+        <lb/>- longueur eſt en droite ligne de 165o. lieuës, &amp;
+        <lb/> ſa largeur qui eſt depuis le Cap de bonne Eſpe
+        <lb rend="¬" break="no"/> ance, iuſques à la Mer Mediterannée, contient
+        <lb/> ſeize cens ſoiante quinze lieuës, ainſi elle eſt plus
+        <lb/> large que longue: En dernier lieu eſt l’Amerique,
+        <lb/> qui eſtneantmoins la plus grande de toutes, &amp; s’e
+        <lb rend="¬" break="no"/> ſtend du Septentrion vers le Midy, &amp; contient
+        <lb/>deux Prouinces ſeulement, qui ſont le Perou&amp;
+        <lb/> Mexicque joints enſemble par viriſtine de terre
+        <lb/> qui a quelques vingt lieuës de larges, ces deux
+        <lb/>1
+        <lb/>contcepions, ſans parler confnſement &amp;. enſem
+        <lb rend="¬" break="no"/> ant renommé́es Prousinces pour l’or &amp; l’argent,
+        <lb/> &amp; autres choſes precieuſes qu’on en apporte en
+        <lb/>noſtre Europe, ont de longueur de l’Occident à
+        <lb/>l’Orient: Scauoir celle de Mexicque deux mille
+        <lb/>B <pb n="6"/>
+        <lb/>eufeens lieuës, &amp; de l’argueur quinie cẽs lieũs,:
+        <lb/>la longueur du Perou, il y a d’vne mer à l’autreen
+        <lb rend="¬" break="no"/>core quine cens lieuës, &amp; de largeur ſeize cen6
+        <lb/>lieuës: de ſorte que ſupputant toutes les terres qui
+        <lb/>ſont és Indes, &amp; qui appartiennent au Roy d’Eſpa
+        <lb rend="¬" break="no"/>gne, ſans les Iſles que i’ay ci-deſſus nommeé, &amp; tou¬!
+        <lb/>rtes les autres lſles qu’il poſſede en l’vne &amp; l’autre
+        <lb/>mer: On verra qu’à bon droict ie ſouſtiens qu’ileſt
+        <lb/>le plus grand terrien du monde, dont le centre&amp;
+        <lb/>le milieu,; eſt la Ville de Ieruſalem, où toutes les
+        <lb/>nuicts ſelon le fidel rapport des pelerins, paroiſtà
+        <lb/>la minuit vn comette d’vne énorme grandeur, qui
+        <lb/>ſemble auoir la teſte d’vn Elephant, &amp; la queuë
+        <lb/>d’vnDragon; ce metheore ne diſparoiſt point,que
+        <lb/>ors que l’Aurore commence à poindre, alorsil
+        <lb/>court plus viſte en la plus haute region de l’air,
+        <lb/>qu’vn Tigre deſeſperéparmy nos campagnes. Ce
+        <lb/>prodige nous teſmoigne aſſez que la plus grand
+        <lb/>part des peuples doiuent eſtre chaſtiés parde fleau
+        <lb/>de la guerre les vns apres les autres, &amp; principale¬ ,
+        <lb/>ment les Iafidelles &amp; Idolatres; car ce n’eſt pas
+        <lb/>ſans miſtere que ce ſigne eſpouuantable paroiſt
+        <lb/>dans le milieu des Nations du monde ſelon Ee
+        <lb rend="¬" break="no"/>chiel, pour nous apprendre que Dieu les veut tou
+        <lb rend="¬" break="no"/>tes chaſtier, &amp; par ce que ſelon Dauid le ſalut des
+        <lb/>hommes fut fait au milieu de la terre, qui eſt blie
+        <lb rend="¬" break="no"/>ruſalen, il eſt auſſi expedient que le ſignal de ſa
+        <lb/>colere paroiſſe au meſme endroit oùu il a prodigué, <pb n="7"/>
+        <lb/>.
+        <lb/>1
+        <lb/>ſa charité, Dauantage les abyſmes des feux ſou
+        <lb rend="¬" break="no"/>ſlerains, les tremblemens de terre &amp; la cheute
+        <lb/>des montagnes, confirment les pronoſtications de
+        <lb/>mon Aſtrologie, tiré́es des plus grands Autheurs
+        <lb/>quipar les Phenomenes ou apparitions des Aſtres
+        <lb/>qui ſe ſelebrent en ces quartiers m’aprenennent
+        <lb/>que laguerre doit quitter entierement l’Europe,
+        <lb/>pour ruiner entierement les trois autres parties,
+        <lb/>l’lris &amp; la Colombe qui eſtoient familieres à ces
+        <lb/>peuples ont paru ſur noſtre chef, quittant les
+        <lb/>eſtrangores Nations, pour y laiſſer gronder le
+        <lb/>tonnerre, &amp; croaſſer les Corbeaux, quand à la
+        <lb/>France n’a plus à craindre aucune reuolution, le
+        <lb/>benin Iupiter qui la regarde d’vn œil amoureux,
+        <lb/>la fauoriſera touſiours de ſes plus douces in uen
+        <lb rend="¬" break="no"/>ces, s’il y arriue quelque changement, ce ſera
+        <lb/>dans les charges de la guerre, à cauſe que Mars eſt
+        <lb/>le Seigneur de noſtre Horiſon, l’Italie, l’Allema
+        <lb rend="¬" break="no"/>gne, l’Eſpagne n’auront point d’autres allarmes.
+        <lb/> que celles que le grand Turc leur cauſera du coſté́
+        <lb/>de la Hongrie, les autres Eſtats de l Europe à cau
+        <lb rend="¬" break="no"/>ſe que Lucine regarde de mauuais œil Saturne qui
+        <lb/>les domine, viuront pluſtoſt en troubles qu’en
+        <lb/>tranquilité, &amp; leur malheur ſeroit plus grand ſi le
+        <lb/>Ciel ne s’armoit d’vnec foudre pour donner de la
+        <lb/>erreur à leur ſeine, le triple regard de Mars auec
+        <lb/>Mereure du coſte de l’Orient, me faict conclurre
+        <lb/> que ces trois grandes parties du monde entreront <pb n="8"/>
+        <lb/>8
+        <lb/>en ſi grande diſſention que les peuples dreſſeront
+        <lb/>des armé́es aà celles de Circez, &amp; l’Amerique
+        <lb/>eſtant ſecond́e par. pluſieurs autres troupes de
+        <lb/>l’Eſpagne, comme auſſi le Preſtre Iean par les ar
+        <lb rend="¬" break="no"/>mé́es de France, ſans doute, que le grand Seigneur
+        <lb/>le Tartare &amp; le grand Sophy donneront du nez
+        <lb/>par terre. Ce qui a eſté declareé́ par les Centu
+        <lb rend="¬" break="no"/>ries de Noſtra-damus, &amp; qui eſt. confirmé par
+        <lb/>cette ſentence commune que les Dieux ont
+        <lb/>les pieds de laine &amp; les bras de fer, ſa diuine
+        <lb/>bonté ayant iuſques icy attendu ces infidelles
+        <lb/>à repentance en punition de leur obſtination,
+        <lb/>à. armer ſon bras d’vne verge de fer pour
+        <lb/>les punir; l’Europe n’a rien plus à craindre nyre
+        <lb rend="¬" break="no"/>douter, la fin de ſes malheurs ſera vn commence
+        <lb rend="¬" break="no"/>ment d’vne proſperité durable, les heureuſes Plàa.
+        <lb rend="¬" break="no"/>nettes qui ont reluy à la natiuité du Roy, &amp; dans la
+        <lb/>naiſſance de Monſeigneur le Duc d’Anjou, nous
+        <lb/>promettent faire couler nos iours dãs les delices,
+        <lb/>parce que ces bons Aſtres Iupiter &amp; le Soleil, qui
+        <lb/>ont doiné au point de leur apparition, rendront
+        <lb/>osS ieunes Princes en humeurs &amp; mœursſi agrea¬,
+        <lb/>bles, que le Ciel en eſtant amoureux aymera par
+        <lb/>conſequent leurs ſubjets.
+        <lb/>FIN. </p>
+    </body>
+  </text>
+  <text type="annotation">
+    <body>
+      <p>
+        <w xml:id="w1" lemma="le" pos="DETdef" msd="NOMB.=s">L'</w>
+        <w xml:id="w2" lemma="astrologve" pos="NOMpro" msd="NOMB.=s|GENRE=m">ASTROLOGVE</w>
+        <w xml:id="w3" lemma="français" pos="NOMpro" msd="NOMB.=s|GENRE=m">FRANCOIS</w>
+        <pc>.</pc>
+        <w xml:id="w4" lemma="prédisant" pos="VERppa" msd="GENRE=m">PREDISANT</w>
+        <w xml:id="w5" lemma="le" pos="DETint" msd="NOMB.=p|GENRE=m">LES</w>
+        <w xml:id="w6" lemma="événement" pos="NOMpro" msd="NOMB.=p|GENRE=m">EVENEMENS</w>
+        <w xml:id="w7" lemma="singelier" pos="NOMpro" msd="NOMB.=p|GENRE=m">SINGVLIER</w>
+        <w xml:id="w8" lemma="et" pos="CONcoo" msd="MORPH=empty">ET</w>
+        <w xml:id="w9" lemma="vniversel" pos="NOMpro" msd="NOMB.=p|GENRE=m">VNIVERSELS</w>
+        <w xml:id="w10" lemma="un" pos="PRE.DETdef" msd="NOMB.=p">DES</w>
+        <w xml:id="w11" lemma="état" pos="NOMpro" msd="NOMB.=p|GENRE=m">ESTATS</w>
+        <w xml:id="w12" lemma="et" pos="CONcoo" msd="MORPH=empty">ET</w>
+        <w xml:id="w13" lemma="empire" pos="NOMpro" msd="NOMB.=s|GENRE=m">EMPIRES</w>
+        <w xml:id="w14" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">DV</w>
+        <w xml:id="w15" lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">MONDE</w>
+        <pc>.</pc>
+        <w xml:id="w16" lemma="selon" pos="PRE" msd="MORPH=empty">Selon</w>
+        <w xml:id="w17" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w18" lemma="changement" pos="NOMcom" msd="NOMB.=s|GENRE=m">changement</w>
+        <w xml:id="w19" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w20" lemma="globe" pos="NOMpro" msd="NOMB.=p|GENRE=m">Globes</w>
+        <w xml:id="w21" lemma="céleste" pos="NOMpro" msd="NOMB.=p">Celeſtes</w>
+        <w xml:id="w22" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w23" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w24" lemma="année" pos="NOMcom" msd="NOMB.=s|GENRE=f">année</w>
+        <w xml:id="w25" lemma="présent" pos="ADJqua" msd="NOMB.=s|GENRE=f">preſente</w>
+        <w xml:id="w26" lemma="astronomique" pos="ADJord" msd="NOMB.=s|GENRE=m">Aſtronomicque</w>
+        <pc>.</pc>
+        <w xml:id="w27" lemma="à" pos="PRE" msd="MORPH=empty">A</w>
+        <w xml:id="w28" lemma="paris" pos="NOMpro" msd="NOMB.=s">PARIS</w>
+        <w xml:id="w29" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w30" lemma="chez" pos="PRE" msd="MORPH=empty">Chez</w>
+        <w xml:id="w31" lemma="clavde" pos="CONsub" msd="NOMB.=s|GENRE=m">CLAVDE</w>
+        <w xml:id="w32" lemma="morlot" pos="NOMpro" msd="MORPH=empty">MORLOT</w>
+        <w xml:id="w33" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w34" lemma="rue" pos="ADJqua" msd="NOMB.=s|GENRE=m">ruë</w>
+        <w xml:id="w35" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w36" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w37" lemma="bûcherie" pos="NOMpro" msd="NOMB.=s|GENRE=f">Bucherie</w>
+        <w xml:id="w38" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w39" lemma="à_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">aux</w>
+        <w xml:id="w40" lemma="vieux" pos="NOMcom" msd="NOMB.=p|GENRE=f">vieilles</w>
+        <w xml:id="w41" lemma="étu" pos="NOMpro" msd="NOMB.=p|GENRE=f">Eſtuues</w>
+        <pc>.</pc>
+        <w xml:id="w42" lemma="m" pos="NOMcom" msd="NOMB.=s|GENRE=m">M</w>
+        <pc>.</pc>
+        <w xml:id="w43" lemma="dc" pos="ADJcar" msd="NOMB.=s">DC</w>
+        <pc>.</pc>
+        <w xml:id="w44" lemma="XLIX" pos="PROper" msd="NOMB.=s|GENRE=m">XLIX</w>
+        <pc>.</pc>
+        <w xml:id="w45" lemma="avec" pos="PRE" msd="MORPH=empty">AVEC</w>
+        <w xml:id="w46" lemma="permission" pos="NOMpro" msd="NOMB.=s|GENRE=m">PERMISSION</w>
+        <pc>.</pc>
+        <w xml:id="w47" lemma="3" pos="PRE" msd="MORPH=empty">3</w>
+        <w xml:id="w48" lemma="le" pos="DETdef" msd="NOMB.=s">L’</w>
+        <w xml:id="w49" lemma="astrologve" pos="NOMpro" msd="NOMB.=s|GENRE=m">ASTROLOGVE</w>
+        <w xml:id="w50" lemma="français" pos="NOMpro" msd="NOMB.=s|GENRE=m">FRANCOIS</w>
+        <w xml:id="w51" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w52" lemma="prédire" pos="VERppa" msd="MORPH=empty">prediſant</w>
+        <w xml:id="w53" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w54" lemma="euénement" pos="NOMcom" msd="NOMB.=p|GENRE=m">euenemens</w>
+        <w xml:id="w55" lemma="singulier" pos="NOMcom" msd="NOMB.=p|GENRE=m">ſinguliers</w>
+        <w xml:id="w56" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w57" lemma="universel" pos="ADJqua" msd="NOMB.=p|GENRE=m">vniuerſels</w>
+        <w xml:id="w58" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w59" lemma="état" pos="NOMcom" msd="NOMB.=p|GENRE=m">Eſtats</w>
+        <w xml:id="w60" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w61" lemma="empire" pos="NOMcom" msd="NOMB.=p|GENRE=f">Empires</w>
+        <w xml:id="w62" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w63" lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">monde</w>
+        <pc>.</pc>
+        <w xml:id="w64" lemma="selo" pos="VERcjg" msd="NOMB.=s|GENRE=m">Selo</w>
+        <w xml:id="w65" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w66" lemma="changemene" pos="NOMcom" msd="NOMB.=s|GENRE=f">changemene</w>
+        <w xml:id="w67" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+        <w xml:id="w68" lemma="labe" pos="NOMcom" msd="NOMB.=p|GENRE=m">labes</w>
+        <w xml:id="w69" lemma="éleste" pos="ADJqua" msd="NOMB.=p|GENRE=f">eleſtes</w>
+        <pc>.</pc>
+        <w xml:id="w70" lemma="j" pos="NOMcom" msd="NOMB.=s|GENRE=m">J</w>
+        <w xml:id="w71" lemma="experience" pos="NOMpro" msd="NOMB.=s|GENRE=f">EXPERIENCE</w>
+        <w xml:id="w72" lemma="iournaliere" pos="NOMcom" msd="NOMB.=s|GENRE=f">iournaliere</w>
+        <w xml:id="w73" lemma="nous" pos="PROper" msd="PERS.=1|NOMB.=p">nous</w>
+        <w xml:id="w74" lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">fait</w>
+        <w xml:id="w75" lemma="LLvoir" pos="ADVgen" msd="MORPH=empty">LLvoir</w>
+        <w xml:id="w76" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w77" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w78" lemma="ancien" pos="ADJqua" msd="NOMB.=p|GENRE=m">Anciens</w>
+        <w xml:id="w79" lemma="philosophe" pos="NOMcom" msd="NOMB.=p|GENRE=m">Philoſophes</w>
+        <w xml:id="w80" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+        <w xml:id="w81" lemma="avoir" pos="VERppe" msd="NOMB.=s|GENRE=m">eu</w>
+        <w xml:id="w82" lemma="bon" pos="ADJqua" msd="NOMB.=s|GENRE=f">bone</w>
+        <w xml:id="w83" lemma="grâce" pos="NOMcom" msd="NOMB.=s|GENRE=f">grace</w>
+        <w xml:id="w84" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w85" lemma="dire" pos="VERinf" msd="MORPH=empty">dire</w>
+        <w xml:id="w86" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w87" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w88" lemma="cause" pos="NOMcom" msd="NOMB.=p|GENRE=f">Cauſes</w>
+        <w xml:id="w89" lemma="supérieur" pos="NOMcom" msd="NOMB.=p|GENRE=m">ſuperieures</w>
+        <w xml:id="w90" lemma="gouvetner" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">gouuetnent</w>
+        <w xml:id="w91" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w92" lemma="inférieur" pos="NOMcom" msd="NOMB.=p|GENRE=m">inferieures</w>
+        <w xml:id="w93" lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+        <w xml:id="w94" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w95" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w96" lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">ce</w>
+        <w xml:id="w97" lemma="ne" pos="ADVneg" msd="MORPH=empty">n’</w>
+        <w xml:id="w98" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w99" lemma="pas" pos="ADVgen" msd="MORPH=empty">pas</w>
+        <w xml:id="w100" lemma="san" pos="PRE.DETdef" msd="GENRE=m">ſan</w>
+        <w xml:id="w101" lemma="raison" pos="NOMcom" msd="NOMB.=s|GENRE=f">raiſon</w>
+        <w xml:id="w102" lemma="que" pos="CONsub" msd="MORPH=empty">qu’</w>
+        <w xml:id="w103" lemma="un" pos="ADVgen" msd="MORPH=empty">vn</w>
+        <w xml:id="w104" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w105" lemma="nospoète" pos="NOMcom" msd="NOMB.=p|GENRE=f">nosPoëtes</w>
+        <w xml:id="w106" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+        <w xml:id="w107" lemma="dire" pos="VERppe" msd="NOMB.=s|GENRE=m">dit</w>
+        <w xml:id="w108" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w109" lemma="@latin" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">ſtra</w>
+        <w xml:id="w110" lemma="@latin" pos="ADJqua" msd="NOMB.=p|GENRE=m">regunt</w>
+        <w xml:id="w111" lemma="@latin" pos="ADJqua" msd="NOMB.=p|GENRE=f">homines</w>
+        <w xml:id="w112" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w113" lemma="@latin" pos="DETpos" msd="NOMB.=s">ſed</w>
+        <w xml:id="w114" lemma="@latin" pos="ADJqua" msd="NOMB.=s|GENRE=m">Deas</w>
+        <w xml:id="w115" lemma="@latin" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">ftra</w>
+        <w xml:id="w116" lemma="@latin" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">regit</w>
+        <pc>.</pc>
+        <w xml:id="w117" lemma="dans" pos="PRE" msd="MORPH=empty">Dans</w>
+        <w xml:id="w118" lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=m">mon</w>
+        <w xml:id="w119" lemma="astrologie" pos="NOMcom" msd="NOMB.=s|GENRE=f">Aſtrologie</w>
+        <w xml:id="w120" lemma="je" pos="PROper" msd="NOMB.=s|CAS=n">ie</w>
+        <w xml:id="w121" lemma="ne" pos="ADVneg" msd="MORPH=empty">n’</w>
+        <w xml:id="w122" lemma="entendre" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">entends</w>
+        <w xml:id="w123" lemma="point" pos="ADVneg" msd="MORPH=empty">point</w>
+        <w xml:id="w124" lemma="parler" pos="VERinf" msd="MORPH=empty">parler</w>
+        <w xml:id="w125" lemma="de_le" pos="DETndf" msd="NOMB.=p">des</w>
+        <w xml:id="w126" lemma="événement" pos="NOMcom" msd="NOMB.=p|GENRE=f">Euenemens</w>
+        <w xml:id="w127" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w128" lemma="cause" pos="NOMcom" msd="NOMB.=p|GENRE=f">Cauſes</w>
+        <w xml:id="w129" lemma="végétatiues" pos="NOMcom" msd="NOMB.=p|GENRE=f">Vegetatiues</w>
+        <w xml:id="w130" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w131" lemma="sensitiues" pos="NOMpro" msd="NOMB.=p|GENRE=f">Senſitiues</w>
+        <w xml:id="w132" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w133" lemma="ni" pos="CONcoo" msd="MORPH=empty">ny</w>
+        <w xml:id="w134" lemma="aussi" pos="ADVgen" msd="MORPH=empty">auſſi</w>
+        <w xml:id="w135" lemma="de_le" pos="DETndf" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w136" lemma="corps" pos="NOMcom" msd="NOMB.=p|GENRE=m">Corps</w>
+        <w xml:id="w137" lemma="simple" pos="ADJqua" msd="NOMB.=p|GENRE=f">ſimples</w>
+        <w xml:id="w138" lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+        <w xml:id="w139" lemma="si" pos="CONsub" msd="MORPH=empty">Si</w>
+        <w xml:id="w140" lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+        <w xml:id="w141" lemma="excepter" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">exceptez</w>
+        <w xml:id="w142" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w143" lemma="ciel" pos="NOMcom" msd="NOMB.=s|GENRE=m">Ciel</w>
+        <w xml:id="w144" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w145" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w146" lemma="terre" pos="NOMcom" msd="NOMB.=s|GENRE=f">Terre</w>
+        <w xml:id="w147" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w148" lemma="seulement" pos="ADJqua" msd="NOMB.=s|GENRE=m">ſeulemet</w>
+        <w xml:id="w149" lemma="je" pos="PROper" msd="NOMB.=s">ie</w>
+        <w xml:id="w150" lemma="désirer" pos="VERcjg" msd="PERS.=3|NOMB.=s">deſire</w>
+        <w xml:id="w151" lemma="montrer" pos="VERinf" msd="MORPH=empty">monſtrer</w>
+        <w xml:id="w152" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w153" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w154" lemma="bon" pos="ADJqua" msd="NOMB.=s|GENRE=m">bon</w>
+        <w xml:id="w155" lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+        <w xml:id="w156" lemma="heur" pos="NOMcom" msd="NOMB.=s|GENRE=m">heur</w>
+        <w xml:id="w157" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w158" lemma="lépéril" pos="NOMcom" msd="NOMB.=s|GENRE=m">leperil</w>
+        <w xml:id="w159" lemma="désuiller" pos="NOMcom" msd="NOMB.=p|GENRE=f">desVilles</w>
+        <w xml:id="w160" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w161" lemma="un" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w162" lemma="étar" pos="NOMcom" msd="NOMB.=p|GENRE=f">Eſtars</w>
+        <w xml:id="w163" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w164" lemma="un" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w165" lemma="royaume" pos="NOMcom" msd="NOMB.=p|GENRE=f">Royaumes</w>
+        <w xml:id="w166" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w167" lemma="bapire" pos="NOMpro" msd="NOMB.=p|GENRE=f">Bapires</w>
+        <w xml:id="w168" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w169" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w170" lemma="découvrir" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p">deſcouurent</w>
+        <w xml:id="w171" lemma="il" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w172" lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+        <w xml:id="w173" lemma="changement" pos="NOMcom" msd="NOMB.=s|GENRE=m">changement</w>
+        <w xml:id="w174" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w175" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w176" lemma="bon" pos="ADJqua" msd="NOMB.=s|GENRE=f">bonne</w>
+        <w xml:id="w177" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w178" lemma="mauvais" pos="ADJqua" msd="NOMB.=s|GENRE=f">mauuaiſe</w>
+        <w xml:id="w179" lemma="fortune" pos="NOMcom" msd="NOMB.=s|GENRE=f">fortune</w>
+        <w xml:id="w180" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w181" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w182" lemma="grand" pos="ADJqua" msd="NOMB.=p|GENRE=m">grands</w>
+        <w xml:id="w183" lemma="homme" pos="NOMcom" msd="NOMB.=p|GENRE=m">hommes</w>
+        <w xml:id="w184" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w185" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">l’</w>
+        <w xml:id="w186" lemma="univers" pos="NOMcom" msd="NOMB.=s|GENRE=m">Vniuers</w>
+        <pc>.</pc>
+        <w xml:id="w187" lemma="pour" pos="PRE" msd="MORPH=empty">Pour</w>
+        <w xml:id="w188" lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=m">ce</w>
+        <w xml:id="w189" lemma="sujet" pos="NOMcom" msd="NOMB.=s|GENRE=m">ſuject</w>
+        <w xml:id="w190" lemma="je" pos="PROper" msd="PERS.=3|NOMB.=s">ie</w>
+        <w xml:id="w191" lemma="suivre" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s">ſuiuray</w>
+        <w xml:id="w192" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w193" lemma="médode" pos="NOMcom" msd="NOMB.=s|GENRE=f">medode</w>
+        <w xml:id="w194" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+        <w xml:id="w195" lemma="ancien" pos="ADJqua" msd="NOMB.=p|GENRE=f">Anciens</w>
+        <w xml:id="w196" lemma="géographe" pos="NOMcom" msd="NOMB.=p|GENRE=f">Geographes</w>
+        <w xml:id="w197" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w198" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w199" lemma="diviser" pos="VERppa" msd="MORPH=empty">diuiſant</w>
+        <w xml:id="w200" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w201" lemma="clobe" pos="NOMcom" msd="NOMB.=s|GENRE=m">Clobe</w>
+        <w xml:id="w202" lemma="terrestre" pos="NOMcom" msd="NOMB.=s">Terreſtre</w>
+        <w xml:id="w203" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w204" lemma="quatre" pos="DETcar" msd="NOMB.=p">quatre</w>
+        <w xml:id="w205" lemma="partie" pos="NOMcom" msd="NOMB.=p|GENRE=f">parties</w>
+        <pc>.</pc>
+        <w xml:id="w206" lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">C’</w>
+        <w xml:id="w207" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w208" lemma="à" pos="VERppe" msd="NOMB.=s">à̀</w>
+        <w xml:id="w209" lemma="scéauit" pos="VERppe" msd="NOMB.=s|GENRE=m">ſçauit</w>
+        <w xml:id="w210" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w211" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w212" lemma="Europe" pos="NOMpro" msd="NOMB.=s|GENRE=f">Europe</w>
+        <w xml:id="w213" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w214" lemma="Asie" pos="NOMpro" msd="NOMB.=s|GENRE=f">Aſie</w>
+        <w xml:id="w215" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w216" lemma="Afrique" pos="NOMpro" msd="NOMB.=s|GENRE=m">Affrique</w>
+        <w xml:id="w217" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w218" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w219" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w220" lemma="deux" pos="ADJcar" msd="NOMB.=p">deux</w>
+        <w xml:id="w221" lemma="Amériques" pos="NOMpro" msd="NOMB.=p|GENRE=f">Ameriques</w>
+        <pc>.</pc>
+        <w xml:id="w222" lemma="en" pos="PRE" msd="MORPH=empty">En</w>
+        <w xml:id="w223" lemma="premier" pos="ADJord" msd="NOMB.=s|GENRE=m">premier</w>
+        <w xml:id="w224" lemma="lieu" pos="NOMcom" msd="NOMB.=s|GENRE=m">lieu</w>
+        <w xml:id="w225" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w226" lemma="comme" pos="CONsub" msd="MORPH=empty">comme</w>
+        <w xml:id="w227" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w228" lemma="Europe" pos="NOMpro" msd="NOMB.=s|GENRE=f">Europe</w>
+        <w xml:id="w229" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w230" lemma="le" pos="DETdef" msd="NOMB.=s">l</w>
+        <w xml:id="w231" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w232" lemma="noble" pos="ADJqua" msd="NOMB.=s|GENRE=m">noble</w>
+        <w xml:id="w233" lemma="partie" pos="NOMcom" msd="NOMB.=s|GENRE=f">partie</w>
+        <w xml:id="w234" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w235" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">l’</w>
+        <w xml:id="w236" lemma="univets" pos="NOMpro" msd="NOMB.=s|GENRE=m">Vniuets</w>
+        <w xml:id="w237" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w238" lemma="dans" pos="PRE" msd="MORPH=empty">dans</w>
+        <w xml:id="w239" lemma="lequel" pos="PROrel" msd="NOMB.=s|GENRE=f">laquelle</w>
+        <w xml:id="w240" lemma="esne" pos="NOMcom" msd="MODE=ind|PERS.=3|NOMB.=s">eſne</w>
+        <w xml:id="w241" lemma="nous" pos="PROper" msd="PERS.=1|NOMB.=p">nous</w>
+        <w xml:id="w242" lemma="habiter" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=p">habitons</w>
+        <w xml:id="w243" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w244" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+        <w xml:id="w245" lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+        <w xml:id="w246" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">ſera</w>
+        <w xml:id="w247" lemma="pas" pos="ADVgen" msd="MORPH=empty">pas</w>
+        <w xml:id="w248" lemma="hors" pos="ADVgen" msd="MORPH=empty">hors</w>
+        <w xml:id="w249" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w250" lemma="@latin" pos="NOMcom" msd="NOMB.=s|GENRE=m">pro</w>
+        <w xml:id="w251" lemma="@greek" pos="CONcoo" msd="MORPH=empty">¬</w>
+        <w xml:id="w252" lemma="pos" pos="ADJqua" msd="PERS.=1|NOMB.=p|GENRE=m">pos</w>
+        <w xml:id="w253" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w254" lemma="commencer" pos="VERinf" msd="MORPH=empty">commencer</w>
+        <w xml:id="w255" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w256" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=f|CAS=i">elle</w>
+        <w xml:id="w257" lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+        <w xml:id="w258" lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">Vous</w>
+        <w xml:id="w259" lemma="remarquer" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=2|NOMB.=p">remarquerez</w>
+        <w xml:id="w260" lemma="donc" pos="ADVgen" msd="MORPH=empty">donc</w>
+        <w xml:id="w261" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w262" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w263" lemma="terre" pos="NOMcom" msd="NOMB.=s|GENRE=f">terre</w>
+        <w xml:id="w264" lemma="dont" pos="PROrel" msd="MORPH=empty">dont</w>
+        <w xml:id="w265" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w266" lemma="longueur" pos="NOMcom" msd="NOMB.=s|GENRE=f">longueur</w>
+        <w xml:id="w267" lemma="et" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w xml:id="w268" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w269" lemma="trois" pos="DETcar" msd="NOMB.=p">trois</w>
+        <w xml:id="w270" lemma="mille" pos="ADJcar" msd="NOMB.=p|GENRE=f">mille</w>
+        <w xml:id="w271" lemma="trois" pos="ADJcar" msd="NOMB.=p|GENRE=m">trois</w>
+        <w xml:id="w272" lemma="cent" pos="NOMcom" msd="NOMB.=p|GENRE=m">cens</w>
+        <w xml:id="w273" lemma="cinquante" pos="VERppa" msd="NOMB.=p|GENRE=f">cinquante</w>
+        <w xml:id="w274" lemma="lieue" pos="NOMcom" msd="NOMB.=p|GENRE=f">lieues</w>
+        <w xml:id="w275" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w276" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">Sa</w>
+        <w xml:id="w277" lemma="lergeur" pos="NOMcom" msd="NOMB.=s|GENRE=f">lergeur</w>
+        <w xml:id="w278" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w279" lemma="deux" pos="DETcar" msd="NOMB.=p">deux</w>
+        <w xml:id="w280" lemma="mille" pos="ADJcar" msd="NOMB.=p|GENRE=f">mille</w>
+        <w xml:id="w281" lemma="cent" pos="ADJcar" msd="NOMB.=p|GENRE=f">cent</w>
+        <w xml:id="w282" lemma="cinquante" pos="VERppa" msd="NOMB.=s|GENRE=f">cinquante</w>
+        <w xml:id="w283" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w284" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w285" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w286" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w287" lemma="globe" pos="NOMcom" msd="NOMB.=s|GENRE=m">Globe</w>
+        <w xml:id="w288" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w289" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l</w>
+        <w xml:id="w290" lemma="eau" pos="NOMcom" msd="NOMB.=s|GENRE=f">eau</w>
+        <w xml:id="w291" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w292" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w293" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w294" lemma="terre" pos="NOMcom" msd="NOMB.=s|GENRE=f">terre</w>
+        <w xml:id="w295" lemma="ne" pos="ADVneg" msd="MORPH=empty">n’</w>
+        <w xml:id="w296" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+        <w xml:id="w297" lemma="que" pos="ADVgen" msd="MORPH=empty">que</w>
+        <w xml:id="w298" lemma="neuf" pos="DETcar" msd="NOMB.=p|GENRE=m">neuf</w>
+        <w xml:id="w299" lemma="mille" pos="DETcar" msd="NOMB.=p|GENRE=m">mille</w>
+        <w xml:id="w300" lemma="lieue" pos="NOMcom" msd="NOMB.=s|GENRE=m">lieuë</w>
+        <w xml:id="w301" lemma="detour" pos="NOMcom" msd="NOMB.=s|GENRE=m">detour</w>
+        <w xml:id="w302" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w303" lemma="lequel" pos="DETint" msd="NOMB.=s|GENRE=f">lequel</w>
+        <w xml:id="w304" lemma="globe" pos="NOMpro" msd="NOMB.=s|GENRE=m">Globe</w>
+        <w xml:id="w305" lemma="recevoir" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s">reçoit</w>
+        <w xml:id="w306" lemma="non" pos="ADVgen" msd="MORPH=empty">non</w>
+        <w xml:id="w307" lemma="seulement" pos="ADVgen" msd="MORPH=empty">ſeulement</w>
+        <w xml:id="w308" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=f">les</w>
+        <w xml:id="w309" lemma="influencesde" pos="NOMcom" msd="NOMB.=p|GENRE=f">influencesdes</w>
+        <w xml:id="w310" lemma="quarante" pos="VERppa" msd="NOMB.=p|GENRE=f">quarante</w>
+        <w xml:id="w311" lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+        <w xml:id="w312" lemma="huit" pos="DETcar" msd="NOMB.=p|GENRE=m">huit</w>
+        <w xml:id="w313" lemma="constellation" pos="NOMcom" msd="NOMB.=p|GENRE=m">Conſtellations</w>
+        <w xml:id="w314" lemma="céleste" pos="ADJqua" msd="NOMB.=p|GENRE=m">Celeſtes</w>
+        <w xml:id="w315" lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+        <w xml:id="w316" lemma="maisencore" pos="NOMcom" msd="NOMB.=s|GENRE=m">maisencore</w>
+        <w xml:id="w317" lemma="tout" pos="DETind" msd="NOMB.=p|GENRE=m">tous</w>
+        <w xml:id="w318" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w319" lemma="être" pos="NOMpro" msd="NOMB.=p">Eſtres</w>
+        <w xml:id="w320" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w321" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ſont</w>
+        <w xml:id="w322" lemma="produire" pos="VERppe" msd="NOMB.=p|GENRE=m">produits</w>
+        <w xml:id="w323" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w324" lemma="où" pos="PROrel" msd="CAS=i">où</w>
+        <w xml:id="w325" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w326" lemma="y" pos="PROadv" msd="MORPH=empty">y</w>
+        <w xml:id="w327" lemma="vivre" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">viuent</w>
+        <w xml:id="w328" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w329" lemma="si" pos="CONsub" msd="MORPH=empty">ſi</w>
+        <w xml:id="w330" lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+        <w xml:id="w331" lemma="excepter" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p">exceptez</w>
+        <w xml:id="w332" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w333" lemma="âme" pos="NOMcom" msd="NOMB.=s|GENRE=f">Ame</w>
+        <w xml:id="w334" lemma="raisonnable" pos="ADJqua" msd="NOMB.=s|GENRE=m">raiſonnable</w>
+        <w xml:id="w335" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w336" lemma="lequel" pos="PROrel" msd="NOMB.=s|GENRE=f">laquelle</w>
+        <w xml:id="w337" lemma="être" pos="VERppa" msd="MORPH=empty">eſtant</w>
+        <w xml:id="w338" lemma="immatériel" pos="ADJqua" msd="NOMB.=s|GENRE=f">immaterielle</w>
+        <w xml:id="w339" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w340" lemma="incapable" pos="ADJqua" msd="NOMB.=s|GENRE=f">incapable</w>
+        <w xml:id="w341" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w342" lemma="souf" pos="NOMcom" msd="NOMB.=s|GENRE=m">ſouf</w>
+        <w xml:id="w343" lemma="à" pos="CONcoo" msd="MORPH=empty">¬</w>
+        <w xml:id="w344" lemma="frir" pos="VERinf" msd="MORPH=empty">frir</w>
+        <w xml:id="w345" lemma="un" pos="DETndf" msd="NOMB.=p|GENRE=f">des</w>
+        <w xml:id="w346" lemma="passion" pos="NOMcom" msd="NOMB.=p|GENRE=f">paſſions</w>
+        <w xml:id="w347" lemma="étranger" pos="ADJqua" msd="NOMB.=p|GENRE=f">eſtrangeres</w>
+        <pc>.</pc>
+        <w xml:id="w348" lemma="le" pos="DETdef" msd="NOMB.=s">L’</w>
+        <w xml:id="w349" lemma="leuropeestune" pos="NOMcom" msd="NOMB.=s|GENRE=f">LEuropeeſtvne</w>
+        <w xml:id="w350" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+        <w xml:id="w351" lemma="partie" pos="NOMcom" msd="NOMB.=p|GENRE=f">parties</w>
+        <w xml:id="w352" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w353" lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=m">ce</w>
+        <w xml:id="w354" lemma="globe" pos="NOMpro" msd="NOMB.=s|GENRE=m">Globe</w>
+        <w xml:id="w355" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w356" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w357" lemma="contenir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">contient</w>
+        <w xml:id="w358" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w359" lemma="état" pos="NOMcom" msd="NOMB.=p|GENRE=m">Eſtats</w>
+        <w xml:id="w360" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w361" lemma="lesterre" pos="NOMcom" msd="NOMB.=p|GENRE=f">lesterres</w>
+        <w xml:id="w362" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w363" lemma="pape" pos="NOMcom" msd="NOMB.=s|GENRE=m">Pape</w>
+        <w xml:id="w364" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w365" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w366" lemma="roi" pos="NOMcom" msd="NOMB.=s|GENRE=m">Roy</w>
+        <w xml:id="w367" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w368" lemma="France" pos="NOMpro" msd="NOMB.=s|GENRE=f">France</w>
+        <w xml:id="w369" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w370" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w371" lemma="lempereur" pos="NOMcom" msd="NOMB.=s|GENRE=m">lEmpereur</w>
+        <w xml:id="w372" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w373" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w374" lemma="roi" pos="NOMcom" msd="NOMB.=s|GENRE=m">Roy</w>
+        <w xml:id="w375" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w376" lemma="Espagne" pos="NOMpro" msd="NOMB.=s|GENRE=f">Eſpagne</w>
+        <w xml:id="w377" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w378" lemma="un" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+        <w xml:id="w379" lemma="duc" pos="NOMcom" msd="NOMB.=p">Ducs</w>
+        <w xml:id="w380" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w381" lemma="Florence" pos="NOMpro" msd="NOMB.=s">Florence</w>
+        <w xml:id="w382" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w383" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w384" lemma="Venise" pos="NOMpro" msd="NOMB.=s|GENRE=f">Veniſe</w>
+        <w xml:id="w385" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w386" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w387" lemma="Sennes" pos="NOMpro" msd="NOMB.=p|GENRE=f">Sennes</w>
+        <w xml:id="w388" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w389" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w390" lemma="Gennes" pos="NOMpro" msd="NOMB.=p|GENRE=f">Gennes</w>
+        <pc>.</pc>
+        <w xml:id="w391" lemma="comme" pos="CONsub" msd="MORPH=empty">Comme</w>
+        <w xml:id="w392" lemma="aussi" pos="ADVgen" msd="MORPH=empty">auſſi</w>
+        <w xml:id="w393" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=f">des</w>
+        <w xml:id="w394" lemma="roi" pos="NOMcom" msd="NOMB.=p|GENRE=m">Rois</w>
+        <w xml:id="w395" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w396" lemma="Angleterre" pos="NOMpro" msd="NOMB.=s|GENRE=f">Angleterre</w>
+        <w xml:id="w397" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w398" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w399" lemma="Hongrie" pos="NOMpro" msd="NOMB.=s|GENRE=f">Hongrie</w>
+        <w xml:id="w400" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w401" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w402" lemma="Boef" pos="NOMpro" msd="NOMB.=s|GENRE=m">Boëf</w>
+        <pc>.</pc>
+        <w xml:id="w403" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">me</w>
+        <w xml:id="w404" lemma=";" pos="PONfbl" msd="PERS.=1|CAS=r">;</w>
+        <w xml:id="w405" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w406" lemma="portuguez" pos="NOMcom" msd="NOMB.=p|GENRE=m">Portuguez</w>
+        <w xml:id="w407" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w408" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w409" lemma="Pologne" pos="NOMpro" msd="NOMB.=s|GENRE=f">Pologne</w>
+        <w xml:id="w410" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w411" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w412" lemma="Danemark" pos="NOMpro" msd="NOMB.=s|GENRE=m">Dannemarc</w>
+        <w xml:id="w413" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w414" lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+        <w xml:id="w415" lemma="puissance" pos="NOMcom" msd="NOMB.=p|GENRE=f">puiſſances</w>
+        <w xml:id="w416" lemma="suprême" pos="ADJqua" msd="NOMB.=p|GENRE=f">ſuprémes</w>
+        <w xml:id="w417" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+        <w xml:id="w418" lemma="sur" pos="PRE" msd="MORPH=empty">ſur</w>
+        <w xml:id="w419" lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">leur</w>
+        <w xml:id="w420" lemma="domination" pos="NOMcom" msd="NOMB.=s|GENRE=f">domination</w>
+        <w xml:id="w421" lemma="plusieurs" pos="DETind" msd="NOMB.=p">pluſieurs</w>
+        <w xml:id="w422" lemma="grand" pos="ADJqua" msd="NOMB.=p|GENRE=m">grands</w>
+        <w xml:id="w423" lemma="personnage" pos="NOMcom" msd="NOMB.=p|GENRE=m">Perſonnages</w>
+        <pc>.</pc>
+        <w xml:id="w424" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=n">Ie</w>
+        <w xml:id="w425" lemma="prévoir" pos="VERcjg" msd="MODE=ind|PERS.=1|NOMB.=s">preuois</w>
+        <w xml:id="w426" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w427" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w428" lemma="conjjonction" pos="NOMcom" msd="NOMB.=s|GENRE=f">Conijonction</w>
+        <w xml:id="w429" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w430" lemma="Mars" pos="NOMpro" msd="NOMB.=s">Mars</w>
+        <w xml:id="w431" lemma="avec" pos="PRE" msd="MORPH=empty">auecque</w>
+        <w xml:id="w432" lemma="Vénus" pos="VERppe" msd="NOMB.=p|GENRE=m">Venus</w>
+        <w xml:id="w433" lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+        <w xml:id="w434" lemma="à_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">au</w>
+        <w xml:id="w435" lemma="second" pos="ADJord" msd="NOMB.=s|GENRE=m">ſecond</w>
+        <w xml:id="w436" lemma="degré" pos="VERppe" msd="NOMB.=s|GENRE=m">degré</w>
+        <w xml:id="w437" lemma="dubelier" pos="NOMpro" msd="NOMB.=s|GENRE=m">duBelier</w>
+        <w xml:id="w438" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w439" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w440" lemma="bellonne" pos="NOMpro" msd="NOMB.=s">Bellonne</w>
+        <w xml:id="w441" lemma="après" pos="PRE" msd="MORPH=empty">apres</w>
+        <w xml:id="w442" lemma="quelque" pos="DETind" msd="NOMB.=p|GENRE=m">quelques</w>
+        <w xml:id="w443" lemma="assaur" pos="NOMcom" msd="NOMB.=p|GENRE=m">aſſaurs</w>
+        <w xml:id="w444" lemma="que" pos="PROrel" msd="MORPH=empty">qu’</w>
+        <w xml:id="w445" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=f|CAS=n">elle</w>
+        <w xml:id="w446" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">aura</w>
+        <w xml:id="w447" lemma="donner" pos="VERppe" msd="NOMB.=s|GENRE=m">donneé</w>
+        <w xml:id="w448" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w449" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">ſera</w>
+        <w xml:id="w450" lemma="contraindre" pos="VERppe" msd="NOMB.=s|GENRE=f">contrainte</w>
+        <w xml:id="w451" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w452" lemma="faire" pos="VERinf" msd="MORPH=empty">faire</w>
+        <w xml:id="w453" lemma="filer" pos="VERinf" msd="MORPH=empty">filer</w>
+        <w xml:id="w454" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=m">ſon</w>
+        <w xml:id="w455" lemma="bagage" pos="NOMcom" msd="NOMB.=s|GENRE=m">bagage</w>
+        <w xml:id="w456" lemma="ailleurs" pos="ADVgen" msd="MORPH=empty">ailleurs</w>
+        <w xml:id="w457" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w458" lemma="si" pos="CONsub" msd="MORPH=empty">ſi</w>
+        <w xml:id="w459" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=f|CAS=n">elle</w>
+        <w xml:id="w460" lemma="ne" pos="ADVneg" msd="MORPH=empty">n’</w>
+        <w xml:id="w461" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w462" lemma="arrêter" pos="VERppe" msd="NOMB.=s|GENRE=f">arreſtée</w>
+        <w xml:id="w463" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w464" lemma="Angleterre" pos="NOMpro" msd="NOMB.=s|GENRE=f">Angleterre</w>
+        <w xml:id="w465" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w466" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w467" lemma="chez" pos="PRE" msd="MORPH=empty">chez</w>
+        <w xml:id="w468" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w469" lemma="vénitien" pos="NOMcom" msd="NOMB.=p|GENRE=m">Venitiens</w>
+        <w xml:id="w470" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w471" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w472" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w473" lemma="féoide" pos="NOMcom" msd="NOMB.=s|GENRE=f">feoide</w>
+        <w xml:id="w474" lemma="mine" pos="NOMcom" msd="NOMB.=s|GENRE=f">mine</w>
+        <w xml:id="w475" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w476" lemma="Mereure" pos="NOMpro" msd="NOMB.=s|GENRE=m">Mereure</w>
+        <w xml:id="w477" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w478" lemma="plusieurs" pos="DETind" msd="NOMB.=p">pluſieurs</w>
+        <w xml:id="w479" lemma="grand" pos="ADJqua" msd="NOMB.=p|GENRE=m">grands</w>
+        <w xml:id="w480" lemma="personnage" pos="NOMcom" msd="NOMB.=p|GENRE=m">Perſonnages</w>
+        <w xml:id="w481" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p">ſeront</w>
+        <w xml:id="w482" lemma="accuser" pos="VERppe" msd="NOMB.=p|GENRE=m">accuſez</w>
+        <w xml:id="w483" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w484" lemma="péculat" pos="NOMpro" msd="NOMB.=s|GENRE=m">Peculat</w>
+        <w xml:id="w485" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w486" lemma="concussion" pos="NOMpro" msd="NOMB.=p|GENRE=f">Concuſſions</w>
+        <w xml:id="w487" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w488" lemma="quelque" pos="DETind" msd="NOMB.=p|GENRE=m">quelques</w>
+        <w xml:id="w489" lemma="un" pos="NOMcom" msd="NOMB.=p|GENRE=m">vns</w>
+        <w xml:id="w490" lemma="mourir" pos="VERcjg" msd="PERS.=3|NOMB.=p">mourront</w>
+        <w xml:id="w491" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w492" lemma="poison" pos="NOMcom" msd="NOMB.=p|GENRE=f">poiſons</w>
+        <pc>.</pc>
+        <w xml:id="w493" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=n">Ie</w>
+        <w xml:id="w494" lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+        <w xml:id="w495" lemma="pouvoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">puis</w>
+        <w xml:id="w496" lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+        <w xml:id="w497" lemma="réprimer" pos="VERinf" msd="MORPH=empty">reprimer</w>
+        <w xml:id="w498" lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=m">mes</w>
+        <w xml:id="w499" lemma="pensée" pos="NOMcom" msd="NOMB.=p|GENRE=f">penſeées</w>
+        <w xml:id="w500" lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+        <w xml:id="w501" lemma="ni" pos="ADVgen" msd="MORPH=empty">ny</w>
+        <w xml:id="w502" lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=m">mes</w>
+        <w xml:id="w503" lemma="con" pos="NOMcom" msd="NOMB.=s|GENRE=m">con</w>
+        <w xml:id="w504" lemma="@greek" pos="NOMcom" msd="MORPH=empty">¬</w>
+        <w xml:id="w505" lemma="1" pos="PROcar" msd="NOMB.=s">1</w>
+        <w xml:id="w506" lemma="1" pos="PROcar" msd="NOMB.=p">1</w>
+        <w xml:id="w507" lemma="ii" pos="NOMcom" msd="NOMB.=s|GENRE=m">iy</w>
+        <w xml:id="w508" lemma="1" pos="VERppe" msd="MORPH=empty">1</w>
+        <w xml:id="w509" lemma="blément" pos="NOMcom" msd="NOMB.=p|GENRE=m">blement</w>
+        <w xml:id="w510" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+        <w xml:id="w511" lemma="trois" pos="ADJcar" msd="NOMB.=p|GENRE=m">trois</w>
+        <w xml:id="w512" lemma="partie" pos="NOMcom" msd="NOMB.=p|GENRE=f">parties</w>
+        <w xml:id="w513" lemma="quirestent" pos="VERcjg" msd="MODE=ind|TEMPS=pst|NOMB.=p">quireſtent</w>
+        <w xml:id="w514" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w515" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w516" lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">ce</w>
+        <w xml:id="w517" lemma="que" pos="PROrel" msd="MORPH=empty">qu’</w>
+        <w xml:id="w518" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=f|CAS=n">elles</w>
+        <w xml:id="w519" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ſont</w>
+        <w xml:id="w520" lemma="dominer" pos="VERppe" msd="NOMB.=p|GENRE=f">domińes</w>
+        <w xml:id="w521" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w522" lemma="quatre" pos="DETcar" msd="NOMB.=p">quatre</w>
+        <w xml:id="w523" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=f">grande</w>
+        <w xml:id="w524" lemma="puissance" pos="NOMcom" msd="NOMB.=p|GENRE=f">Puiſſances</w>
+        <w xml:id="w525" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w526" lemma="quir" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=p">quiſont</w>
+        <w xml:id="w527" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w528" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w529" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+        <w xml:id="w530" lemma="seigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">Seigneur</w>
+        <w xml:id="w531" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w532" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w533" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+        <w xml:id="w534" lemma="sophy" pos="NOMcom" msd="NOMB.=s|GENRE=m">Sophy</w>
+        <w xml:id="w535" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w536" lemma="Perse" pos="NOMpro" msd="NOMB.=s|GENRE=f">Perſe</w>
+        <w xml:id="w537" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w538" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w539" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+        <w xml:id="w540" lemma="tartare" pos="NOMcom" msd="NOMB.=s|GENRE=m">Tartare</w>
+        <w xml:id="w541" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w542" lemma="le" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r">le</w>
+        <w xml:id="w543" lemma="prêtre" pos="ADJord" msd="NOMB.=s|GENRE=m">Preſtre</w>
+        <w xml:id="w544" lemma="Jean" pos="NOMpro" msd="NOMB.=s|GENRE=m">Iean</w>
+        <pc>.</pc>
+        <w xml:id="w545" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|GENRE=m|CAS=n">Ie</w>
+        <w xml:id="w546" lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+        <w xml:id="w547" lemma="aisséraypas" pos="VERcjg" msd="MODE=ind|PERS.=1|NOMB.=s">aiſſeraypas</w>
+        <w xml:id="w548" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w549" lemma="parler" pos="VERinf" msd="MORPH=empty">parler</w>
+        <w xml:id="w550" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w551" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w552" lemma="distinctement" pos="ADVgen" msd="GENRE=m">diſtinctement</w>
+        <w xml:id="w553" lemma="que" pos="PROrel" msd="MORPH=empty">que</w>
+        <w xml:id="w554" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s">ie</w>
+        <w xml:id="w555" lemma="pouvoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s">pourray</w>
+        <w xml:id="w556" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w557" lemma="si" pos="CONsub" msd="MORPH=empty">Si</w>
+        <w xml:id="w558" lemma="bien" pos="ADVgen" msd="MORPH=empty">bien</w>
+        <w xml:id="w559" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w560" lemma="vous" pos="PROper" msd="PERS.=2|NOMB.=p">vous</w>
+        <w xml:id="w561" lemma="savoir" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=1|NOMB.=p">ſçauray</w>
+        <w xml:id="w562" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w563" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w564" lemma="Asie" pos="NOMcom" msd="NOMB.=s|GENRE=m">Aſie</w>
+        <w xml:id="w565" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w566" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">ſa</w>
+        <w xml:id="w567" lemma="second" pos="ADJord" msd="NOMB.=s|GENRE=f">ſeconde</w>
+        <w xml:id="w568" lemma="partie" pos="NOMcom" msd="NOMB.=s|GENRE=f">partie</w>
+        <w xml:id="w569" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w570" lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">monde</w>
+        <w xml:id="w571" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w572" lemma="environner" pos="VERppe" msd="NOMB.=s|GENRE=f">enuironneée</w>
+        <w xml:id="w573" lemma="presque" pos="ADVgen" msd="MORPH=empty">preſque</w>
+        <w xml:id="w574" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w575" lemma="oute" pos="NOMcom" msd="NOMB.=p|GENRE=f">outes</w>
+        <w xml:id="w576" lemma="par|pard|pars" pos="PRE" msd="NOMB.=p">pars</w>
+        <w xml:id="w577" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w578" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w579" lemma="mer" pos="NOMcom" msd="NOMB.=s|GENRE=f">mer</w>
+        <w xml:id="w580" lemma="oecean" pos="NOMpro" msd="NOMB.=s|GENRE=f">Oeceanne</w>
+        <w xml:id="w581" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w582" lemma="dont" pos="PROrel" msd="MORPH=empty">dont</w>
+        <w xml:id="w583" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w584" lemma="longueur" pos="NOMcom" msd="NOMB.=s|GENRE=f">longueur</w>
+        <w xml:id="w585" lemma="depuis" pos="PRE" msd="MORPH=empty">depuis</w>
+        <w xml:id="w586" lemma="le" pos="DETdef" msd="PERS.=3|NOMB.=s">l’</w>
+        <w xml:id="w587" lemma="orient" pos="NOMcom" msd="NOMB.=p|GENRE=m">Orient</w>
+        <w xml:id="w588" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w589" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">l’</w>
+        <w xml:id="w590" lemma="occident" pos="NOMcom" msd="NOMB.=s|GENRE=m">Occident</w>
+        <w xml:id="w591" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w592" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w593" lemma="dix" pos="DETcar" msd="NOMB.=p|GENRE=f">dix</w>
+        <w xml:id="w594" lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+        <w xml:id="w595" lemma="sept" pos="DETcar" msd="NOMB.=p|GENRE=m">ſept</w>
+        <w xml:id="w596" lemma="cent" pos="NOMcom" msd="NOMB.=p|GENRE=m">cens</w>
+        <w xml:id="w597" lemma="cinquante" pos="VERppa" msd="NOMB.=p|GENRE=m">cinquante</w>
+        <w xml:id="w598" lemma="lieue" pos="NOMcom" msd="NOMB.=p|GENRE=f">lieueës</w>
+        <w xml:id="w599" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w600" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w601" lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=m">ce</w>
+        <w xml:id="w602" lemma="depuis" pos="PRE" msd="MORPH=empty">depuis</w>
+        <w xml:id="w603" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w604" lemma="mer" pos="NOMcom" msd="NOMB.=s|GENRE=f">mer</w>
+        <w xml:id="w605" lemma="noir" pos="ADJcar" msd="NOMB.=s|GENRE=f">Noire</w>
+        <w xml:id="w606" lemma="jusque" pos="PRE" msd="MORPH=empty">iuſques</w>
+        <w xml:id="w607" lemma="el'" pos="PROrel" msd="NOMB.=s|GENRE=m">àl’</w>
+        <w xml:id="w608" lemma="occean" pos="NOMcom" msd="NOMB.=s|GENRE=m">Occean</w>
+        <w xml:id="w609" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w610" lemma="Lachine" pos="NOMpro" msd="NOMB.=s|GENRE=f">Lachine</w>
+        <w xml:id="w611" lemma="orientale" pos="NOMpro" msd="NOMB.=s|GENRE=f">Orientale</w>
+        <w xml:id="w612" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w613" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w614" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">ſa</w>
+        <w xml:id="w615" lemma="largeur" pos="NOMcom" msd="NOMB.=s|GENRE=f">largeur</w>
+        <w xml:id="w616" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w617" lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+        <w xml:id="w618" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w619" lemma="quime" pos="NOMpro" msd="NOMB.=s|GENRE=f">quime</w>
+        <w xml:id="w620" lemma="cent" pos="NOMcom" msd="NOMB.=p|GENRE=m">cens</w>
+        <w xml:id="w621" lemma="cinquante" pos="VERppa" msd="NOMB.=p|GENRE=f">cinquante</w>
+        <w xml:id="w622" lemma="lieue" pos="NOMcom" msd="NOMB.=p|GENRE=m">lieuës</w>
+        <w xml:id="w623" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w624" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w625" lemma="suite" pos="NOMcom" msd="NOMB.=s|GENRE=f">ſuitte</w>
+        <w xml:id="w626" lemma="être" pos="PROper" msd="NOMB.=s">ſui</w>
+        <w xml:id="w627" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w628" lemma="Afrique" pos="NOMpro" msd="NOMB.=s|GENRE=f">Affique</w>
+        <w xml:id="w629" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w630" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w631" lemma="être" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=s">ſeroit</w>
+        <w xml:id="w632" lemma="île" pos="NOMpro" msd="NOMB.=s|GENRE=m">Iſle</w>
+        <w xml:id="w633" lemma="si" pos="CONsub" msd="MORPH=empty">ſi</w>
+        <w xml:id="w634" lemma="un" pos="ADVgen" msd="NOMB.=s">vn</w>
+        <w xml:id="w635" lemma="istine" pos="NOMcom" msd="NOMB.=p|GENRE=m">iſtines</w>
+        <w xml:id="w636" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s">eſtoit</w>
+        <w xml:id="w637" lemma="couper" pos="ADJqua" msd="NOMB.=s|GENRE=m">couppé</w>
+        <w xml:id="w638" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w639" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">ſa</w>
+        <w xml:id="w640" lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+        <w xml:id="w641" lemma="longueur" pos="NOMcom" msd="NOMB.=s|GENRE=f">longueur</w>
+        <w xml:id="w642" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w643" lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+        <w xml:id="w644" lemma="droit" pos="NOMcom" msd="NOMB.=s|GENRE=f">droite</w>
+        <w xml:id="w645" lemma="ligne" pos="NOMcom" msd="NOMB.=s|GENRE=f">ligne</w>
+        <w xml:id="w646" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w647" lemma="165o" pos="PROind" msd="NOMB.=s">165o</w>
+        <pc>.</pc>
+        <w xml:id="w648" lemma="lieue" pos="NOMcom" msd="NOMB.=p|GENRE=m">lieuës</w>
+        <w xml:id="w649" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w650" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w651" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">ſa</w>
+        <w xml:id="w652" lemma="largeur" pos="NOMcom" msd="NOMB.=s|GENRE=f">largeur</w>
+        <w xml:id="w653" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w654" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w655" lemma="depuis" pos="PRE" msd="MORPH=empty">depuis</w>
+        <w xml:id="w656" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w657" lemma="cap" pos="NOMcom" msd="NOMB.=s|GENRE=m">Cap</w>
+        <w xml:id="w658" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w659" lemma="bon" pos="ADJqua" msd="NOMB.=s|GENRE=f">bonne</w>
+        <w xml:id="w660" lemma="espe" pos="NOMcom" msd="NOMB.=s|GENRE=f">Eſpe</w>
+        <w xml:id="w661" lemma="ance" pos="NOMcom" msd="TEMPS=pst|PERS.=3|NOMB.=s">ance</w>
+        <w xml:id="w662" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w663" lemma="jusque" pos="PRE" msd="MORPH=empty">iuſques</w>
+        <w xml:id="w664" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w665" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w666" lemma="mer" pos="NOMcom" msd="NOMB.=s|GENRE=f">Mer</w>
+        <w xml:id="w667" lemma="Méditeranner" pos="VERppe" msd="NOMB.=s|GENRE=f">Mediterannée</w>
+        <w xml:id="w668" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w669" lemma="contenir" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p">contient</w>
+        <w xml:id="w670" lemma="seize" pos="DETcar" msd="NOMB.=p|GENRE=m">ſeize</w>
+        <w xml:id="w671" lemma="cent" pos="NOMcom" msd="NOMB.=p|GENRE=m">cens</w>
+        <w xml:id="w672" lemma="soiant|soie" pos="VERppe" msd="NOMB.=s|GENRE=f">ſoiante</w>
+        <w xml:id="w673" lemma="quinze" pos="DETcar" msd="NOMB.=p|GENRE=m">quinze</w>
+        <w xml:id="w674" lemma="lieue" pos="NOMcom" msd="NOMB.=p|GENRE=m">lieuës</w>
+        <w xml:id="w675" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w676" lemma="ainsi" pos="ADVgen" msd="MORPH=empty">ainſi</w>
+        <w xml:id="w677" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=f|CAS=n">elle</w>
+        <w xml:id="w678" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w679" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w680" lemma="large" pos="ADJqua" msd="NOMB.=s|GENRE=f">large</w>
+        <w xml:id="w681" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w682" lemma="long" pos="ADJqua" msd="NOMB.=s|GENRE=f">longue</w>
+        <w xml:id="w683" lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+        <w xml:id="w684" lemma="en" pos="PRE" msd="MORPH=empty">En</w>
+        <w xml:id="w685" lemma="dernier" pos="ADJord" msd="NOMB.=s|GENRE=m">dernier</w>
+        <w xml:id="w686" lemma="lieu" pos="NOMcom" msd="NOMB.=s|GENRE=m">lieu</w>
+        <w xml:id="w687" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w688" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w689" lemma="Amérique" pos="NOMpro" msd="NOMB.=s|GENRE=f">Amerique</w>
+        <w xml:id="w690" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w691" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w692" lemma="éténéantin" pos="VERcjg" msd="NOMB.=p">eſtneantmoins</w>
+        <w xml:id="w693" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w694" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w695" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=f">grande</w>
+        <w xml:id="w696" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w697" lemma="tout" pos="PROind" msd="NOMB.=p|GENRE=f">toutes</w>
+        <w xml:id="w698" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w699" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w700" lemma="se" pos="PROper" msd="MORPH=empty">s’</w>
+        <w xml:id="w701" lemma="e" pos="PONpxx" msd="MORPH=empty">e</w>
+        <w xml:id="w702" lemma="stendre" pos="NOMcom" msd="TEMPS=pst|NOMB.=s">ſtend</w>
+        <w xml:id="w703" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w704" lemma="septentrion" pos="NOMpro" msd="NOMB.=s|GENRE=m">Septentrion</w>
+        <w xml:id="w705" lemma="vers" pos="PRE" msd="MORPH=empty">vers</w>
+        <w xml:id="w706" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w707" lemma="midi" pos="PROpos" msd="NOMB.=s|GENRE=m">Midy</w>
+        <w xml:id="w708" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w709" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w710" lemma="contenir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">contient</w>
+        <w xml:id="w711" lemma="deux" pos="DETcar" msd="NOMB.=p">deux</w>
+        <w xml:id="w712" lemma="prouince" pos="NOMpro" msd="NOMB.=p|GENRE=f">Prouinces</w>
+        <w xml:id="w713" lemma="seulement" pos="ADVgen" msd="MORPH=empty">ſeulement</w>
+        <w xml:id="w714" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w715" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w716" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ſont</w>
+        <w xml:id="w717" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w718" lemma="perou" pos="NOMcom" msd="NOMB.=s|GENRE=m">Perou</w>
+        <w xml:id="w719" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w720" lemma="Mexicque" pos="NOMpro" msd="MORPH=empty">Mexicque</w>
+        <w xml:id="w721" lemma="joindre" pos="NOMcom" msd="NOMB.=p|GENRE=m">joints</w>
+        <w xml:id="w722" lemma="ensemble" pos="ADVgen" msd="MORPH=empty">enſemble</w>
+        <w xml:id="w723" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w724" lemma="viristine" pos="NOMcom" msd="NOMB.=s|GENRE=f">viriſtine</w>
+        <w xml:id="w725" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w726" lemma="terre" pos="NOMcom" msd="NOMB.=s|GENRE=f">terre</w>
+        <w xml:id="w727" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w728" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+        <w xml:id="w729" lemma="quelque" pos="DETind" msd="NOMB.=p|GENRE=m">quelques</w>
+        <w xml:id="w730" lemma="vingt" pos="DETcar" msd="NOMB.=p|GENRE=m">vingt</w>
+        <w xml:id="w731" lemma="lieue" pos="NOMcom" msd="NOMB.=p|GENRE=m">lieuës</w>
+        <w xml:id="w732" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w733" lemma="large" pos="NOMcom" msd="NOMB.=p|GENRE=m">larges</w>
+        <w xml:id="w734" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w735" lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+        <w xml:id="w736" lemma="deux" pos="ADJcar" msd="NOMB.=p">deux</w>
+        <w xml:id="w737" lemma="1" pos="ADJcar" msd="NOMB.=p">1</w>
+        <w xml:id="w738" lemma="contcepion" pos="NOMcom" msd="NOMB.=p|GENRE=m">contcepions</w>
+        <w xml:id="w739" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w740" lemma="sans" pos="PRE" msd="MORPH=empty">ſans</w>
+        <w xml:id="w741" lemma="parler" pos="VERinf" msd="MORPH=empty">parler</w>
+        <w xml:id="w742" lemma="confnsement" pos="ADVgen" msd="MORPH=empty">confnſement</w>
+        <w xml:id="w743" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <pc>.</pc>
+        <w xml:id="w744" lemma="@latin" pos="NOMcom" msd="NOMB.=s|GENRE=m">enſem</w>
+        <w xml:id="w745" lemma="@latin" pos="VERcjg" msd="PERS.=3|NOMB.=p">ant</w>
+        <w xml:id="w746" lemma="renommée" pos="VERppe" msd="NOMB.=p|GENRE=f">renommé́es</w>
+        <w xml:id="w747" lemma="prousince" pos="NOMpro" msd="NOMB.=p|GENRE=f">Prousinces</w>
+        <w xml:id="w748" lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+        <w xml:id="w749" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">l’</w>
+        <w xml:id="w750" lemma="or" pos="NOMcom" msd="NOMB.=s|GENRE=m">or</w>
+        <w xml:id="w751" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w752" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w753" lemma="argent" pos="NOMcom" msd="NOMB.=s|GENRE=m">argent</w>
+        <w xml:id="w754" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w755" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w756" lemma="autre" pos="DETind" msd="NOMB.=p">autres</w>
+        <w xml:id="w757" lemma="chose" pos="NOMcom" msd="NOMB.=p|GENRE=f">choſes</w>
+        <w xml:id="w758" lemma="précieux" pos="ADJqua" msd="NOMB.=p|GENRE=f">precieuſes</w>
+        <w xml:id="w759" lemma="que" pos="PROrel" msd="MORPH=empty">qu’</w>
+        <w xml:id="w760" lemma="on" pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">on</w>
+        <w xml:id="w761" lemma="en" pos="PROadv" msd="MORPH=empty">en</w>
+        <w xml:id="w762" lemma="apporter" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">apporte</w>
+        <w xml:id="w763" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w764" lemma="notre" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=f">noſtre</w>
+        <w xml:id="w765" lemma="Europe" pos="NOMpro" msd="NOMB.=s|GENRE=f">Europe</w>
+        <w xml:id="w766" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w767" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+        <w xml:id="w768" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w769" lemma="longueur" pos="NOMcom" msd="NOMB.=s|GENRE=f">longueur</w>
+        <w xml:id="w770" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w771" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w772" lemma="occident" pos="NOMcom" msd="NOMB.=s|GENRE=m">Occident</w>
+        <w xml:id="w773" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w774" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w775" lemma="orient" pos="NOMcom" msd="NOMB.=s|GENRE=m">Orient</w>
+        <w xml:id="w776" lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+        <w xml:id="w777" lemma="savoir" pos="VERinf" msd="MORPH=empty">Scauoir</w>
+        <w xml:id="w778" lemma="celui" pos="PROdem" msd="NOMB.=s|GENRE=f">celle</w>
+        <w xml:id="w779" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w780" lemma="Mexicque" pos="NOMpro" msd="MORPH=empty">Mexicque</w>
+        <w xml:id="w781" lemma="deux" pos="ADJcar" msd="NOMB.=p">deux</w>
+        <w xml:id="w782" lemma="mille" pos="ADJcar" msd="NOMB.=p|GENRE=f">mille</w>
+        <w xml:id="w783" lemma="b" pos="NOMpro" msd="GENRE=m">B</w>
+        <w xml:id="w784" lemma="aufeens" pos="VERcjg" msd="PERS.=1|NOMB.=p">eufeens</w>
+        <w xml:id="w785" lemma="lieue" pos="ADJqua" msd="NOMB.=p|GENRE=f">lieuës</w>
+        <w xml:id="w786" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w787" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w788" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w789" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w790" lemma="argueur" pos="NOMcom" msd="NOMB.=s|GENRE=f">argueur</w>
+        <w xml:id="w791" lemma="quini" pos="NOMpro" msd="NOMB.=s">quinie</w>
+        <w xml:id="w792" lemma="céet" pos="PROper" msd="PERS.=2|NOMB.=p">cẽs</w>
+        <w xml:id="w793" lemma="lieue" pos="VERcjg" msd="MODE=ind|TEMPS=pst|NOMB.=p">lieũs</w>
+        <w xml:id="w794" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w795" lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+        <w xml:id="w796" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w797" lemma="longueur" pos="NOMcom" msd="NOMB.=s|GENRE=f">longueur</w>
+        <w xml:id="w798" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w799" lemma="perou" pos="NOMpro" msd="NOMB.=s|GENRE=m">Perou</w>
+        <w xml:id="w800" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w801" lemma="il" pos="PROimp" msd="PERS.=0|NOMB.=s|GENRE=m|CAS=n">il</w>
+        <w xml:id="w802" lemma="y" pos="PROadv" msd="MORPH=empty">y</w>
+        <w xml:id="w803" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+        <w xml:id="w804" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w805" lemma="un" pos="DETndf" msd="NOMB.=s|GENRE=f">vne</w>
+        <w xml:id="w806" lemma="mer" pos="NOMcom" msd="NOMB.=s">mer</w>
+        <w xml:id="w807" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w808" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w809" lemma="autreancorre" pos="NOMcom" msd="NOMB.=s|GENRE=f">autreencore</w>
+        <w xml:id="w810" lemma="quiné" pos="NOMpro" msd="NOMB.=s|GENRE=m">quine</w>
+        <w xml:id="w811" lemma="cent" pos="DETind" msd="NOMB.=p|GENRE=m">cens</w>
+        <w xml:id="w812" lemma="lieue" pos="NOMcom" msd="NOMB.=p|GENRE=m">lieuës</w>
+        <w xml:id="w813" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w814" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w815" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w816" lemma="largeur" pos="NOMcom" msd="NOMB.=s|GENRE=m">largeur</w>
+        <w xml:id="w817" lemma="seize" pos="DETcar" msd="NOMB.=p|GENRE=m">ſeize</w>
+        <w xml:id="w818" lemma="cent" pos="VERppe" msd="NOMB.=p|GENRE=m">cen6</w>
+        <w xml:id="w819" lemma="lieue" pos="NOMcom" msd="NOMB.=p|GENRE=m">lieuës</w>
+        <w xml:id="w820" lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+        <w xml:id="w821" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w822" lemma="sorte" pos="NOMcom" msd="NOMB.=s|GENRE=f">ſorte</w>
+        <w xml:id="w823" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w824" lemma="supputer" pos="VERppa" msd="MORPH=empty">ſupputant</w>
+        <w xml:id="w825" lemma="tout" pos="DETind" msd="NOMB.=p|GENRE=f">toutes</w>
+        <w xml:id="w826" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=f">les</w>
+        <w xml:id="w827" lemma="terre" pos="NOMcom" msd="NOMB.=p|GENRE=f">terres</w>
+        <w xml:id="w828" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w829" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ſont</w>
+        <w xml:id="w830" lemma="en_le" pos="VERppe" msd="NOMB.=s|GENRE=m">és</w>
+        <w xml:id="w831" lemma="Inde" pos="NOMpro" msd="NOMB.=p|GENRE=f">Indes</w>
+        <w xml:id="w832" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w833" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w834" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w835" lemma="appartenir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">appartiennent</w>
+        <w xml:id="w836" lemma="à_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">au</w>
+        <w xml:id="w837" lemma="roi" pos="NOMcom" msd="NOMB.=s|GENRE=m">Roy</w>
+        <w xml:id="w838" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w839" lemma="Espagne" pos="NOMpro" msd="NOMB.=s|GENRE=f">Eſpagne</w>
+        <w xml:id="w840" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w841" lemma="sans" pos="PRE" msd="MORPH=empty">ſans</w>
+        <w xml:id="w842" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w843" lemma="île" pos="NOMcom" msd="NOMB.=p|GENRE=m">Iſles</w>
+        <w xml:id="w844" lemma="que" pos="PROrel" msd="MORPH=empty">que</w>
+        <w xml:id="w845" lemma="je" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">i’</w>
+        <w xml:id="w846" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">ay</w>
+        <w xml:id="w847" lemma="ci" pos="ADVgen" msd="MORPH=empty">ci</w>
+        <w xml:id="w848" lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+        <w xml:id="w849" lemma="dessus" pos="ADVgen" msd="MORPH=empty">deſſus</w>
+        <w xml:id="w850" lemma="nommeer" pos="VERppe" msd="NOMB.=s|GENRE=m">nommeé</w>
+        <w xml:id="w851" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w852" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w853" lemma="tou" pos="PROind" msd="NOMB.=s|GENRE=m">tou</w>
+        <w xml:id="w854" lemma="@greek" pos="NOMcom" msd="MORPH=empty">¬</w>
+        <pc>!</pc>
+        <w xml:id="w855" lemma="rte" pos="VERcjg" msd="NOMB.=p">rtes</w>
+        <w xml:id="w856" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w857" lemma="autre" pos="ADJind" msd="NOMB.=p">autres</w>
+        <w xml:id="w858" lemma="lle" pos="ADJind" msd="NOMB.=p|GENRE=f">lſles</w>
+        <w xml:id="w859" lemma="que" pos="PROrel" msd="MORPH=empty">qu’</w>
+        <w xml:id="w860" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+        <w xml:id="w861" lemma="posséder" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">poſſede</w>
+        <w xml:id="w862" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w863" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w864" lemma="un" pos="NOMcom" msd="NOMB.=s|GENRE=f">vne</w>
+        <w xml:id="w865" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w866" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w867" lemma="autre" pos="ADJind" msd="NOMB.=s|GENRE=m">autre</w>
+        <w xml:id="w868" lemma="mer" pos="NOMcom" msd="NOMB.=s|GENRE=m">mer</w>
+        <w xml:id="w869" lemma=":" pos="PONfbl" msd="MORPH=empty">:</w>
+        <w xml:id="w870" lemma="on" pos="PROind" msd="PERS.=3|NOMB.=s|CAS=n">On</w>
+        <w xml:id="w871" lemma="voir" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">verra</w>
+        <w xml:id="w872" lemma="que" pos="CONsub" msd="MORPH=empty">qu’</w>
+        <w xml:id="w873" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w874" lemma="bon" pos="ADJqua" msd="NOMB.=s|GENRE=m">bon</w>
+        <w xml:id="w875" lemma="droit" pos="NOMcom" msd="NOMB.=s">droict</w>
+        <w xml:id="w876" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s">ie</w>
+        <w xml:id="w877" lemma="soutenir" pos="VERcjg" msd="PERS.=1|NOMB.=p|GENRE=m">ſouſtiens</w>
+        <w xml:id="w878" lemma="que" pos="CONsub" msd="MORPH=empty">qu’</w>
+        <w xml:id="w879" lemma="ilest" pos="VERcjg" msd="MODE=ind|TEMPS=pst|NOMB.=s">ileſt</w>
+        <w xml:id="w880" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w881" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w882" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+        <w xml:id="w883" lemma="terrien" pos="NOMcom" msd="NOMB.=s|GENRE=m">terrien</w>
+        <w xml:id="w884" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w885" lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">monde</w>
+        <w xml:id="w886" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w887" lemma="dont" pos="PROrel" msd="CAS=i">dont</w>
+        <w xml:id="w888" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w889" lemma="centre" pos="NOMcom" msd="NOMB.=s|GENRE=m">centre</w>
+        <w xml:id="w890" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w891" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w892" lemma="milieu" pos="NOMcom" msd="NOMB.=s|GENRE=m">milieu</w>
+        <w xml:id="w893" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w894" lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+        <w xml:id="w895" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w896" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w897" lemma="ville" pos="NOMcom" msd="NOMB.=s|GENRE=f">Ville</w>
+        <w xml:id="w898" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w899" lemma="ierusalem" pos="NOMpro" msd="NOMB.=s|GENRE=m">Ieruſalem</w>
+        <w xml:id="w900" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w901" lemma="où" pos="PROrel" msd="CAS=i">où</w>
+        <w xml:id="w902" lemma="tout" pos="DETind" msd="NOMB.=p|GENRE=f">toutes</w>
+        <w xml:id="w903" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w904" lemma="nuit" pos="NOMcom" msd="NOMB.=p|GENRE=m">nuicts</w>
+        <w xml:id="w905" lemma="selon" pos="PRE" msd="MORPH=empty">ſelon</w>
+        <w xml:id="w906" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w907" lemma="fidèle" pos="ADJqua" msd="NOMB.=s|GENRE=m">fidel</w>
+        <w xml:id="w908" lemma="rapport" pos="NOMcom" msd="NOMB.=s|GENRE=m">rapport</w>
+        <w xml:id="w909" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w910" lemma="pèlerin" pos="NOMcom" msd="NOMB.=p|GENRE=m">pelerins</w>
+        <w xml:id="w911" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w912" lemma="paraître" pos="VERinf" msd="MORPH=empty">paroiſtà</w>
+        <w xml:id="w913" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w914" lemma="minuit" pos="NOMcom" msd="NOMB.=s|GENRE=f">minuit</w>
+        <w xml:id="w915" lemma="un" pos="ADVgen" msd="NOMB.=s">vn</w>
+        <w xml:id="w916" lemma="commette" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">comette</w>
+        <w xml:id="w917" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w918" lemma="un" pos="DETndf" msd="NOMB.=s|GENRE=f">vne</w>
+        <w xml:id="w919" lemma="ennorme" pos="ADJqua" msd="NOMB.=s|GENRE=f">énorme</w>
+        <w xml:id="w920" lemma="grandeur" pos="NOMcom" msd="NOMB.=s|GENRE=f">grandeur</w>
+        <w xml:id="w921" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w922" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w923" lemma="sembler" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">ſemble</w>
+        <w xml:id="w924" lemma="avoir" pos="VERinf" msd="MORPH=empty">auoir</w>
+        <w xml:id="w925" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w926" lemma="tête" pos="NOMcom" msd="NOMB.=s|GENRE=f">teſte</w>
+        <w xml:id="w927" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w928" lemma="un" pos="ADVgen" msd="MORPH=empty">vn</w>
+        <w xml:id="w929" lemma="éléphant" pos="NOMpro" msd="NOMB.=s|GENRE=m">Elephant</w>
+        <w xml:id="w930" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w931" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w932" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w933" lemma="queue" pos="PROrel" msd="MORPH=empty">queuë</w>
+        <w xml:id="w934" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w935" lemma="vnaragon" pos="NOMcom" msd="NOMB.=s|GENRE=m">vnDragon</w>
+        <w xml:id="w936" lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+        <w xml:id="w937" lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=m">ce</w>
+        <w xml:id="w938" lemma="métheore" pos="NOMcom" msd="NOMB.=s|GENRE=m">metheore</w>
+        <w xml:id="w939" lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+        <w xml:id="w940" lemma="disparaître" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=s">diſparoiſt</w>
+        <w xml:id="w941" lemma="point" pos="ADVneg" msd="MORPH=empty">point</w>
+        <w xml:id="w942" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w943" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w944" lemma="ord" pos="NOMcom" msd="MORPH=empty">ors</w>
+        <w xml:id="w945" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w946" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w947" lemma="Aurore" pos="NOMcom" msd="NOMB.=s|GENRE=m">Aurore</w>
+        <w xml:id="w948" lemma="commencer" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">commence</w>
+        <w xml:id="w949" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w950" lemma="poindre" pos="VERinf" msd="MORPH=empty">poindre</w>
+        <w xml:id="w951" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w952" lemma="alorsil" pos="ADJqua" msd="NOMB.=s|GENRE=m">alorsil</w>
+        <w xml:id="w953" lemma="courir" pos="VERcjg" msd="NOMB.=s">court</w>
+        <w xml:id="w954" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w955" lemma="vite" pos="ADJqua" msd="NOMB.=s">viſte</w>
+        <w xml:id="w956" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w957" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w958" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w959" lemma="haut" pos="ADJqua" msd="NOMB.=s|GENRE=f">haute</w>
+        <w xml:id="w960" lemma="région" pos="NOMcom" msd="NOMB.=s|GENRE=f">region</w>
+        <w xml:id="w961" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w962" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">l’</w>
+        <w xml:id="w963" lemma="air" pos="NOMcom" msd="NOMB.=s|GENRE=m">air</w>
+        <w xml:id="w964" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w965" lemma="que" pos="CONsub" msd="MORPH=empty">qu’</w>
+        <w xml:id="w966" lemma="un" pos="DETndf" msd="MORPH=empty">vn</w>
+        <w xml:id="w967" lemma="tigre" pos="NOMpro" msd="NOMB.=s|GENRE=m">Tigre</w>
+        <w xml:id="w968" lemma="désespéréparmir" pos="VERcjg" msd="NOMB.=s|GENRE=m">deſeſperéparmy</w>
+        <w xml:id="w969" lemma="notre" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=f">nos</w>
+        <w xml:id="w970" lemma="campagne" pos="NOMcom" msd="NOMB.=p|GENRE=f">campagnes</w>
+        <pc>.</pc>
+        <w xml:id="w971" lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=n">Ce</w>
+        <w xml:id="w972" lemma="prodige" pos="NOMcom" msd="NOMB.=s|GENRE=m">prodige</w>
+        <w xml:id="w973" lemma="nous" pos="PROper" msd="PERS.=1|NOMB.=p">nous</w>
+        <w xml:id="w974" lemma="témoigner" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">teſmoigne</w>
+        <w xml:id="w975" lemma="assez" pos="ADVgen" msd="MORPH=empty">aſſez</w>
+        <w xml:id="w976" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w977" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w978" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w979" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+        <w xml:id="w980" lemma="part" pos="NOMcom" msd="NOMB.=s|GENRE=f">part</w>
+        <w xml:id="w981" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w982" lemma="peuple" pos="NOMcom" msd="NOMB.=p|GENRE=m">peuples</w>
+        <w xml:id="w983" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">doiuent</w>
+        <w xml:id="w984" lemma="être" pos="VERinf" msd="MORPH=empty">eſtre</w>
+        <w xml:id="w985" lemma="châtier" pos="NOMcom" msd="NOMB.=p|GENRE=f">chaſtiés</w>
+        <w xml:id="w986" lemma="parde" pos="ADJqua" msd="NOMB.=s">parde</w>
+        <w xml:id="w987" lemma="fléau" pos="NOMcom" msd="NOMB.=s|GENRE=m">fleau</w>
+        <w xml:id="w988" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w989" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w990" lemma="guerre" pos="NOMcom" msd="NOMB.=s|GENRE=f">guerre</w>
+        <w xml:id="w991" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w992" lemma="un" pos="NOMcom" msd="NOMB.=p|GENRE=m">vns</w>
+        <w xml:id="w993" lemma="après" pos="PRE" msd="MORPH=empty">apres</w>
+        <w xml:id="w994" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w995" lemma="autre" pos="PROind" msd="NOMB.=p|GENRE=m">autres</w>
+        <w xml:id="w996" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w997" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w998" lemma="principal" pos="ADJqua" msd="NOMB.=s|GENRE=m">principale</w>
+        <w xml:id="w999" lemma="@greek" pos="NOMpro" msd="MORPH=empty">¬</w>
+        <w xml:id="w1000" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1001" lemma="mentir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ment</w>
+        <w xml:id="w1002" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1003" lemma="iafidèle" pos="NOMcom" msd="NOMB.=p|GENRE=f">Iafidelles</w>
+        <w xml:id="w1004" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1005" lemma="idolâtre" pos="NOMcom" msd="NOMB.=p|GENRE=f">Idolatres</w>
+        <w xml:id="w1006" lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+        <w xml:id="w1007" lemma="car" pos="CONcoo" msd="MORPH=empty">car</w>
+        <w xml:id="w1008" lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">ce</w>
+        <w xml:id="w1009" lemma="ne" pos="ADVneg" msd="MORPH=empty">n’</w>
+        <w xml:id="w1010" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w1011" lemma="pas" pos="ADVgen" msd="MORPH=empty">pas</w>
+        <w xml:id="w1012" lemma="sans" pos="PRE" msd="MORPH=empty">ſans</w>
+        <w xml:id="w1013" lemma="mystère" pos="NOMcom" msd="NOMB.=s|GENRE=f">miſtere</w>
+        <w xml:id="w1014" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1015" lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=m">ce</w>
+        <w xml:id="w1016" lemma="signe" pos="NOMcom" msd="NOMB.=s|GENRE=m">ſigne</w>
+        <w xml:id="w1017" lemma="épouvantable" pos="ADJqua" msd="NOMB.=s|GENRE=m">eſpouuantable</w>
+        <w xml:id="w1018" lemma="paraître" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s">paroiſt</w>
+        <w xml:id="w1019" lemma="dans" pos="PRE" msd="MORPH=empty">dans</w>
+        <w xml:id="w1020" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1021" lemma="milieu" pos="NOMcom" msd="NOMB.=s|GENRE=m">milieu</w>
+        <w xml:id="w1022" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w1023" lemma="nation" pos="NOMcom" msd="NOMB.=p|GENRE=m">Nations</w>
+        <w xml:id="w1024" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w1025" lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">monde</w>
+        <w xml:id="w1026" lemma="selon" pos="PRE" msd="MORPH=empty">ſelon</w>
+        <w xml:id="w1027" lemma="eechiel" pos="NOMpro" msd="NOMB.=s|GENRE=m">Eechiel</w>
+        <w xml:id="w1028" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1029" lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+        <w xml:id="w1030" lemma="nous" pos="PROper" msd="PERS.=1|NOMB.=p">nous</w>
+        <w xml:id="w1031" lemma="apprendre" pos="VERinf" msd="MORPH=empty">apprendre</w>
+        <w xml:id="w1032" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1033" lemma="Dieu" pos="NOMpro" msd="NOMB.=s|GENRE=m">Dieu</w>
+        <w xml:id="w1034" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|CAS=r">les</w>
+        <w xml:id="w1035" lemma="vouloir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">veut</w>
+        <w xml:id="w1036" lemma="tout" pos="DETind" msd="NOMB.=p|GENRE=f">toutes</w>
+        <w xml:id="w1037" lemma="châtier" pos="NOMcom" msd="NOMB.=s|GENRE=m">chaſtier</w>
+        <w xml:id="w1038" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1039" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1040" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w1041" lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=m">ce</w>
+        <w xml:id="w1042" lemma="que" pos="PROrel" msd="MORPH=empty">que</w>
+        <w xml:id="w1043" lemma="selon" pos="PRE" msd="MORPH=empty">ſelon</w>
+        <w xml:id="w1044" lemma="Dauid" pos="NOMpro" msd="NOMB.=s|GENRE=m">Dauid</w>
+        <w xml:id="w1045" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1046" lemma="salut" pos="NOMcom" msd="TEMPS=pst|NOMB.=s|GENRE=m">ſalut</w>
+        <w xml:id="w1047" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w1048" lemma="homme" pos="NOMcom" msd="NOMB.=p|GENRE=m">hommes</w>
+        <w xml:id="w1049" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s">fut</w>
+        <w xml:id="w1050" lemma="faire" pos="VERppe" msd="NOMB.=s|GENRE=m">fait</w>
+        <w xml:id="w1051" lemma="à_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">au</w>
+        <w xml:id="w1052" lemma="milieu" pos="NOMcom" msd="NOMB.=s|GENRE=m">milieu</w>
+        <w xml:id="w1053" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1054" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w1055" lemma="terre" pos="NOMcom" msd="NOMB.=s|GENRE=f">terre</w>
+        <w xml:id="w1056" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1057" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w1058" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w1059" lemma="blierusalen" pos="NOMcom" msd="NOMB.=s|GENRE=f">blieruſalen</w>
+        <w xml:id="w1060" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1061" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+        <w xml:id="w1062" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w1063" lemma="aussi" pos="ADVgen" msd="MORPH=empty">auſſi</w>
+        <w xml:id="w1064" lemma="expédient" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">expedient</w>
+        <w xml:id="w1065" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1066" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1067" lemma="signal" pos="NOMcom" msd="NOMB.=s|GENRE=m">ſignal</w>
+        <w xml:id="w1068" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1069" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">ſa</w>
+        <w xml:id="w1070" lemma="colère" pos="NOMcom" msd="NOMB.=s|GENRE=f">colere</w>
+        <w xml:id="w1071" lemma="paraître" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">paroiſſe</w>
+        <w xml:id="w1072" lemma="à_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">au</w>
+        <w xml:id="w1073" lemma="même" pos="ADJind" msd="NOMB.=s|GENRE=m">meſme</w>
+        <w xml:id="w1074" lemma="endroit" pos="NOMcom" msd="NOMB.=s|GENRE=m">endroit</w>
+        <w xml:id="w1075" lemma="où" pos="PROrel" msd="NOMB.=s|CAS=i">oùu</w>
+        <w xml:id="w1076" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+        <w xml:id="w1077" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+        <w xml:id="w1078" lemma="prodiguer" pos="ADJqua" msd="NOMB.=s|GENRE=m">prodigué</w>
+        <w xml:id="w1079" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <pc>.</pc>
+        <w xml:id="w1080" lemma="1" pos="INJ" msd="MORPH=empty">1</w>
+        <w xml:id="w1081" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">ſa</w>
+        <w xml:id="w1082" lemma="charité" pos="NOMcom" msd="NOMB.=s|GENRE=f">charité</w>
+        <w xml:id="w1083" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1084" lemma="davantage" pos="ADVgen" msd="MORPH=empty">Dauantage</w>
+        <w xml:id="w1085" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=f">les</w>
+        <w xml:id="w1086" lemma="abîme" pos="NOMcom" msd="NOMB.=p|GENRE=f">abyſmes</w>
+        <w xml:id="w1087" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m">des</w>
+        <w xml:id="w1088" lemma="feu" pos="NOMcom" msd="NOMB.=p|GENRE=m">feux</w>
+        <w xml:id="w1089" lemma="souslerain" pos="ADJqua" msd="NOMB.=p|GENRE=m">ſouſlerains</w>
+        <w xml:id="w1090" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1091" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1092" lemma="tremblement" pos="NOMcom" msd="NOMB.=p|GENRE=m">tremblemens</w>
+        <w xml:id="w1093" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1094" lemma="terre" pos="NOMcom" msd="NOMB.=s|GENRE=f">terre</w>
+        <w xml:id="w1095" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1096" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w1097" lemma="chute" pos="NOMcom" msd="NOMB.=s|GENRE=f">cheute</w>
+        <w xml:id="w1098" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=f">des</w>
+        <w xml:id="w1099" lemma="montagne" pos="NOMcom" msd="NOMB.=p|GENRE=f">montagnes</w>
+        <w xml:id="w1100" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1101" lemma="confirmer" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p">confirment</w>
+        <w xml:id="w1102" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1103" lemma="pronostication" pos="NOMcom" msd="NOMB.=p|GENRE=m">pronoſtications</w>
+        <w xml:id="w1104" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1105" lemma="mon" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=f">mon</w>
+        <w xml:id="w1106" lemma="astrologie" pos="NOMpro" msd="NOMB.=s|GENRE=f">Aſtrologie</w>
+        <w xml:id="w1107" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1108" lemma="tirer" pos="NOMcom" msd="NOMB.=p|GENRE=f">tiré́es</w>
+        <w xml:id="w1109" lemma="un" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+        <w xml:id="w1110" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w1111" lemma="grand" pos="ADJqua" msd="NOMB.=p|GENRE=m">grands</w>
+        <w xml:id="w1112" lemma="auteur" pos="NOMcom" msd="NOMB.=p|GENRE=m">Autheurs</w>
+        <w xml:id="w1113" lemma="quipar" pos="NOMcom" msd="NOMB.=s|GENRE=m">quipar</w>
+        <w xml:id="w1114" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=f">les</w>
+        <w xml:id="w1115" lemma="phénomène" pos="NOMcom" msd="NOMB.=p|GENRE=f">Phenomenes</w>
+        <w xml:id="w1116" lemma="ou" pos="CONcoo" msd="MORPH=empty">ou</w>
+        <w xml:id="w1117" lemma="apparition" pos="NOMcom" msd="NOMB.=p|GENRE=f">apparitions</w>
+        <w xml:id="w1118" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=p">des</w>
+        <w xml:id="w1119" lemma="astre" pos="NOMcom" msd="NOMB.=p|GENRE=m">Aſtres</w>
+        <w xml:id="w1120" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w1121" lemma="se" pos="PROper" msd="PERS.=3">ſe</w>
+        <w xml:id="w1122" lemma="sélèbrer" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ſelebrent</w>
+        <w xml:id="w1123" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w1124" lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+        <w xml:id="w1125" lemma="quartier" pos="NOMcom" msd="NOMB.=p|GENRE=m">quartiers</w>
+        <w xml:id="w1126" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">m’</w>
+        <w xml:id="w1127" lemma="apprendre" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">aprenennent</w>
+        <w xml:id="w1128" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1129" lemma="laguerre" pos="NOMcom" msd="NOMB.=s|GENRE=f">laguerre</w>
+        <w xml:id="w1130" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">doit</w>
+        <w xml:id="w1131" lemma="quitter" pos="VERinf" msd="MORPH=empty">quitter</w>
+        <w xml:id="w1132" lemma="entièrement" pos="ADVgen" msd="MORPH=empty">entierement</w>
+        <w xml:id="w1133" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w1134" lemma="Europe" pos="NOMpro" msd="NOMB.=s|GENRE=f">Europe</w>
+        <w xml:id="w1135" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1136" lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+        <w xml:id="w1137" lemma="ruiner" pos="VERinf" msd="MORPH=empty">ruiner</w>
+        <w xml:id="w1138" lemma="entièrement" pos="ADVgen" msd="MORPH=empty">entierement</w>
+        <w xml:id="w1139" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1140" lemma="trois" pos="ADJcar" msd="NOMB.=p|GENRE=m">trois</w>
+        <w xml:id="w1141" lemma="autre" pos="ADJind" msd="NOMB.=p|GENRE=f">autres</w>
+        <w xml:id="w1142" lemma="partie" pos="NOMcom" msd="NOMB.=p|GENRE=f">parties</w>
+        <w xml:id="w1143" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1144" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w1145" lemma="lris" pos="NOMcom" msd="NOMB.=s|GENRE=m">lris</w>
+        <w xml:id="w1146" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1147" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w1148" lemma="colombe" pos="NOMcom" msd="NOMB.=s|GENRE=f">Colombe</w>
+        <w xml:id="w1149" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w1150" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p">eſtoient</w>
+        <w xml:id="w1151" lemma="familier" pos="ADJqua" msd="NOMB.=p|GENRE=m">familieres</w>
+        <w xml:id="w1152" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w1153" lemma="ce" pos="DETdem" msd="NOMB.=p|GENRE=m">ces</w>
+        <w xml:id="w1154" lemma="peuple" pos="NOMcom" msd="NOMB.=p|GENRE=m">peuples</w>
+        <w xml:id="w1155" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+        <w xml:id="w1156" lemma="paraître" pos="VERppe" msd="NOMB.=s|GENRE=m">paru</w>
+        <w xml:id="w1157" lemma="sur" pos="PRE" msd="MORPH=empty">ſur</w>
+        <w xml:id="w1158" lemma="notre" pos="DETpos" msd="PERS.=2|NOMB.=s|GENRE=m">noſtre</w>
+        <w xml:id="w1159" lemma="chef" pos="NOMcom" msd="NOMB.=s|GENRE=m">chef</w>
+        <w xml:id="w1160" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1161" lemma="quitter" pos="VERppa" msd="MORPH=empty">quittant</w>
+        <w xml:id="w1162" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1163" lemma="étrangore" pos="ADJqua" msd="NOMB.=p|GENRE=m">eſtrangores</w>
+        <w xml:id="w1164" lemma="nation" pos="NOMpro" msd="NOMB.=p|GENRE=m">Nations</w>
+        <w xml:id="w1165" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1166" lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+        <w xml:id="w1167" lemma="y" pos="PROadv" msd="MORPH=empty">y</w>
+        <w xml:id="w1168" lemma="laisser" pos="VERinf" msd="MORPH=empty">laiſſer</w>
+        <w xml:id="w1169" lemma="gronder" pos="VERinf" msd="MORPH=empty">gronder</w>
+        <w xml:id="w1170" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1171" lemma="tonnerre" pos="NOMcom" msd="NOMB.=s|GENRE=m">tonnerre</w>
+        <w xml:id="w1172" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1173" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1174" lemma="croasser" pos="VERinf" msd="MORPH=empty">croaſſer</w>
+        <w xml:id="w1175" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1176" lemma="corbeau" pos="NOMpro" msd="NOMB.=p|GENRE=m">Corbeaux</w>
+        <w xml:id="w1177" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1178" lemma="quand" pos="CONsub" msd="MORPH=empty">quand</w>
+        <w xml:id="w1179" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w1180" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w1181" lemma="France" pos="NOMpro" msd="NOMB.=s|GENRE=f">France</w>
+        <w xml:id="w1182" lemma="ne" pos="ADVneg" msd="MORPH=empty">n’</w>
+        <w xml:id="w1183" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+        <w xml:id="w1184" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w1185" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w1186" lemma="craindre" pos="VERinf" msd="MORPH=empty">craindre</w>
+        <w xml:id="w1187" lemma="aucun" pos="DETind" msd="NOMB.=s|GENRE=f">aucune</w>
+        <w xml:id="w1188" lemma="réuolution" pos="NOMcom" msd="NOMB.=s|GENRE=f">reuolution</w>
+        <w xml:id="w1189" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1190" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1191" lemma="bénin" pos="NOMcom" msd="NOMB.=s|GENRE=m">benin</w>
+        <w xml:id="w1192" lemma="Jupiter" pos="NOMpro" msd="NOMB.=s|GENRE=m">Iupiter</w>
+        <w xml:id="w1193" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w1194" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=f|CAS=r">la</w>
+        <w xml:id="w1195" lemma="regarder" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">regarde</w>
+        <w xml:id="w1196" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w1197" lemma="un" pos="ADVgen" msd="NOMB.=s">vn</w>
+        <w xml:id="w1198" lemma="œil" pos="PROper" msd="NOMB.=s|GENRE=m|CAS=n">œil</w>
+        <w xml:id="w1199" lemma="amoureux" pos="ADJqua" msd="NOMB.=s|GENRE=m">amoureux</w>
+        <w xml:id="w1200" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1201" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=f|CAS=r">la</w>
+        <w xml:id="w1202" lemma="favoriser" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">fauoriſera</w>
+        <w xml:id="w1203" lemma="toujours" pos="ADVgen" msd="MORPH=empty">touſiours</w>
+        <w xml:id="w1204" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1205" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=p|GENRE=m">ſes</w>
+        <w xml:id="w1206" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w1207" lemma="doux" pos="ADJqua" msd="NOMB.=p|GENRE=m">douces</w>
+        <w xml:id="w1208" lemma="in" pos="PROper" msd="MORPH=empty">in</w>
+        <w xml:id="w1209" lemma="uense" pos="VERppe" msd="NOMB.=p">uences</w>
+        <w xml:id="w1210" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1211" lemma="si" pos="CONsub" msd="MORPH=empty">s’</w>
+        <w xml:id="w1212" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</w>
+        <w xml:id="w1213" lemma="y" pos="PROadv" msd="MORPH=empty">y</w>
+        <w xml:id="w1214" lemma="arriver" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">arriue</w>
+        <w xml:id="w1215" lemma="quelque" pos="DETind" msd="NOMB.=s|GENRE=m">quelque</w>
+        <w xml:id="w1216" lemma="changement" pos="NOMcom" msd="NOMB.=s|GENRE=m">changement</w>
+        <w xml:id="w1217" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1218" lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">ce</w>
+        <w xml:id="w1219" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">ſera</w>
+        <w xml:id="w1220" lemma="dans" pos="PRE" msd="MORPH=empty">dans</w>
+        <w xml:id="w1221" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1222" lemma="charge" pos="NOMcom" msd="NOMB.=p|GENRE=m">charges</w>
+        <w xml:id="w1223" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1224" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w1225" lemma="guerre" pos="NOMcom" msd="NOMB.=s|GENRE=f">guerre</w>
+        <w xml:id="w1226" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1227" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w1228" lemma="cause" pos="NOMcom" msd="NOMB.=s|GENRE=f">cauſe</w>
+        <w xml:id="w1229" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1230" lemma="Mars" pos="NOMpro" msd="NOMB.=s">Mars</w>
+        <w xml:id="w1231" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <w xml:id="w1232" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1233" lemma="seigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">Seigneur</w>
+        <w xml:id="w1234" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1235" lemma="notre" pos="DETpos" msd="PERS.=1|NOMB.=s|GENRE=f">noſtre</w>
+        <w xml:id="w1236" lemma="Horison" pos="NOMpro" msd="NOMB.=s|GENRE=f">Horiſon</w>
+        <w xml:id="w1237" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1238" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w1239" lemma="Italie" pos="NOMpro" msd="NOMB.=s|GENRE=f">Italie</w>
+        <w xml:id="w1240" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1241" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w1242" lemma="Allemagne" pos="NOMpro" msd="NOMB.=s|GENRE=f">Allemagne</w>
+        <w xml:id="w1243" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1244" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w1245" lemma="Espagne" pos="NOMpro" msd="NOMB.=s|GENRE=f">Eſpagne</w>
+        <w xml:id="w1246" lemma="ne" pos="ADVneg" msd="MORPH=empty">n’</w>
+        <w xml:id="w1247" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p">auront</w>
+        <w xml:id="w1248" lemma="point" pos="ADVgen" msd="MORPH=empty">point</w>
+        <w xml:id="w1249" lemma="un" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w1250" lemma="autre" pos="DETind" msd="NOMB.=p|GENRE=f">autres</w>
+        <w xml:id="w1251" lemma="alarme" pos="NOMcom" msd="NOMB.=p|GENRE=f">allarmes</w>
+        <pc>.</pc>
+        <w xml:id="w1252" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1253" lemma="celui" pos="PROdem" msd="NOMB.=p|GENRE=f">celles</w>
+        <w xml:id="w1254" lemma="que" pos="PROrel" msd="MORPH=empty">que</w>
+        <w xml:id="w1255" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1256" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+        <w xml:id="w1257" lemma="turc" pos="NOMcom" msd="NOMB.=s|GENRE=m">Turc</w>
+        <w xml:id="w1258" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|CAS=i">leur</w>
+        <w xml:id="w1259" lemma="causer" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">cauſera</w>
+        <w xml:id="w1260" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w1261" lemma="côté" pos="NOMcom" msd="NOMB.=s|GENRE=m">coſté́</w>
+        <w xml:id="w1262" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1263" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w1264" lemma="Hongrie" pos="NOMpro" msd="NOMB.=s|GENRE=f">Hongrie</w>
+        <w xml:id="w1265" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1266" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1267" lemma="autre" pos="ADJind" msd="NOMB.=p">autres</w>
+        <w xml:id="w1268" lemma="état" pos="NOMcom" msd="NOMB.=p|GENRE=m">Eſtats</w>
+        <w xml:id="w1269" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1270" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l</w>
+        <w xml:id="w1271" lemma="Europe" pos="NOMpro" msd="NOMB.=s|GENRE=f">Europe</w>
+        <w xml:id="w1272" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w1273" lemma="cause" pos="NOMcom" msd="NOMB.=s|GENRE=f">cauſe</w>
+        <w xml:id="w1274" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1275" lemma="Lucine" pos="NOMpro" msd="NOMB.=s|GENRE=f">Lucine</w>
+        <w xml:id="w1276" lemma="regarder" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">regarde</w>
+        <w xml:id="w1277" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1278" lemma="mauvais" pos="ADJqua" msd="NOMB.=s|GENRE=m">mauuais</w>
+        <w xml:id="w1279" lemma="œil" pos="PROper" msd="NOMB.=s|GENRE=m|CAS=n">œil</w>
+        <w xml:id="w1280" lemma="Saturne" pos="NOMpro" msd="NOMB.=s|GENRE=f">Saturne</w>
+        <w xml:id="w1281" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w1282" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=f|CAS=r">les</w>
+        <w xml:id="w1283" lemma="dominer" pos="VERcjg" msd="MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s">domine</w>
+        <w xml:id="w1284" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1285" lemma="vivre" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p">viuront</w>
+        <w xml:id="w1286" lemma="plutôt" pos="ADVgen" msd="MORPH=empty">pluſtoſt</w>
+        <w xml:id="w1287" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w1288" lemma="trouble" pos="NOMcom" msd="NOMB.=p|GENRE=m">troubles</w>
+        <w xml:id="w1289" lemma="que" pos="PROrel" msd="MORPH=empty">qu’</w>
+        <w xml:id="w1290" lemma="en" pos="PRE" msd="MORPH=empty">en</w>
+        <w xml:id="w1291" lemma="tranquilliter" pos="NOMcom" msd="NOMB.=s|GENRE=f">tranquilité</w>
+        <w xml:id="w1292" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1293" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1294" lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=m">leur</w>
+        <w xml:id="w1295" lemma="malheur" pos="NOMcom" msd="NOMB.=s|GENRE=m">malheur</w>
+        <w xml:id="w1296" lemma="être" pos="VERcjg" msd="MODE=con|PERS.=3|NOMB.=s">ſeroit</w>
+        <w xml:id="w1297" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w1298" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+        <w xml:id="w1299" lemma="si" pos="CONsub" msd="MORPH=empty">ſi</w>
+        <w xml:id="w1300" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1301" lemma="ciel" pos="NOMcom" msd="NOMB.=s|GENRE=m">Ciel</w>
+        <w xml:id="w1302" lemma="ne" pos="ADVneg" msd="MORPH=empty">ne</w>
+        <w xml:id="w1303" lemma="se" pos="PROper" msd="PERS.=3">s’</w>
+        <w xml:id="w1304" lemma="armer" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s">armoit</w>
+        <w xml:id="w1305" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w1306" lemma="une" pos="VERppe" msd="NOMB.=s|GENRE=m">vnec</w>
+        <w xml:id="w1307" lemma="foudre" pos="NOMcom" msd="NOMB.=s|GENRE=m">foudre</w>
+        <w xml:id="w1308" lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+        <w xml:id="w1309" lemma="donner" pos="VERinf" msd="MORPH=empty">donner</w>
+        <w xml:id="w1310" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1311" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w1312" lemma="erreur" pos="NOMcom" msd="NOMB.=s|GENRE=f">erreur</w>
+        <w xml:id="w1313" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w1314" lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">leur</w>
+        <w xml:id="w1315" lemma="seine" pos="NOMcom" msd="NOMB.=s|GENRE=f">ſeine</w>
+        <w xml:id="w1316" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1317" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1318" lemma="triple" pos="ADJqua" msd="NOMB.=s|GENRE=m">triple</w>
+        <w xml:id="w1319" lemma="regard" pos="NOMcom" msd="NOMB.=s|GENRE=m">regard</w>
+        <w xml:id="w1320" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1321" lemma="Mars" pos="NOMpro" msd="NOMB.=s">Mars</w>
+        <w xml:id="w1322" lemma="avec" pos="PRE" msd="NOMB.=s">auec</w>
+        <w xml:id="w1323" lemma="Mérèure" pos="NOMpro" msd="NOMB.=s|GENRE=m">Mereure</w>
+        <w xml:id="w1324" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w1325" lemma="côte" pos="NOMcom" msd="NOMB.=s|GENRE=m">coſte</w>
+        <w xml:id="w1326" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1327" lemma="le" pos="DETdef" msd="PERS.=3|NOMB.=s">l’</w>
+        <w xml:id="w1328" lemma="orient" pos="NOMcom" msd="NOMB.=s|GENRE=m">Orient</w>
+        <w xml:id="w1329" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1330" lemma="je" pos="PROper" msd="PERS.=1|NOMB.=s|CAS=r">me</w>
+        <w xml:id="w1331" lemma="faire" pos="VERcjg" msd="MORPH=empty">faict</w>
+        <w xml:id="w1332" lemma="conclure" pos="NOMcom" msd="NOMB.=s|GENRE=f">conclurre</w>
+        <w xml:id="w1333" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1334" lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+        <w xml:id="w1335" lemma="trois" pos="ADJcar" msd="NOMB.=p|GENRE=m">trois</w>
+        <w xml:id="w1336" lemma="grand" pos="ADJqua" msd="NOMB.=p|GENRE=f">grandes</w>
+        <w xml:id="w1337" lemma="partie" pos="NOMcom" msd="NOMB.=p|GENRE=f">parties</w>
+        <w xml:id="w1338" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w1339" lemma="monde" pos="NOMcom" msd="NOMB.=s|GENRE=m">monde</w>
+        <w xml:id="w1340" lemma="entrer" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p">entreront</w>
+        <w xml:id="w1341" lemma="8" pos="PROcar" msd="NOMB.=s">8</w>
+        <w xml:id="w1342" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w1343" lemma="si" pos="ADVgen" msd="MORPH=empty">ſi</w>
+        <w xml:id="w1344" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=f">grande</w>
+        <w xml:id="w1345" lemma="dissension" pos="NOMcom" msd="NOMB.=s|GENRE=f">diſſention</w>
+        <w xml:id="w1346" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1347" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1348" lemma="peuple" pos="NOMcom" msd="NOMB.=p|GENRE=m">peuples</w>
+        <w xml:id="w1349" lemma="dresser" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p">dreſſeront</w>
+        <w xml:id="w1350" lemma="un" pos="DETndf" msd="NOMB.=p|GENRE=f">des</w>
+        <w xml:id="w1351" lemma="armée" pos="NOMcom" msd="NOMB.=p|GENRE=f">armé́es</w>
+        <w xml:id="w1352" lemma="aù" pos="VERcjg" msd="MODE=ind|PERS.=3|NOMB.=s">aà</w>
+        <w xml:id="w1353" lemma="celui" pos="PROdem" msd="NOMB.=p|GENRE=f">celles</w>
+        <w xml:id="w1354" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1355" lemma="Cyrcès" pos="NOMpro" msd="NOMB.=p">Circez</w>
+        <w xml:id="w1356" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1357" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1358" lemma="le" pos="DETdef" msd="NOMB.=s">l’</w>
+        <w xml:id="w1359" lemma="Amérique" pos="NOMpro" msd="NOMB.=s|GENRE=m">Amerique</w>
+        <w xml:id="w1360" lemma="être" pos="VERppa" msd="MORPH=empty">eſtant</w>
+        <w xml:id="w1361" lemma="seconder" pos="VERppe" msd="NOMB.=s">ſecond́e</w>
+        <w xml:id="w1362" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <pc>.</pc>
+        <w xml:id="w1363" lemma="plusieurs" pos="ADVgen" msd="NOMB.=p">pluſieurs</w>
+        <w xml:id="w1364" lemma="autre" pos="DETind" msd="NOMB.=p|GENRE=f">autres</w>
+        <w xml:id="w1365" lemma="troupe" pos="NOMcom" msd="NOMB.=p|GENRE=f">troupes</w>
+        <w xml:id="w1366" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1367" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w1368" lemma="Espagne" pos="NOMpro" msd="NOMB.=s|GENRE=f">Eſpagne</w>
+        <w xml:id="w1369" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1370" lemma="comme" pos="CONsub" msd="MORPH=empty">comme</w>
+        <w xml:id="w1371" lemma="aussi" pos="ADVgen" msd="MORPH=empty">auſſi</w>
+        <w xml:id="w1372" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1373" lemma="prêtre" pos="ADJord" msd="NOMB.=s|GENRE=m">Preſtre</w>
+        <w xml:id="w1374" lemma="Jean" pos="NOMpro" msd="NOMB.=s|GENRE=m">Iean</w>
+        <w xml:id="w1375" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w1376" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=f">les</w>
+        <w xml:id="w1377" lemma="armée" pos="NOMcom" msd="NOMB.=p|GENRE=f">armé́es</w>
+        <w xml:id="w1378" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1379" lemma="France" pos="NOMpro" msd="NOMB.=s|GENRE=f">France</w>
+        <w xml:id="w1380" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1381" lemma="sans" pos="PRE" msd="MORPH=empty">ſans</w>
+        <w xml:id="w1382" lemma="doute" pos="NOMcom" msd="NOMB.=s|GENRE=m">doute</w>
+        <w xml:id="w1383" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1384" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1385" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1386" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+        <w xml:id="w1387" lemma="seigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">Seigneur</w>
+        <w xml:id="w1388" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1389" lemma="tartare" pos="NOMcom" msd="NOMB.=s|GENRE=m">Tartare</w>
+        <w xml:id="w1390" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1391" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1392" lemma="grand" pos="ADJqua" msd="NOMB.=s|GENRE=m">grand</w>
+        <w xml:id="w1393" lemma="sophy" pos="NOMcom" msd="NOMB.=s|GENRE=m">Sophy</w>
+        <w xml:id="w1394" lemma="donner" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p">donneront</w>
+        <w xml:id="w1395" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w1396" lemma="nez" pos="NOMcom" msd="NOMB.=s|GENRE=m">nez</w>
+        <w xml:id="w1397" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w1398" lemma="terre" pos="NOMcom" msd="NOMB.=s|GENRE=f">terre</w>
+        <pc>.</pc>
+        <w xml:id="w1399" lemma="ce" pos="PROdem" msd="NOMB.=s|GENRE=n">Ce</w>
+        <w xml:id="w1400" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w1401" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+        <w xml:id="w1402" lemma="être" pos="NOMcom" msd="NOMB.=s|GENRE=m">eſté</w>
+        <w xml:id="w1403" lemma="déclarer" pos="VERppe" msd="NOMB.=s|GENRE=f">declareé́</w>
+        <w xml:id="w1404" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w1405" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1406" lemma="centurie" pos="NOMcom" msd="NOMB.=p|GENRE=f">Centuries</w>
+        <w xml:id="w1407" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1408" lemma="nostra" pos="NOMpro" msd="NOMB.=s">Noſtra</w>
+        <w xml:id="w1409" lemma="-" pos="PONfbl" msd="MORPH=empty">-</w>
+        <w xml:id="w1410" lemma="damus" pos="NOMcom" msd="NOMB.=p|GENRE=m">damus</w>
+        <w xml:id="w1411" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1412" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1413" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w1414" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">eſt</w>
+        <pc>.</pc>
+        <w xml:id="w1415" lemma="confirmer" pos="ADJqua" msd="GENRE=f">confirmé</w>
+        <w xml:id="w1416" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w1417" lemma="ce" pos="DETdem" msd="NOMB.=s|GENRE=f">cette</w>
+        <w xml:id="w1418" lemma="sentence" pos="NOMcom" msd="NOMB.=s|GENRE=f">ſentence</w>
+        <w xml:id="w1419" lemma="commun" pos="ADJqua" msd="NOMB.=s|GENRE=f">commune</w>
+        <w xml:id="w1420" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1421" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1422" lemma="dieu" pos="NOMcom" msd="NOMB.=p|GENRE=m">Dieux</w>
+        <w xml:id="w1423" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+        <w xml:id="w1424" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1425" lemma="pied" pos="NOMcom" msd="NOMB.=p|GENRE=m">pieds</w>
+        <w xml:id="w1426" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1427" lemma="laine" pos="NOMcom" msd="NOMB.=s|GENRE=f">laine</w>
+        <w xml:id="w1428" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1429" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1430" lemma="bras" pos="NOMcom" msd="NOMB.=p|GENRE=m">bras</w>
+        <w xml:id="w1431" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1432" lemma="fer" pos="NOMcom" msd="NOMB.=s|GENRE=m">fer</w>
+        <w xml:id="w1433" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1434" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">ſa</w>
+        <w xml:id="w1435" lemma="divin" pos="ADJqua" msd="NOMB.=s|GENRE=f">diuine</w>
+        <w xml:id="w1436" lemma="bonté" pos="NOMcom" msd="NOMB.=s|GENRE=f">bonté</w>
+        <w xml:id="w1437" lemma="avoir" pos="VERppa" msd="MORPH=empty">ayant</w>
+        <w xml:id="w1438" lemma="jusque" pos="PRE" msd="MORPH=empty">iuſques</w>
+        <w xml:id="w1439" lemma="ici" pos="ADVgen" msd="MORPH=empty">icy</w>
+        <w xml:id="w1440" lemma="attendre" pos="VERppe" msd="NOMB.=s|GENRE=m">attendu</w>
+        <w xml:id="w1441" lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+        <w xml:id="w1442" lemma="infidèle" pos="NOMcom" msd="NOMB.=p|GENRE=f">infidelles</w>
+        <w xml:id="w1443" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w1444" lemma="repentance" pos="NOMcom" msd="NOMB.=s|GENRE=f">repentance</w>
+        <w xml:id="w1445" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w1446" lemma="punition" pos="NOMcom" msd="NOMB.=s|GENRE=f">punition</w>
+        <w xml:id="w1447" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1448" lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">leur</w>
+        <w xml:id="w1449" lemma="obstination" pos="NOMcom" msd="NOMB.=s|GENRE=f">obſtination</w>
+        <w xml:id="w1450" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1451" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <pc>.</pc>
+        <w xml:id="w1452" lemma="armer" pos="VERinf" msd="MORPH=empty">armer</w>
+        <w xml:id="w1453" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=m">ſon</w>
+        <w xml:id="w1454" lemma="bras" pos="NOMcom" msd="NOMB.=s|GENRE=m">bras</w>
+        <w xml:id="w1455" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w1456" lemma="un" pos="DETndf" msd="NOMB.=s|GENRE=f">vne</w>
+        <w xml:id="w1457" lemma="verge" pos="NOMcom" msd="NOMB.=s|GENRE=m">verge</w>
+        <w xml:id="w1458" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1459" lemma="fer" pos="NOMcom" msd="NOMB.=s|GENRE=m">fer</w>
+        <w xml:id="w1460" lemma="pour" pos="PRE" msd="MORPH=empty">pour</w>
+        <w xml:id="w1461" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|CAS=r">les</w>
+        <w xml:id="w1462" lemma="punir" pos="VERinf" msd="MORPH=empty">punir</w>
+        <w xml:id="w1463" lemma=";" pos="PONfbl" msd="MORPH=empty">;</w>
+        <w xml:id="w1464" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">l’</w>
+        <w xml:id="w1465" lemma="Europe" pos="NOMpro" msd="NOMB.=s|GENRE=f">Europe</w>
+        <w xml:id="w1466" lemma="ne" pos="ADVneg" msd="MORPH=empty">n’</w>
+        <w xml:id="w1467" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</w>
+        <w xml:id="w1468" lemma="rien" pos="PROind" msd="NOMB.=s">rien</w>
+        <w xml:id="w1469" lemma="plus" pos="ADVgen" msd="MORPH=empty">plus</w>
+        <w xml:id="w1470" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w1471" lemma="craindre" pos="VERinf" msd="MORPH=empty">craindre</w>
+        <w xml:id="w1472" lemma="nyredouter" pos="VERinf" msd="MORPH=empty">nyredouter</w>
+        <w xml:id="w1473" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1474" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w1475" lemma="fin" pos="NOMcom" msd="NOMB.=s|GENRE=f">fin</w>
+        <w xml:id="w1476" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1477" lemma="son" pos="DETpos" msd="PERS.=3|NOMB.=p|GENRE=m">ſes</w>
+        <w xml:id="w1478" lemma="malheur" pos="NOMcom" msd="NOMB.=p|GENRE=m">malheurs</w>
+        <w xml:id="w1479" lemma="être" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">ſera</w>
+        <w xml:id="w1480" lemma="un" pos="ADVgen" msd="MORPH=empty">vn</w>
+        <w xml:id="w1481" lemma="commencement" pos="NOMcom" msd="NOMB.=s|GENRE=m">commencement</w>
+        <w xml:id="w1482" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w1483" lemma="un" pos="DETndf" msd="NOMB.=s|GENRE=f">vne</w>
+        <w xml:id="w1484" lemma="prospérité" pos="NOMcom" msd="NOMB.=s|GENRE=f">proſperité</w>
+        <w xml:id="w1485" lemma="durable" pos="ADJqua" msd="NOMB.=s|GENRE=f">durable</w>
+        <w xml:id="w1486" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1487" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1488" lemma="heureux" pos="ADJqua" msd="NOMB.=p|GENRE=f">heureuſes</w>
+        <w xml:id="w1489" lemma="plaire" pos="VERcjg" msd="MODE=ind|TEMPS=psp">Plàa</w>
+        <pc>.</pc>
+        <w xml:id="w1490" lemma="net" pos="NOMcom" msd="NOMB.=p|GENRE=f">nettes</w>
+        <w xml:id="w1491" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w1492" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+        <w xml:id="w1493" lemma="reluire" pos="NOMcom" msd="NOMB.=s|GENRE=m">reluy</w>
+        <w xml:id="w1494" lemma="à" pos="PRE" msd="MORPH=empty">à</w>
+        <w xml:id="w1495" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w1496" lemma="nativiter" pos="NOMcom" msd="NOMB.=s|GENRE=f">natiuité</w>
+        <w xml:id="w1497" lemma="de_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">du</w>
+        <w xml:id="w1498" lemma="roi" pos="NOMcom" msd="NOMB.=s|GENRE=m">Roy</w>
+        <w xml:id="w1499" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1500" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1501" lemma="dans" pos="PRE" msd="MORPH=empty">dans</w>
+        <w xml:id="w1502" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f">la</w>
+        <w xml:id="w1503" lemma="naissance" pos="NOMcom" msd="NOMB.=s|GENRE=f">naiſſance</w>
+        <w xml:id="w1504" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1505" lemma="monseigneur" pos="NOMcom" msd="NOMB.=s|GENRE=m">Monſeigneur</w>
+        <w xml:id="w1506" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1507" lemma="duc" pos="NOMcom" msd="NOMB.=s|GENRE=m">Duc</w>
+        <w xml:id="w1508" lemma="de" pos="PRE" msd="MORPH=empty">d’</w>
+        <w xml:id="w1509" lemma="Anjou" pos="NOMpro" msd="NOMB.=s|GENRE=m">Anjou</w>
+        <w xml:id="w1510" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1511" lemma="nous" pos="PROper" msd="PERS.=1|NOMB.=p">nous</w>
+        <w xml:id="w1512" lemma="promettre" pos="VERcjg" msd="MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p">promettent</w>
+        <w xml:id="w1513" lemma="faire" pos="VERinf" msd="MORPH=empty">faire</w>
+        <w xml:id="w1514" lemma="couler" pos="VERinf" msd="MORPH=empty">couler</w>
+        <w xml:id="w1515" lemma="notre" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=m">nos</w>
+        <w xml:id="w1516" lemma="jour" pos="NOMcom" msd="NOMB.=p|GENRE=m">iours</w>
+        <w xml:id="w1517" lemma="das" pos="PRE" msd="NOMB.=p">dãs</w>
+        <w xml:id="w1518" lemma="le" pos="DETdef" msd="NOMB.=p|GENRE=m">les</w>
+        <w xml:id="w1519" lemma="délice" pos="NOMcom" msd="NOMB.=p|GENRE=f">delices</w>
+        <w xml:id="w1520" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1521" lemma="parce" pos="PRE.PROdem" msd="MORPH=empty">parce</w>
+        <w xml:id="w1522" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1523" lemma="ce" pos="DETdem" msd="NOMB.=p">ces</w>
+        <w xml:id="w1524" lemma="bon" pos="ADJqua" msd="NOMB.=p|GENRE=m">bons</w>
+        <w xml:id="w1525" lemma="astre" pos="NOMcom" msd="NOMB.=p|GENRE=m">Aſtres</w>
+        <w xml:id="w1526" lemma="iupiter" pos="NOMcom" msd="NOMB.=s|GENRE=m">Iupiter</w>
+        <w xml:id="w1527" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1528" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1529" lemma="soleil" pos="NOMcom" msd="NOMB.=s|GENRE=m">Soleil</w>
+        <w xml:id="w1530" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1531" lemma="qui" pos="PROrel" msd="MORPH=empty">qui</w>
+        <w xml:id="w1532" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p">ont</w>
+        <w xml:id="w1533" lemma="doiner" pos="ADJqua" msd="NOMB.=s|GENRE=m">doiné</w>
+        <w xml:id="w1534" lemma="à_le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m">au</w>
+        <w xml:id="w1535" lemma="point" pos="NOMcom" msd="NOMB.=s|GENRE=m">point</w>
+        <w xml:id="w1536" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w xml:id="w1537" lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=s|GENRE=f">leur</w>
+        <w xml:id="w1538" lemma="apparition" pos="NOMcom" msd="NOMB.=s|GENRE=f">apparition</w>
+        <w xml:id="w1539" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1540" lemma="rendre" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p">rendront</w>
+        <w xml:id="w1541" lemma="oss" pos="DETpos" msd="PERS.=1|NOMB.=p|GENRE=f">osS</w>
+        <w xml:id="w1542" lemma="jeune" pos="ADJqua" msd="NOMB.=p|GENRE=f">ieunes</w>
+        <w xml:id="w1543" lemma="prince" pos="NOMcom" msd="NOMB.=p|GENRE=m">Princes</w>
+        <w xml:id="w1544" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w1545" lemma="humeur" pos="NOMcom" msd="NOMB.=p|GENRE=m">humeurs</w>
+        <w xml:id="w1546" lemma="et" pos="CONcoo" msd="MORPH=empty">&amp;</w>
+        <w xml:id="w1547" lemma="mkurssi" pos="NOMcom" msd="NOMB.=p|GENRE=m">mœursſi</w>
+        <w xml:id="w1548" lemma="agréa" pos="NOMcom" msd="NOMB.=p|GENRE=m">agrea</w>
+        <w xml:id="w1549" lemma="@greek" pos="NOMpro" msd="MORPH=empty">¬</w>
+        <w xml:id="w1550" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1551" lemma="blé" pos="NOMcom" msd="NOMB.=p|GENRE=m">bles</w>
+        <w xml:id="w1552" lemma="," pos="PONfbl" msd="MORPH=empty">,</w>
+        <w xml:id="w1553" lemma="que" pos="CONsub" msd="MORPH=empty">que</w>
+        <w xml:id="w1554" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m">le</w>
+        <w xml:id="w1555" lemma="ciel" pos="NOMcom" msd="NOMB.=s|GENRE=m">Ciel</w>
+        <w xml:id="w1556" lemma="en" pos="ADVgen" msd="MORPH=empty">en</w>
+        <w xml:id="w1557" lemma="être" pos="VERppa" msd="MORPH=empty">eſtant</w>
+        <w xml:id="w1558" lemma="amoureux" pos="ADJqua" msd="NOMB.=s|GENRE=m">amoureux</w>
+        <w xml:id="w1559" lemma="aimer" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">aymera</w>
+        <w xml:id="w1560" lemma="par" pos="PRE" msd="MORPH=empty">par</w>
+        <w xml:id="w1561" lemma="conséquent" pos="VERcjg" msd="NOMB.=p">conſequent</w>
+        <w xml:id="w1562" lemma="leur" pos="DETpos" msd="PERS.=3|NOMB.=p|GENRE=m">leurs</w>
+        <w xml:id="w1563" lemma="sujet" pos="NOMcom" msd="NOMB.=p|GENRE=m">ſubjets</w>
+        <pc>.</pc>
+        <w xml:id="w1564" lemma="fin" pos="NOMcom" msd="NOMB.=s|GENRE=m">FIN</w>
+        <pc>.</pc>
+      </p>
+    </body>
+  </text>
+</TEI>

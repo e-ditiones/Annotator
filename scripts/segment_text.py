@@ -1,11 +1,6 @@
 from lxml import etree
-import json
-import os
+import glob
 import re
-import argparse
-arg_parser = argparse.ArgumentParser()
-arg_parser.add_argument("file", help="file to process")
-args = arg_parser.parse_args()
 
 ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
@@ -79,7 +74,7 @@ def segment(doc):
     segment_elements(paragraphs)
     segment_elements(lines)
     # This output file is specific to the project e-ditiones, you can easily change the output with e.g. doc.write("New" + args.file, ...)
-    return doc.write(args.file.replace(".xml", "_segmented.xml"), pretty_print=True, encoding="utf-8", method="xml")
+    return doc.write(file.replace(".xml", "_segmented.xml"), pretty_print=True, encoding="utf-8", method="xml")
 
 
 def rebuild_words(doc):
@@ -114,7 +109,10 @@ def rebuild_words(doc):
 
 if __name__ == "__main__":
     parser = etree.XMLParser(remove_blank_text=True)
-    doc = etree.parse(args.file, parser)
-    rebuild_words(doc)
-    text_transformed = transform_text(doc)
-    segment(text_transformed)
+    
+    files = glob.glob("in_XML/**/*.xml", recursive=True)
+    for file in files:
+        doc = etree.parse(file, parser)
+        rebuild_words(doc)
+        text_transformed = transform_text(doc)
+        segment(text_transformed)

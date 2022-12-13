@@ -1,14 +1,11 @@
-from lxml import etree
 from pie_extended.cli.sub import get_tagger, get_model
 # Change fr to freem for early modern french.
-from pie_extended.models.fr.imports import get_iterator_and_processor
-import os
+from pie_extended.models.freem.imports import get_iterator_and_processor
+import glob
 import re
+import os
 import csv
-import argparse
-arg_parser = argparse.ArgumentParser()
-arg_parser.add_argument("file", help="file to process")
-args = arg_parser.parse_args()
+from lxml import etree
 
 ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
@@ -22,7 +19,7 @@ def lemmatize(doc):
     :param doc: a list of tags
     """
     # Change fr to freem for early modern french.
-    model_name = "fr"
+    model_name = "freem"
     tagger = get_tagger(model_name, batch_size=256, device="cpu", model_path=None)
 
     data = []
@@ -51,9 +48,9 @@ def lemmatize(doc):
                     morph = re.search(r'MORPH=.*', msd)
                     output['msd_morph'] = morph.group(0)
                 if 'MODE' in msd:
-                    output['msd_mode'] = re.search(r'MODE=[a-z]*\|', msd).group(0)
-                if 'TEMS' in msd:
-                    output['msd_tems'] = re.search(r'TEMS=.*\|', msd).group(0)
+                    output['msd_mode'] = re.search(r'MODE=[a-z]{3}', msd).group(0)
+                if 'TEMPS' in msd:
+                    output['msd_temps'] = re.search(r'TEMPS=[a-z]{3}', msd).group(0)
                 if 'PERS' in msd:
                     output['msd_pers'] = re.search(r'PERS\.=.', msd).group(0)
                 if 'NOMB' in msd:
@@ -71,12 +68,17 @@ def lemmatize(doc):
 
 if __name__ == "__main__":
     parser = etree.XMLParser(remove_blank_text=True)
-    doc = etree.parse(args.file, parser)
-    data = lemmatize(doc)
 
-    with open('output/data.csv', 'w+', newline='') as csvfile:
-        fieldnames = ['token', 'lemma', 'pos', 'msd', 'msd_morph', 'msd_mode', 'msd_temps', 'msd_pers', 'msd_nomb', 'msd_genre', 'msd_cas']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter='\t')
-        writer.writeheader()
-        for item in data:
-            writer.writerow(item)
+    files = glob.glob("in_XML/**/*_segmented.xml", recursive=True)
+    for file in files:
+        id = os.path.basename(file)
+        id = re.sub("_segmented.xml","",id)
+        doc = etree.parse(file, parser)
+        data = lemmatize(doc)
+
+        with open('out/TSV/%s.tsv' %(id), 'w+', newline='') as csvfile:
+            fieldnames = ['token', 'lemma', 'pos', 'msd', 'msd_morph', 'msd_mode', 'msd_temps', 'msd_pers', 'msd_nomb', 'msd_genre', 'msd_cas']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter='\t')
+            writer.writeheader()
+            for item in data:
+                writer.writerow(item)

@@ -1,0 +1,1772 @@
+token	lemma	pos	msd	msd_morph	msd_mode	msd_temps	msd_pers	msd_nomb	msd_genre	msd_cas
+L'	le	DETdef	NOMB.=s					NOMB.=s		
+OBIET	objet	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+DE	de	PRE	MORPH=empty	MORPH=empty						
+LA	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+HAINE	haine	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+PVBLIQVE	publive	NOMpro	NOMB.=s					NOMB.=s		
+OV	ou	ADJcar	NOMB.=s					NOMB.=s		
+LA	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+HONTE	honte	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+DV	de_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+MINISTRE	ministre	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+D'	de	PRE	MORPH=empty	MORPH=empty						
+ESTAT	état	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+DE’	de	CONsub	MORPH=empty	MORPH=empty						
+COVVERTE	COVVERTE	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+A	à	PRE	MORPH=empty	MORPH=empty						
+PARIS	Paris	NOMpro	NOMB.=s					NOMB.=s		
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+Chez	chez	PRE	MORPH=empty	MORPH=empty						
+FRANCOIS	français	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+MVSNIER	Müsnier	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+au	à_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+mont	mont	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſainct	saint	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Hilaire	Hilaire	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+1649	1649	PROcar	MORPH=empty	MORPH=empty						
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+2	2	INJ	MORPH=empty	MORPH=empty						
+L’	le	DETdef	NOMB.=s					NOMB.=s		
+OBIET	objet	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+DE	de	PRE	MORPH=empty	MORPH=empty						
+LA	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+AINE	aine	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+PVBLIQVE	publive	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+ou	ou	CONcoo	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+honte	honte	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+das	das	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+Miniſtre	ministre	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+d’	de	PRE	MORPH=empty	MORPH=empty						
+Eſlat	eslat	NOMpro	NOMB.=s					NOMB.=s		
+découuoree	découvrir	VERppe	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+elque	elque	DETind	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+amour	amour	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+que	que	PROrel	MORPH=empty	MORPH=empty						
+i’	je	PROper	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+aye	avoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s		MODE=sub	TEMPS=pst	PERS.=3	NOMB.=s		
+pour	pour	PRE	MORPH=empty	MORPH=empty						
+ma	mon	DETpos	PERS.=1|NOMB.=s|GENRE=f				PERS.=1	NOMB.=s	GENRE=f	
+Patrie	patrie	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+l	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+faur	faur	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+auoüer	avouer	VERinf	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+i	i	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+’	’	CONcoo	MORPH=empty	MORPH=empty						
+enay	enay	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=s		
+peaucoup	peaucoup	ADVgen	MORPH=empty	MORPH=empty						
+plus	plus	ADVgen	MORPH=empty	MORPH=empty						
+pour	pour	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+verité	vérité	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+c’	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+ce	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+m’	je	PROper	PERS.=1|NOMB.=s|CAS=r				PERS.=1	NOMB.=s		CAS=r
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+oblige	obliger	VERppe	NOMB.=s					NOMB.=s		
+d’	de	PRE	MORPH=empty	MORPH=empty						
+exan	exan	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+Iner	iner	VERinf	MORPH=empty	MORPH=empty						
+ſi	si	CONsub	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+haine	haine	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+publique	public	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+que	que	PROrel	MORPH=empty	MORPH=empty						
+don	don	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+cohcuë	cohcevoir	PROind	GENRE=m						GENRE=m	
+contre	contre	PRE	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Mazarin	Mazarin	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+bien	bien	ADVgen	MORPH=empty	MORPH=empty						
+fondee	fonder	VERppe	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+s’	si	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+doir	doir	VERinf	MORPH=empty	MORPH=empty						
+eſtre	être	VERinf	MORPH=empty	MORPH=empty						
+noircy	noircir	ADVgen	MORPH=empty	MORPH=empty						
+des	de_le	DETndf	NOMB.=p					NOMB.=p		
+titres	titre	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+honteux	honteux	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+que	que	CONsub	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s					NOMB.=s		
+on	on	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+luy	il	PROper	PERS.=3|NOMB.=s|CAS=r				PERS.=3	NOMB.=s		CAS=r
+donr	don	VERinf	NOMB.=s					NOMB.=s		
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+bien	bien	ADVgen	MORPH=empty	MORPH=empty						
+vray	vrai	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+que	que	CONsub	MORPH=empty	MORPH=empty						
+ie	je	PROper	PERS.=1|NOMB.=s				PERS.=1	NOMB.=s		
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+auois	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s		MODE=ind	TEMPS=ipf	PERS.=1	NOMB.=s		
+qu	que	ADVgen	MORPH=empty	MORPH=empty						
+à	avoir	VERcjg	PERS.=3|NOMB.=s				PERS.=3	NOMB.=s		
+conſiderr	considérer	VERinf	MORPH=empty	MORPH=empty						
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+Arreſts	arrêt	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+prononcez	prononcer	VERcjg	MODE=imp|NOMB.=p		MODE=imp			NOMB.=p		
+contre	contre	PRE	MORPH=empty	MORPH=empty						
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+perfide	perfide	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+vnion	union	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+des	de_le	PRE.DETdef	NOMB.=p					NOMB.=p		
+Princes	prince	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+tous	tout	DETind	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+Pai	pai	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+lcmens	liment	ADJqua	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+pour	pour	PRE	MORPH=empty	MORPH=empty						
+m’	je	PROper	PERS.=1|NOMB.=s|CAS=r				PERS.=1	NOMB.=s		CAS=r
+oſter	ôter	VERinf	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+doute	doute	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+De	de	PRE	MORPH=empty	MORPH=empty						
+ſorre	sorre	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+que	que	PROrel	MORPH=empty	MORPH=empty						
+je	je	PROper	PERS.=1|NOMB.=s|CAS=n				PERS.=1	NOMB.=s		CAS=n
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+ſuis	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=s		
+plus	plus	ADVgen	MORPH=empty	MORPH=empty						
+en	en	PRE	MORPH=empty	MORPH=empty						
+peine	peine	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+point	point	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+puis	puis	ADVgen	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+des	un	DETndf	NOMB.=p					NOMB.=p		
+Heros	héro	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ſi	si	ADVgen	MORPH=empty	MORPH=empty						
+genereux	généreux	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+dont	dont	PROrel	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+vieille	vieux	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+Rome	Rome	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+auroit	avoir	VERcjg	MODE=con|PERS.=3|NOMB.=s		MODE=con		PERS.=3	NOMB.=s		
+fait	faire	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſes	son	DETpos	PERS.=3|NOMB.=p|GENRE=f				PERS.=3	NOMB.=p	GENRE=f	
+duinitez	duinité	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+des	de_le	DETndf	NOMB.=p					NOMB.=p		
+Senateurs	sénateur	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+dont	dont	PROrel	MORPH=empty	MORPH=empty						
+la	il	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+probiré	probirer	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+incomparable	incomparable	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+me	je	PROper	PERS.=1|NOMB.=s|CAS=r				PERS.=1	NOMB.=s		CAS=r
+leuent	l'uent	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s		MODE=ind	TEMPS=psp	PERS.=3	NOMB.=s		
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſcrupule	scrupule	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Ileſt	ilest	VERcjg	MODE=imp|NOMB.=p		MODE=imp			NOMB.=p		
+bien	bien	ADVgen	MORPH=empty	MORPH=empty						
+vtay	venir	ADVgen	NOMB.=s					NOMB.=s		
+que	que	CONsub	MORPH=empty	MORPH=empty						
+qualque	qualque	DETind	NOMB.=s					NOMB.=s		
+ſom	som	NOMcom	NOMB.=s|GENRE=m|CAS=n					NOMB.=s	GENRE=m	CAS=n
+que	que	CONsub	MORPH=empty	MORPH=empty						
+i’	je	PROper	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+euſſe	avoir	VERcjg	MODE=sub|TEMPS=ipf|PERS.=1|NOMB.=s		MODE=sub	TEMPS=ipf	PERS.=1	NOMB.=s		
+apporté	apporter	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+à	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+eſtudier	étudier	VERinf	MORPH=empty	MORPH=empty						
+toutes	tout	DETind	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+act	act	VERcjg	TEMPS=psp|NOMB.=s			TEMPS=psp		NOMB.=s		
+ions	jong	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+meſchant	méchant	VERppa	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Miniſtre	ministre	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+ie	je	PROper	PERS.=3|NOMB.=s				PERS.=3	NOMB.=s		
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+y	y	PROadv	MORPH=empty	MORPH=empty						
+auois	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s		MODE=ind	TEMPS=ipf	PERS.=1	NOMB.=s		
+pû̂	pouvoir	VERppe	NOMB.=s					NOMB.=s		
+remarquer	remarquer	VERinf	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+laſcheté	lâcheté	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ignorance	ignorance	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+:	:	PONfbl	MORPH=empty	MORPH=empty						
+mais	mais	CONcoo	MORPH=empty	MORPH=empty						
+certes	certes	ADVgen	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+peu	peu	PROind	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+m’	je	PROper	PERS.=1|NOMB.=s|CAS=r				PERS.=1	NOMB.=s		CAS=r
+eſtre	être	VERinf	MORPH=empty	MORPH=empty						
+trompé	tromper	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+ie	je	PROper	PERS.=1|NOMB.=s				PERS.=1	NOMB.=s		
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+oſois	oser	VERcjg	MODE=ind|TEMPS=ipf|PERS.=2|NOMB.=s		MODE=ind	TEMPS=ipf	PERS.=2	NOMB.=s		
+prononcer	prononcer	VERinf	MORPH=empty	MORPH=empty						
+hardiment	hardiment	ADVgen	MORPH=empty	MORPH=empty						
+ſuiuant	suivre	VERppa	MORPH=empty	MORPH=empty						
+ma	mon	DETpos	PERS.=1|NOMB.=s|GENRE=f				PERS.=1	NOMB.=s	GENRE=f	
+penſee	pensée	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+On	on	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+peut	pouvoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+dire	dire	VERinf	MORPH=empty	MORPH=empty						
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+en	en	PRE	MORPH=empty	MORPH=empty						
+quelque	quelque	DETind	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+façon	façon	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+nous	nous	PROper	PERS.=1|NOMB.=p				PERS.=1	NOMB.=p		
+ſomes	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=p		
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+aush	aush	VERcjg	MODE=ind|NOMB.=s		MODE=ind			NOMB.=s		
+urs	ur	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+nos	notre	DETpos	PERS.=1|NOMB.=p|GENRE=m				PERS.=1	NOMB.=p	GENRE=m	
+maux	mal	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+;	;	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+puis	puis	ADVgen	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+flatteriea	flatterie	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+eſté	être	ADJqua	TEMPS=pst|NOMB.=s|GENRE=m			TEMPS=pst		NOMB.=s	GENRE=m	
+ſi	si	ADVgen	MORPH=empty	MORPH=empty						
+grande	grand	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+en	en	ADVgen	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ame	âme	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+pluſieurs	plusieurs	PROind	NOMB.=p					NOMB.=p		
+que	que	CONsub	MORPH=empty	MORPH=empty						
+ie	je	PROper	PERS.=1|NOMB.=s				PERS.=1	NOMB.=s		
+connoi	connaître	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s		MODE=ind	TEMPS=psp	PERS.=1	NOMB.=s		
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+lon	long	PROind	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+point	point	ADVgen	MORPH=empty	MORPH=empty						
+eu	avoir	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+honte	honte	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+luydopner	luydopner	VERinf	MORPH=empty	MORPH=empty						
+es	en_le	CONcoo	NOMB.=p					NOMB.=p		
+élpgs	élire	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+eſloient	être	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=p		
+deubs	deux	ADVgen	MORPH=empty	MORPH=empty						
+quau	quau	DETcar	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+imenss	imens	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+aux	à_le	PRE.DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+d’	de	PRE	MORPH=empty	MORPH=empty						
+Albornos	alborno	NOMpro	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+aux	à_le	PRE.DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ichelies	ichelie	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+C’	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+abuzer	abuser	VERinf	MORPH=empty	MORPH=empty						
+des	un	PRE.DETdef	NOMB.=p					NOMB.=p		
+fleurs	fleur	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+éloquence	éloquence	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+montrer	montrer	VERinf	MORPH=empty	MORPH=empty						
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+y	y	PROadv	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+rien	rien	PROind	NOMB.=s					NOMB.=s		
+d’	de	PRE	MORPH=empty	MORPH=empty						
+infame	infâme	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+en	en	ADVgen	MORPH=empty	MORPH=empty						
+Ia	jà	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+narure	narure	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+reçoiue	recevoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s		MODE=sub	TEMPS=pst	PERS.=3	NOMB.=s		
+des	un	DETndf	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+applaudiſſemens	applaudissement	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+que	que	PROrel	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s					NOMB.=s		
+on	on	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+couronne	couronner	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s		MODE=sub	TEMPS=pst	PERS.=3	NOMB.=s		
+des	de_le	DETndf	NOMB.=p					NOMB.=p		
+monſtres	monstre	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+que	que	PROrel	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s					NOMB.=s		
+on	on	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+deuroit	devoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=s		
+égorger	esgarger	VERinf	MORPH=empty	MORPH=empty						
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n				PERS.=1	NOMB.=s	GENRE=m	CAS=n
+crois	croire	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=s		
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+y	y	PROadv	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+à	avoir	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+preſent	présent	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+aucun	aucun	DETind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+deſes	déses	DETcar	NOMB.=p					NOMB.=p		
+orateurs	orateur	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+mercenaires	mercenaire	ADJqua	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+ces	ce	DETdem	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+Poëtes	poète	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+affamez	affamé	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+faſſe	faire	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s		MODE=sub	TEMPS=pst	PERS.=3	NOMB.=s		
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+penitence	pénitence	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+crime	crime	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+voulut	vouloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+de	de	PRE	MORPH=empty	MORPH=empty						
+bon	bon	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+cœur	cœur	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+nmarcherſur	nonrchersur	VERinf	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s					NOMB.=s		
+ldole	l'ole	PROdem	PERS.=3|NOMB.=s|GENRE=f				PERS.=3	NOMB.=s	GENRE=f	
+qu’	que	PROrel	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+encenſee	encenser	VERppe	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+le	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r				PERS.=3	NOMB.=s	GENRE=m	CAS=r
+confeſſe	confesser	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+franchement	franchement	ADVgen	MORPH=empty	MORPH=empty						
+que	que	PROrel	MORPH=empty	MORPH=empty						
+i’	je	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+ay	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+eſté	être	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+au	à_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+rang	rang	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ſes	son	DETpos	PERS.=3|NOMB.=p|GENRE=f				PERS.=3	NOMB.=p	GENRE=f	
+Idolatres	idolâtre	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+:	:	PONfbl	MORPH=empty	MORPH=empty						
+mais	mais	CONcoo	MORPH=empty	MORPH=empty						
+auſſi	aussi	ADVgen	MORPH=empty	MORPH=empty						
+il	il	PROimp	PERS.=0|NOMB.=s|GENRE=m|CAS=n				PERS.=0	NOMB.=s	GENRE=m	CAS=n
+faut	falloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+que	que	CONsub	MORPH=empty	MORPH=empty						
+lon	long	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+ſç̧ache	savacher	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s		MODE=sub	TEMPS=pst	PERS.=3	NOMB.=s		
+que	que	CONsub	MORPH=empty	MORPH=empty						
+depuis	depuis	ADVgen	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+ay	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+reconnu	reconnaître	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+que	que	CONsub	MORPH=empty	MORPH=empty						
+Mazarin	Mazarin	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+eſtoit	être	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=s		
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+plus	plus	ADVgen	MORPH=empty	MORPH=empty						
+perfide	perfide	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+tous	tout	DETind	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+hommes	homme	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+que	que	PROrel	MORPH=empty	MORPH=empty						
+i’	je	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+ay	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+fait	faire	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ceſſer	cesser	VERinf	MORPH=empty	MORPH=empty						
+mes	mon	DETpos	PERS.=1|NOMB.=p|GENRE=m				PERS.=1	NOMB.=p	GENRE=m	
+adrations	adration	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+;	;	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+i’	je	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+ay	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+eſteé́	éteiner	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+premier	premier	ADJord	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+rendu	rendre	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+teſmoignagnes	témoignagne	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+publics	public	ADJqua	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+par	par	PRE	MORPH=empty	MORPH=empty						
+vne	un	DETndf	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+palinodie	palinodie	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+naon	naon	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+erreur	erreur	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+I’	je	PROimp	PERS.=0|NOMB.=s|GENRE=m|CAS=n				PERS.=0	NOMB.=s	GENRE=m	CAS=n
+ay	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+reconnu	reconnaître	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+y	y	PROadv	MORPH=empty	MORPH=empty						
+auoit	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=s		
+rien	rien	PROind	NOMB.=s					NOMB.=s		
+de	de	PRE	MORPH=empty	MORPH=empty						
+bon	bon	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+en	en	ADVgen	MORPH=empty	MORPH=empty						
+Mazarin	Mazarin	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+;	;	PONfbl	MORPH=empty	MORPH=empty						
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+y	y	PROadv	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+que	que	ADVgen	MORPH=empty	MORPH=empty						
+des	un	DETndf	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ordures	ordure	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+dans	dans	PRE	MORPH=empty	MORPH=empty						
+ſon	son	DETpos	PERS.=3|NOMB.=s|GENRE=m				PERS.=3	NOMB.=s	GENRE=m	
+berceau	berceau	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+ie	je	PROper	PERS.=3|NOMB.=s				PERS.=3	NOMB.=s		
+veux	vouloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=s		
+dire	dire	VERinf	MORPH=empty	MORPH=empty						
+en	en	PRE	MORPH=empty	MORPH=empty						
+ſa	son	DETpos	PERS.=3|NOMB.=s|GENRE=f				PERS.=3	NOMB.=s	GENRE=f	
+naiſſance	naissance	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+;	;	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+ſon	son	DETpos	PERS.=3|NOMB.=s|GENRE=m				PERS.=3	NOMB.=s	GENRE=m	
+enfance	enfance	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+eſte	être	NOMcom	TEMPS=pst|NOMB.=s|GENRE=m			TEMPS=pst		NOMB.=s	GENRE=m	
+vn	un	ADVgen	NOMB.=s					NOMB.=s		
+ſeminaire	seminaire	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+toutes	tout	DETind	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+ſortes	sorte	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+fourberies	fourberie	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+ſubeilitez	subeilité	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+dangereuſes	dangereux	ADJqua	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Pour	pour	PRE	MORPH=empty	MORPH=empty						
+raoy	rai	NOMcom	NOMB.=s					NOMB.=s		
+ie	je	PROper	PERS.=1|NOMB.=s				PERS.=1	NOMB.=s		
+tiens	tenir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=s		
+pour	pour	PRE	MORPH=empty	MORPH=empty						
+vne	un	DETndf	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+maxime	maxime	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+infaillible	infaillible	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s					NOMB.=s		
+on	on	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+doit	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+iamais	jamais	ADVgen	MORPH=empty	MORPH=empty						
+admettre	admettre	VERinf	MORPH=empty	MORPH=empty						
+aux	à_le	PRE.DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+grandeurs	grandeur	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+ceux	celui	PROdem	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+ſont	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+nays	naître	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+que	que	CONsub	MORPH=empty	MORPH=empty						
+dans	dans	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+baſſeſſe	bassesse	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+dans	dans	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+honte	honte	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+Nobles	noble	NOMpro	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ſont	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+portez	porter	VERcjg	MODE=imp|NOMB.=p		MODE=imp			NOMB.=p		
+aux	à_le	PRE.DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+grandes	grand	ADJqua	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+actions	action	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+par	par	PRE	MORPH=empty	MORPH=empty						
+celles	celui	PROdem	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+leurs	leur	DETpos	PERS.=3|NOMB.=p|GENRE=m				PERS.=3	NOMB.=p	GENRE=m	
+Ayeux	aïeul	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+leur	il	PROper	PERS.=3|NOMB.=p|CAS=i				PERS.=3	NOMB.=p		CAS=i
+tiennent	tenir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=p		
+lieu	lieu	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+flambeau	flambeau	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+guides	guide	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+fidelles	fidèle	ADJqua	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Quoy	quoi	PROrel	MORPH=empty	MORPH=empty						
+qu’	que	PROrel	MORPH=empty	MORPH=empty						
+vn	un	PROind	NOMB.=s					NOMB.=s		
+docte	docte	VERcjg	TEMPS=pst|NOMB.=s|GENRE=m			TEMPS=pst		NOMB.=s	GENRE=m	
+ayt	avoir	VERcjg	MODE=ind|PERS.=3|NOMB.=s		MODE=ind		PERS.=3	NOMB.=s		
+dit	dire	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+autresfois	autrefois	ADVgen	MORPH=empty	MORPH=empty						
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+tout	tout	DETind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſang	sang	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+d’	de	PRE	MORPH=empty	MORPH=empty						
+vne	un	DETndf	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+couleur	couleur	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+:	:	PONfbl	MORPH=empty	MORPH=empty						
+ſi	si	CONsub	MORPH=empty	MORPH=empty						
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+il	il	PROimp	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+tres	très	ADVgen	MORPH=empty	MORPH=empty						
+certain	certain	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROimp	PERS.=3|NOMB.=s|GENRE=n|CAS=n				PERS.=3	NOMB.=s	GENRE=n	CAS=n
+y	y	PROadv	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+ie	je	PROper	NOMB.=s					NOMB.=s		
+?	?	PONfrt	MORPH=empty	MORPH=empty						
+neſç̧ay	nésuer	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+quoy	quoi	ADVgen	NOMB.=p					NOMB.=p		
+de	de	PRE	MORPH=empty	MORPH=empty						
+grand	grand	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+pour	pour	PRE	MORPH=empty	MORPH=empty						
+ainſi	ainsi	ADVgen	MORPH=empty	MORPH=empty						
+dire	dire	VERinf	MORPH=empty	MORPH=empty						
+vn	un	ADVgen	NOMB.=s					NOMB.=s		
+eſeconde	éseundre	VERppe	NOMB.=s					NOMB.=s		
+ame	âme	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+dans	dans	PRE	MORPH=empty	MORPH=empty						
+ceux	celui	PROdem	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+qu	que	PROrel	MORPH=empty	MORPH=empty						
+lont	lant	DETind	PERS.=3|NOMB.=p|GENRE=m				PERS.=3	NOMB.=p	GENRE=m	
+nays	naître	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+parens	parent	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+¬	@greek	NOMpro	MORPH=empty	MORPH=empty						
+laſtres	lastre	NOMcom	NOMB.=p					NOMB.=p		
+;	;	PONfbl	MORPH=empty	MORPH=empty						
+Qu’	que	CONsub	MORPH=empty	MORPH=empty						
+onu	onu	PROind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+’	’	ADVneg	MORPH=empty	MORPH=empty						
+eſtonne	étonner	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s		MODE=sub	TEMPS=pst	PERS.=3	NOMB.=s		
+donc	donc	ADVgen	MORPH=empty	MORPH=empty						
+pas	pas	ADVgen	MORPH=empty	MORPH=empty						
+s’	si	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+ya	jà	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+rien	rien	PROind	NOMB.=s					NOMB.=s		
+que	que	ADVgen	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+bas	bas	ADVgen	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+honteux	honteux	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+dans	dans	PRE	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Mazarin	Mazarin	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+puis	puis	ADVgen	MORPH=empty	MORPH=empty						
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+detres	détrer	ADVgen	MORPH=empty	MORPH=empty						
+baſſe	bas	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+naiſſance	naissance	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+:	:	PONfbl	MORPH=empty	MORPH=empty						
+Mais	mais	CONcoo	MORPH=empty	MORPH=empty						
+ceet	ce	DETdem	NOMB.=p					NOMB.=p		
+pas	pas	ADVneg	MORPH=empty	MORPH=empty						
+celadlont	céladler	VERcjg	MORPH=empty	MORPH=empty						
+is	is	VERcjg	PERS.=1				PERS.=1			
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+blaſme	blâme	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+c’	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+de	de	PRE	MORPH=empty	MORPH=empty						
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+auoir	avoir	VERinf	MORPH=empty	MORPH=empty						
+aucne	aucne	DETind	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+crainte	crainte	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+Dieu	Dieu	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+;	;	PONfbl	MORPH=empty	MORPH=empty						
+quoy	quoi	ADVgen	NOMB.=p					NOMB.=p		
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+au	à_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+dire	dire	VERinf	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+des	de_le	PRE.DETdef	NOMB.=p					NOMB.=p		
+ſçauans	scéaume	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+elle	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n				PERS.=3	NOMB.=s	GENRE=f	CAS=n
+ſoie	soie	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s		MODE=sub	TEMPS=pst	PERS.=3	NOMB.=s		
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+fidelle	fidèle	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+gardienne	gardien	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ſoeieté	soéiette	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+entre	entre	PRE	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+hommes	homme	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+C’	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+vn	un	ADVgen	MORPH=empty	MORPH=empty						
+eſtrangeabus	étrangeabus	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+dans	dans	PRE	MORPH=empty	MORPH=empty						
+un	un	DETndf	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Rorumepieur	rorumépieur	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+eraignant	éraignant	VERppa	GENRE=m						GENRE=m	
+Dieu	Dieu	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+avant	avant	PRE	MORPH=empty	MORPH=empty						
+a	à	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+preſent	présent	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+vn	un	PROind	MORPH=empty	MORPH=empty						
+oy	ouïr	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+quia	quia	PROcar	NOMB.=s					NOMB.=s		
+tous	tout	DETind	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+traits	trait	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+cette	ce	DETdem	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+vet	vêt	NOMcom	MODE=ind|TEMPS=psp|NOMB.=s		MODE=ind	TEMPS=psp		NOMB.=s		
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+n	n	ADVgen	MORPH=empty	MORPH=empty						
+aye	avoir	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+admisauminiſtere	admisauministère	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+vn	un	ADVgen	NOMB.=s					NOMB.=s		
+homme	homme	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſans	sans	PRE	MORPH=empty	MORPH=empty						
+religion	religion	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+lans	lan	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+pieteé	piéter	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n				PERS.=1	NOMB.=s	GENRE=m	CAS=n
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+dis	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=s		
+rien	rien	PROind	NOMB.=s					NOMB.=s		
+en	en	PRE	MORPH=empty	MORPH=empty						
+cela	cela	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+ſoit	être	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s		MODE=sub	TEMPS=pst	PERS.=3	NOMB.=s		
+ſçeu	savoir	VERppe	GENRE=m						GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+tout	tout	DETind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+nondes	nonde	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+publiéput	publier	ADVgen	MORPH=empty	MORPH=empty						
+tout	tout	ADVgen	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ouil	ouil	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+y	y	PROadv	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+des	un	DETndf	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ames	âme	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ſoient	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+capables	capable	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+quelque	quelque	DETind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+lentimentde	lentimentde	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+pier	pier	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Penſe	penser	NOMpro	NOMB.=s					NOMB.=s		
+pouuoir	pouvoir	VERinf	MORPH=empty	MORPH=empty						
+dire	dire	VERinf	MORPH=empty	MORPH=empty						
+iey	jei	ADVgen	MORPH=empty	MORPH=empty						
+auee	avoir	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+hardieſe	hardiese	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+ilny	ilny	ADVgen	MORPH=empty	MORPH=empty						
+en	en	ADVgen	MORPH=empty	MORPH=empty						
+apus	appus	PRE	NOMB.=p					NOMB.=p		
+vn	un	PROind	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+ceun	ceun	DETind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+neſme	nême	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+quiſont	quisont	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=p		
+aachei	@unknown	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+aſa	@latin	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+foune	foune	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+pat	@latin	VERcjg	TEMPS=psp|NOMB.=s			TEMPS=psp		NOMB.=s		
+leur	leur	DETpos	PERS.=3|NOMB.=s|GENRE=f				PERS.=3	NOMB.=s	GENRE=f	
+propre	propre	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+inrere	@latin	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ſt	saint	ADVgen	NOMB.=s					NOMB.=s		
+qui	@latin	PROrel	MORPH=empty	MORPH=empty						
+oſaſ	oser	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+conmredin	conmadinin	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+cce	cce	DETpos	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+veriré	@latin	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+etaut	@latin	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+done	donner	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+pasauouer	pasauouer	VERinf	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+cea	@latin	PROper	PERS.=3|NOMB.=s				PERS.=3	NOMB.=s		
+failircomreroue	faillircomeuroue	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ſore	sorer	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+nmnimes	netimes	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+d’	de	PRE	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+pro	@latin	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+he	hé	ADVgen	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+dn	de	PONfbl	MORPH=empty	MORPH=empty						
+ieune	jeune	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+o	o	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+e	e	PRE	MORPH=empty	MORPH=empty						
+verueux	verueux	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+des	de_le	PRE.DETdef	NOMB.=p					NOMB.=p		
+p	p	NOMcom	NOMB.=s					NOMB.=s		
+ſonnes	sonne	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+d	d	PONfbl	MORPH=empty	MORPH=empty						
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+ere	ère|erre	VERcjg	MODE=sub|TEMPS=pst|NOMB.=s		MODE=sub	TEMPS=pst		NOMB.=s		
+laure	laure	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+ſi	si	CONsub	MORPH=empty	MORPH=empty						
+nuſtre	nutre	DETpos	PERS.=2|NOMB.=s|GENRE=f				PERS.=2	NOMB.=s	GENRE=f	
+esnl	esnl	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+p	post	NOMcom	NOMB.=s					NOMB.=s		
+dne	de	PRE	MORPH=empty	MORPH=empty						
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+lois	loi	VERcjg	NOMB.=s					NOMB.=s		
+peſeue	peseu	VERppe	NOMB.=s					NOMB.=s		
+put	pouvoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+vne	un	DETndf	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+gnee	gnée	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ſpeiale	speiale	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+i	i	NOMpro	NOMB.=s					NOMB.=s		
+ſeroit	être	VERcjg	MODE=con|PERS.=3|NOMB.=s		MODE=con		PERS.=3	NOMB.=s		
+aindte	aindre	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+pour	pour	PRE	MORPH=empty	MORPH=empty						
+ly	li	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r				PERS.=1	NOMB.=s	GENRE=m	CAS=r
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+pout	pouvoir	ADVgen	NOMB.=s					NOMB.=s		
+nous	nous	PROper	PERS.=1|NOMB.=p				PERS.=1	NOMB.=p		
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+ſ	s	NOMcom	MORPH=empty	MORPH=empty						
+per	@latin	VERinf	MORPH=empty	MORPH=empty						
+poau	poau	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+uinſtres	@latin	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+coromp	@latin	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s		MODE=ind	TEMPS=psp	PERS.=3	NOMB.=s		
+ſeu	savoir	ADVgen	MORPH=empty	MORPH=empty						
+ſon	son	DETpos	PERS.=3|NOMB.=s|GENRE=m				PERS.=3	NOMB.=s	GENRE=m	
+ſpni	spi	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+Quanta	quanta	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s		MODE=ind	TEMPS=psp	PERS.=3	NOMB.=s		
+moy	je	PROper	PERS.=1|NOMB.=s|CAS=i				PERS.=1	NOMB.=s		CAS=i
+ie	je	PROper	PERS.=1|NOMB.=s				PERS.=1	NOMB.=s		
+ſuis	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=s		
+du	de_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſenimient	senimier	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+celuy	celui	PROdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+dits	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=s		
+que	que	CONsub	MORPH=empty	MORPH=empty						
+la	il	PROper	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+perd	perdre	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+uſtee	uter	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+magnanimie	magnanimie	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ont	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+rois	roi	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+pardes	parde	VERppe	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+lame	lame	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+d’	de	PRE	MORPH=empty	MORPH=empty						
+vn	un	DETndf	NOMB.=s					NOMB.=s		
+tſlt	tôt	PROper	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+n	n	ADVgen	MORPH=empty	MORPH=empty						
+aueune	aveuner	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ſes	son	DETpos	PERS.=3|NOMB.=p|GENRE=f				PERS.=3	NOMB.=p	GENRE=f	
+vertus	vertu	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+ſi	si	CONsub	MORPH=empty	MORPH=empty						
+ie	je	PROper	NOMB.=s					NOMB.=s		
+e	e	PONpga	MORPH=empty	MORPH=empty						
+enuionoi	envionoi	VERcjg	TEMPS=ipf|PERS.=1|NOMB.=s			TEMPS=ipf	PERS.=1	NOMB.=s		
+de	de	PRE	MORPH=empty	MORPH=empty						
+rtombor	@latin	VERinf	MORPH=empty	MORPH=empty						
+en	en	ADVgen	MORPH=empty	MORPH=empty						
+des	un	DETndf	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+redite	rédite	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+ie	je	PROper	PERS.=3|NOMB.=s				PERS.=3	NOMB.=s		
+pourois	pouvoir	VERcjg	MODE=con|PERS.=1|NOMB.=s		MODE=con		PERS.=1	NOMB.=s		
+ler	laisser	PROper	CAS=i							CAS=i
+quelque	quelque	DETind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+chole	chole	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ſa	son	DETpos	PERS.=3|NOMB.=s|GENRE=f				PERS.=3	NOMB.=s	GENRE=f	
+vie	vie	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+infane	infant	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+;	;	PONfbl	MORPH=empty	MORPH=empty						
+mais	mais	CONcoo	MORPH=empty	MORPH=empty						
+cerre	cerre	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+B	b	INJ	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f|CAS=r					NOMB.=s	GENRE=f	CAS=r
+¬	è	ADVneg	MORPH=empty	MORPH=empty						
+elle	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n				PERS.=3	NOMB.=s	GENRE=f	CAS=n
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+ſi	si	ADVgen	MORPH=empty	MORPH=empty						
+connuë	connaître	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+on	on	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+en	en	PROadv	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+fait	faire	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+tant	tant	ADVgen	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+portraits	portrait	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+ce	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+ſeroit	être	VERcjg	MODE=con|PERS.=3|NOMB.=s		MODE=con		PERS.=3	NOMB.=s		
+que	que	CONsub	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+meſme	même	ADJind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+tableau	tableau	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ou	ou	CONcoo	MORPH=empty	MORPH=empty						
+les	le	DETdef	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+leules	leule	ADJind	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+couleurs	couleur	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ſeroient	être	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=p		
+differentes	différent	ADJqua	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Ce	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+ſeroit	être	VERcjg	MODE=con|PERS.=3|NOMB.=s		MODE=con		PERS.=3	NOMB.=s		
+apres	après	PRE	MORPH=empty	MORPH=empty						
+tout	tout	PROind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+vn	un	ADVgen	NOMB.=s					NOMB.=s		
+tableau	tableau	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+des	de_le	PRE.DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+vices	vice	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+plus	plus	ADVgen	MORPH=empty	MORPH=empty						
+inſeames	inseame	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+dot	dot	PROrel	MORPH=empty	MORPH=empty						
+tu	tu	PROper	PERS.=2|NOMB.=s|CAS=n				PERS.=2	NOMB.=s		CAS=n
+te	tu	PROper	PERS.=2|NOMB.=s|CAS=r				PERS.=2	NOMB.=s		CAS=r
+noirey	noire	VERcjg	PERS.=2|NOMB.=s				PERS.=2	NOMB.=s		
+àla	aile	NOMcom	NOMB.=s					NOMB.=s		
+veue	voir	PROper	NOMB.=s					NOMB.=s		
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+aulseu	aulseu	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+e	e	PRE	MORPH=empty	MORPH=empty						
+toures	tour	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+nations	nation	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Il	il	PROimp	PERS.=0|NOMB.=s|GENRE=n|CAS=n				PERS.=0	NOMB.=s	GENRE=n	CAS=n
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+faut	falloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+que	que	CONsub	MORPH=empty	MORPH=empty						
+cete	ce	PROdem	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ſeule	seule	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+einnre	éinnre	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+pour	pour	PRE	MORPH=empty	MORPH=empty						
+endrele	endrele	VERcjg	NOMB.=s					NOMB.=s		
+oe	oe	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+odeui	odeui	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ene	en	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+neſne	nesne	VERcjg	MODE=ind|PERS.=3|NOMB.=s		MODE=ind		PERS.=3	NOMB.=s		
+quenſeonr	quenseon	VERinf	MORPH=empty	MORPH=empty						
+les	le	DETdef	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+pumle	pumle	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+plu	plaire	VERppe	NOMB.=s					NOMB.=s		
+reles	relet|rélet|rêle	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+l	le	DETdef	NOMB.=s					NOMB.=s		
+os	os	VERcjg	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+lo	lo	PROper	NOMB.=s|GENRE=m|CAS=r					NOMB.=s	GENRE=m	CAS=r
+lent	lent	VERcjg	PERS.=3|NOMB.=p|GENRE=m				PERS.=3	NOMB.=p	GENRE=m	
+que	que	PROrel	MORPH=empty	MORPH=empty						
+ce	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+fut	être	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s		MODE=ind	TEMPS=psp	PERS.=3	NOMB.=s		
+vn	un	PROind	NOMB.=s					NOMB.=s		
+des	de_le	DETndf	NOMB.=p					NOMB.=p		
+artiſhees	artishe	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+d’	de	PRE	MORPH=empty	MORPH=empty						
+vn	un	ADVgen	NOMB.=s					NOMB.=s		
+bon	bon	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Pelat	pelat	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+leandre	léandre	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+pour	pour	PRE	MORPH=empty	MORPH=empty						
+faire	faire	VERinf	MORPH=empty	MORPH=empty						
+conceuoir	concevoir	VERinf	MORPH=empty	MORPH=empty						
+à	avoir	VERcjg	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſe	se	PROper	PERS.=3				PERS.=3			
+peue	peuer	VERcjg	TEMPS=pst|PERS.=3|NOMB.=s			TEMPS=pst	PERS.=3	NOMB.=s		
+de	de	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+laine	laine	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+donure	donurer	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+vne	un	DETndf	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+llole	llole	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n				PERS.=3	NOMB.=s	GENRE=f	CAS=n
+nmoniſtrueule	nonistrueule	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+onmmendat	onmoendat	VERcjg	TEMPS=psp|PERS.=3|NOMB.=s			TEMPS=psp	PERS.=3	NOMB.=s		
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+elle	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n				PERS.=3	NOMB.=s	GENRE=f	CAS=n
+fut	être	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s		MODE=ind	TEMPS=psp	PERS.=3	NOMB.=s		
+expoſée	exposer	VERppe	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+au	à_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+publie	publie	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+;	;	PONfbl	MORPH=empty	MORPH=empty						
+mais	mais	CONcoo	MORPH=empty	MORPH=empty						
+e	e	PRE	MORPH=empty	MORPH=empty						
+ſaroit	sarer	VERcjg	MODE=con|PERS.=3|NOMB.=s		MODE=con		PERS.=3	NOMB.=s		
+vn	un	ADVgen	NOMB.=s					NOMB.=s		
+trauail	travail	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+inutile	inutile	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+:	:	PONfbl	MORPH=empty	MORPH=empty						
+tes	ton	DETpos	PERS.=2|NOMB.=p|GENRE=m				PERS.=2	NOMB.=p	GENRE=m	
+vices	vice	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ſont	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+connus	connaître	VERppe	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+e	e	NOMpro	MORPH=empty	MORPH=empty						
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+vices	vice	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ſont	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+publiez	publier	VERppe	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s					NOMB.=s		
+on	on	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+peut	pouvoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+dire	dire	VERinf	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+tes	ton	DETpos	PERS.=2|NOMB.=p|GENRE=m				PERS.=2	NOMB.=p	GENRE=m	
+Peintres	peintre	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+ont	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+pas	pas	ADVneg	MORPH=empty	MORPH=empty						
+aquis	acquis	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+peu	peu	ADVgen	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+reputation	réputation	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+’	’	CONcoo	MORPH=empty	MORPH=empty						
+eelnmee	éelner	ADJqua	NOMB.=s					NOMB.=s		
+du	de_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+pmeau	paeau	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſle	il	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n				PERS.=1	NOMB.=s	GENRE=m	CAS=n
+fait	faire	VERcjg	MODE=ind|NOMB.=s		MODE=ind			NOMB.=s		
+connoiſtre	connaître	VERinf	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+auſi	aussi	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+uen	uen	DETndf	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+vne	un	DETndf	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ouenon	ouenon	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+quenvne	quenve	VERppe	NOMB.=s					NOMB.=s		
+lledene	llédène	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+cde	cde	NOMcom	NOMB.=s					NOMB.=s		
+’	’	ADVneg	MORPH=empty	MORPH=empty						
+oeuune	œunknown	ADJqua	TEMPS=pst|NOMB.=s			TEMPS=pst		NOMB.=s		
+de	@latin	PRE	MORPH=empty	MORPH=empty						
+Phy	phi	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+das	das	VERppe	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+elitoit	@latin	VERcjg	NOMB.=s					NOMB.=s		
+vndsaire	@latin	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+Touut’	Touute	VERppe	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+Euopele	euopele	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+puunt	puer	VERppe	NOMB.=s					NOMB.=s		
+de	de	PRE	MORPH=empty	MORPH=empty						
+ues	@latin	DETndf	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+fouo	@latin	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+nre	nre	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+e	e	PRE	MORPH=empty	MORPH=empty						
+l	l	DETdef	NOMB.=s					NOMB.=s		
+s	s	NOMcom	NOMB.=s					NOMB.=s		
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+u	u	INJ	NOMB.=s					NOMB.=s		
+onme	onme	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+di	di	CONcoo	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+tu	tu	PROper	PERS.=2|NOMB.=s|CAS=n				PERS.=2	NOMB.=s		CAS=n
+lavavole	lavavoler	VERcjg	MODE=sub|TEMPS=pst|PERS.=2|NOMB.=s		MODE=sub	TEMPS=pst	PERS.=2	NOMB.=s		
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Cudinalat	cudinalat	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+renmole	renmole	NOMcom	NOMB.=s					NOMB.=s		
+que	que	CONsub	MORPH=empty	MORPH=empty						
+ere	@unknown	VERcjg	MODE=sub|TEMPS=psp|NOMB.=s		MODE=sub	TEMPS=psp		NOMB.=s		
+dignire	dignirer	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+doiue	doiué	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+dtre	dere	VERinf	MORPH=empty	MORPH=empty						
+deſomi	désomi	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+lneeonmpeſe	l'eeonopese	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+des	de_le	PRE.DETdef	NOMB.=p					NOMB.=p		
+l’	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+aehee	aehée	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+ſi	si	CONsub	MORPH=empty	MORPH=empty						
+les	le	DETdef	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+San	san	ADJcar	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+Pere	père	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+denrde	denré	VERcjg	NOMB.=s					NOMB.=s		
+pus	pus	ADVgen	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+ſerupule	sérupule	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+n	n	ADVgen	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ditnbuto	ditnbuto	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+eet	@latin	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+haonnmeu	haonneu	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+quiaſetuy	quiasetuy	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+dereconnoiſſancenu	dereconnaissancenu	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+aomn	aoman	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+lluſires	llusirer	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ie	je	PROper	NOMB.=s					NOMB.=s		
+de	de	PRE	MORPH=empty	MORPH=empty						
+pleeone	pleeone	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ſeoon	séoer	ADJqua	NOMB.=s					NOMB.=s		
+plus	plus	ADVgen	MORPH=empty	MORPH=empty						
+qun	que	ADVgen	MORPH=empty	MORPH=empty						
+ls	li	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+perode	pérode	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+e	e	PRE	MORPH=empty	MORPH=empty						
+ambinieun	ambinieun	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Poſeous	poseous	ADVgen	NOMB.=p					NOMB.=p		
+due	devoir	ADJcar	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+e	e	PRE	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+ſuiet	sujet	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ſeandale	séandale	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+doi	devoir	ADVgen	MORPH=empty	MORPH=empty						
+arirerle	arire	ADJqua	NOMB.=s					NOMB.=s		
+laudesd’	laudesd'	VERppe	MORPH=empty	MORPH=empty						
+n	n°	ADVgen	MORPH=empty	MORPH=empty						
+chaeun	chaud	DETind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+deſlus	deslus	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+tateiſe	tateise	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+Onſoui	onsoui	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+que	que	CONsub	MORPH=empty	MORPH=empty						
+pi	pi	CONsub	MORPH=empty	MORPH=empty						
+s	s	NOMpro	NOMB.=p					NOMB.=p		
+delies	délier	VERcjg	MODE=ind|TEMPS=pst|NOMB.=p|GENRE=m		MODE=ind	TEMPS=pst		NOMB.=p	GENRE=m	
+dela	delà	PROper	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+vansene	vensene	VERcjg	TEMPS=pst|NOMB.=s|GENRE=f			TEMPS=pst		NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+qus	qus	PROrel	NOMB.=p					NOMB.=p		
+u	u	PROcar	NOMB.=s					NOMB.=s		
+ds	ds	NOMcom	NOMB.=s					NOMB.=s		
+de	de	PRE	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+eur	avoir	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+cet	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Ielisn	ielisn	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+diſoit	dire	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=s		
+que	que	CONsub	MORPH=empty	MORPH=empty						
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+Dieux	dieu	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+1	1	ADJcar	NOMB.=p					NOMB.=p		
+1	1	ADJcar	NOMB.=p					NOMB.=p		
+eſtoient	être	VERcjg	TEMPS=ipf|PERS.=3|NOMB.=p			TEMPS=ipf	PERS.=3	NOMB.=p		
+gardé́	garder	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+meilleur	meilleur	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+tous	tout	DETind	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+morceaux	morceau	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+en	en	ADVgen	MORPH=empty	MORPH=empty						
+ſe	se	PROper	PERS.=3				PERS.=3			
+releruans	releruer	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p		MODE=ind	TEMPS=psp	PERS.=3	NOMB.=p		
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+plaiſir	plaisir	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+vangeance	vengeance	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+;	;	PONfbl	MORPH=empty	MORPH=empty						
+mais	mais	CONcoo	MORPH=empty	MORPH=empty						
+comme	comme	CONsub	MORPH=empty	MORPH=empty						
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſentiment	sentiment	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+criminel	criminel	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+quoy	quoi	PROrel	MORPH=empty	MORPH=empty						
+qu’	que	PROrel	MORPH=empty	MORPH=empty						
+exprimé	exprimer	ADJqua	NOMB.=s					NOMB.=s		
+par	par	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+bouche	bouche	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+d’	de	PRE	MORPH=empty	MORPH=empty						
+vn	un	ADVgen	NOMB.=s					NOMB.=s		
+profane	profane	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+el	el	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+nom	nom	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+doit	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+prendre	prendre	VERinf	MORPH=empty	MORPH=empty						
+en	en	PRE	MORPH=empty	MORPH=empty						
+celle	celui	PROdem	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+d’	de	PRE	MORPH=empty	MORPH=empty						
+vn	un	PROind	NOMB.=s					NOMB.=s		
+Prince	prince	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+Egliſe	église	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+?	?	PONfrt	MORPH=empty	MORPH=empty						
+cela	cela	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+rien	rien	PROind	NOMB.=s					NOMB.=s		
+de	de	PRE	MORPH=empty	MORPH=empty						
+cette	ce	DETdem	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ancienne	ancien	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+Rome	Rome	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ny	ni	ADVgen	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+nouuelle	nouvelle	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+La	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+profane	profane	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+eſtoit	être	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=s		
+plus	plus	ADVgen	MORPH=empty	MORPH=empty						
+conſcientieuſe	consciencieux	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ſainte	saint	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+peut	pouvoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+ſouffrir	souffrir	VERinf	MORPH=empty	MORPH=empty						
+ce	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+que	que	PROrel	MORPH=empty	MORPH=empty						
+tu	tu	PROper	PERS.=2|NOMB.=s|CAS=n				PERS.=2	NOMB.=s		CAS=n
+appreuues	appreuver	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=2	NOMB.=s		
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Quoy	quoi	PROrel	MORPH=empty	MORPH=empty						
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+eſtrangers	étranger	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+diront	dire	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p		MODE=ind	TEMPS=fut	PERS.=3	NOMB.=p		
+ils	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=n				PERS.=3	NOMB.=p	GENRE=m	CAS=n
+pas	pas	ADVneg	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+c’	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+eft	eff	VERcjg	MODE=sub|TEMPS=ipf|PERS.=3|NOMB.=s		MODE=sub	TEMPS=ipf	PERS.=3	NOMB.=s		
+vne	un	DETndf	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+honte	honte	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+à	à	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+Frane	frane	NOMpro	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+qu’	que	PROrel	MORPH=empty	MORPH=empty						
+elle	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n				PERS.=3	NOMB.=s	GENRE=f	CAS=n
+ſouffre	souffrir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+vn	un	DETndf	MORPH=empty	MORPH=empty						
+miniſtre	ministre	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+reſpire	respirer	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+qu’	que	ADVgen	MORPH=empty	MORPH=empty						
+apres	après	PRE	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+meurtre	meurtre	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+carnage	carnage	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ceux	celui	PROdem	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+l’	il	PROper	PERS.=3|NOMB.=s|CAS=r				PERS.=3	NOMB.=s		CAS=r
+ont	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+reçeu	recevoir	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+chez	chez	PRE	MORPH=empty	MORPH=empty						
+eui	avoir	VERppe	NOMB.=s					NOMB.=s		
+auec	avec	PRE	MORPH=empty	MORPH=empty						
+honneur	honneur	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+tét	tét	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+inſolent	insolent	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+donne	donner	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+des	un	DETndf	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+exemples	exemple	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+ſi	si	ADVgen	MORPH=empty	MORPH=empty						
+pernicieux	pernicieux	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+aà̀	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+vn	un	ADVgen	MORPH=empty	MORPH=empty						
+ieune	jeune	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+Monarque	monarque	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+?	?	PONfrt	MORPH=empty	MORPH=empty						
+Tout	tout	DETind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+mode	mode	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+crie	crier	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+tout	tout	ADVgen	MORPH=empty	MORPH=empty						
+haut	haut	ADVgen	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+que	que	CONsub	MORPH=empty	MORPH=empty						
+u	u	INJ	NOMB.=s					NOMB.=s		
+imites	imiter	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+les	le	DETdef	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+voleurs	voleur	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+des	de_le	PRE.DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+graãds	gracd	ADJqua	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+chemins	chemin	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+tuent	tuer	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+ceux	celui	PROdem	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+à	à	PRE	MORPH=empty	MORPH=empty						
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ils	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=n				PERS.=3	NOMB.=p	GENRE=m	CAS=n
+ont	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+oté	ôter	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+bourſe	bourse	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Pour	pour	PRE	MORPH=empty	MORPH=empty						
+peur	peur	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+que	que	CONsub	MORPH=empty	MORPH=empty						
+t	tout	NOMcom	MORPH=empty	MORPH=empty						
+euſſes	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=p		
+leu	lire	VERppe	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+Hiſtoires	histoire	NOMpro	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+tu	tu	PROper	PERS.=2|NOMB.=s|CAS=n				PERS.=2	NOMB.=s		CAS=n
+aurois	avoir	VERcjg	MODE=con|PERS.=1|NOMB.=s		MODE=con		PERS.=1	NOMB.=s		
+appris	apprendre	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+que	que	CONsub	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+clémence	clémence	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+conſeruatrice	conservateur|conserv	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+des	de_le	PRE.DETdef	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+mpires	mpire	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+qu’	que	PROrel	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+y	y	PROadv	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+que	que	ADVgen	MORPH=empty	MORPH=empty						
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+tirans	tyran	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ſe	se	PROper	PERS.=3				PERS.=3			
+plaiſent	plaire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+à	à	PRE	MORPH=empty	MORPH=empty						
+voir	voir	VERinf	MORPH=empty	MORPH=empty						
+des	un	DETndf	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+ſupplices	supplice	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Vn	un	DETndf	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+bel	beau	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+eſprit	esprit	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+dit	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s		MODE=ind	TEMPS=psp	PERS.=3	NOMB.=s		
+fort	fort	ADVgen	MORPH=empty	MORPH=empty						
+à	avoir	VERppe	NOMB.=s					NOMB.=s		
+propos	propos	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſur	sur	PRE	MORPH=empty	MORPH=empty						
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſuiet	sujet	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qu’	que	PROrel	MORPH=empty	MORPH=empty						
+il	il	PROimp	PERS.=0|NOMB.=s|GENRE=m|CAS=n				PERS.=0	NOMB.=s	GENRE=m	CAS=n
+faut	falloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+épargner	espargner	VERinf	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſang	sang	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+des	de_le	PRE.DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+hommes	homme	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+pour	pour	PRE	MORPH=empty	MORPH=empty						
+ce	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+que	que	PROrel	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+grand	grand	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+nombre	nombre	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+des	de_le	PRE.DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+ſupplices	supplice	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+apporte	apporter	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+pas	pas	ADVgen	MORPH=empty	MORPH=empty						
+moins	moins	ADVgen	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+des	un	DETndf	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+-	-	PONfbl	MORPH=empty	MORPH=empty						
+honneur	honneur	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+à	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+vn	un	ADVgen	NOMB.=s					NOMB.=s		
+Prince	prince	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+fait	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+grand	grand	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+nombre	nombre	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+funerailles	funérailles	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+aà	aù	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+vn	un	ADVgen	MORPH=empty	MORPH=empty						
+Medecin	médecin	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+C’	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+doncauee	doncauer	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+raiſon	raison	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+que	que	PROrel	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+on	on	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+mettra	mettre	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s		MODE=ind	TEMPS=fut	PERS.=3	NOMB.=s		
+delormais	délormer	ADVgen	MORPH=empty	MORPH=empty						
+leMazarin	lémazarin	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+au	à_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+rang	rang	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+des	de_le	PRE.DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+demons	démon	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+ſont	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+capables	capable	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+que	que	CONsub	MORPH=empty	MORPH=empty						
+du	de_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+mal	mal	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+peut	pouvoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+eſtre	être	VERinf	MORPH=empty	MORPH=empty						
+auſſi	aussi	ADVgen	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+comme	comme	CONsub	MORPH=empty	MORPH=empty						
+eux	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=i				PERS.=3	NOMB.=p	GENRE=m	CAS=i
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+porte	porter	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s		MODE=sub	TEMPS=pst	PERS.=3	NOMB.=s		
+ſon	son	DETpos	PERS.=3|NOMB.=s|GENRE=m				PERS.=3	NOMB.=s	GENRE=m	
+enfer	enfer	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+dedans	dedans	PRE	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſein	sein	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+S’	si	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+luy	il	PROper	PERS.=3|NOMB.=s|CAS=r				PERS.=3	NOMB.=s		CAS=r
+reſte	rester	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+quelque	quelque	DETind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+peu	peu	PROind	GENRE=n						GENRE=n	
+de	de	PRE	MORPH=empty	MORPH=empty						
+conſcience	conscience	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+elle	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n				PERS.=3	NOMB.=s	GENRE=f	CAS=n
+doit	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+eſtre	être	VERinf	MORPH=empty	MORPH=empty						
+dechiré́e	déchirée	VERppe	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+par	par	PRE	MORPH=empty	MORPH=empty						
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+remords	remords	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ſes	son	DETpos	PERS.=3|NOMB.=p|GENRE=f				PERS.=3	NOMB.=p	GENRE=f	
+crimescõme	crimescyme	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+par	par	PRE	MORPH=empty	MORPH=empty						
+mille	mille	DETcar	NOMB.=p					NOMB.=p		
+imptoya	imptoya	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+bles	blé	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+bourreaux	bourreau	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Toutefois	toutefois	ADVgen	MORPH=empty	MORPH=empty						
+comme	comme	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+aintelligence	aintelligence	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+aueç	avec	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+cette	ce	DETdem	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ſorte	sorte	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+perſonnes	personne	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+(	(	PONpga	MORPH=empty	MORPH=empty						
+ie	je	PROper	PERS.=1|NOMB.=s				PERS.=1	NOMB.=s		
+veux	vouloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=1	NOMB.=s		
+dire	dire	VERinf	MORPH=empty	MORPH=empty						
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+Financiers	financier	NOMpro	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+quiſont	quisont	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=p		
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+bourreaux	bourreau	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+du	de_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+pauure	pauvre	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+peuple	peuple	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+)	)	PONpdr	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+puis	puis	ADVgen	MORPH=empty	MORPH=empty						
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROimp	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+en	en	PROadv	MORPH=empty	MORPH=empty						
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+protecteur	protecteur	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+il	il	PROimp	PERS.=0|NOMB.=s|GENRE=m|CAS=n				PERS.=0	NOMB.=s	GENRE=m	CAS=n
+faut	falloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+croite	croîter	NOMcom	NOMB.=s					NOMB.=s		
+qu	que	CONsub	MORPH=empty	MORPH=empty						
+ileneſt	ilener	ADJqua	NOMB.=p					NOMB.=p		
+moins	moins	ADVgen	MORPH=empty	MORPH=empty						
+tourmenté	tourmenter	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Cependant	cependant	ADVgen	MORPH=empty	MORPH=empty						
+ie	je	PROper	PERS.=1|NOMB.=s				PERS.=1	NOMB.=s		
+me	je	PROper	PERS.=1|NOMB.=s|CAS=r				PERS.=1	NOMB.=s		CAS=r
+figure	figurer	VERcjg	TEMPS=pst|NOMB.=s			TEMPS=pst		NOMB.=s		
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+s’	si	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+fait	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+reſtitutioa	restitution	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ſes	son	DETpos	PERS.=3|NOMB.=p|GENRE=m				PERS.=3	NOMB.=p	GENRE=m	
+larcins	larcin	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+particulierement	particulièrement	ADVgen	MORPH=empty	MORPH=empty						
+du	de_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Roy	roi	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qu’	que	PROrel	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+nous	nous	PROper	PERS.=1|NOMB.=p				PERS.=1	NOMB.=p		
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+enleué	enlever	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+aura	avoir	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s		MODE=ind	TEMPS=fut	PERS.=3	NOMB.=s		
+des	un	DETndf	NOMB.=p					NOMB.=p		
+bourreaux	bourreau	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+eternels	éternel	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+auſſi	aussi	ADVgen	MORPH=empty	MORPH=empty						
+bien	bien	ADVgen	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+des	un	DETndf	NOMB.=p					NOMB.=p		
+tourmens	tourment	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+qui	qui	PROrel	MORPH=empty	MORPH=empty						
+ne	ne	ADVneg	MORPH=empty	MORPH=empty						
+finiront	finir	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p		MODE=ind	TEMPS=fut	PERS.=3	NOMB.=p		
+iamais	jamais	ADVgen	MORPH=empty	MORPH=empty						
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Il	il	PROimp	PERS.=0|NOMB.=s|GENRE=n|CAS=n				PERS.=0	NOMB.=s	GENRE=n	CAS=n
+me	je	PROper	PERS.=1|NOMB.=s|CAS=r				PERS.=1	NOMB.=s		CAS=r
+ſemble	sembler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+que	que	CONsub	MORPH=empty	MORPH=empty						
+c’	ce	PROdem	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+eſtoit	être	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=s		
+bien	bien	ADVgen	MORPH=empty	MORPH=empty						
+aſſez	assez	ADVgen	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+paſſer	passer	VERinf	MORPH=empty	MORPH=empty						
+pour	pour	PRE	MORPH=empty	MORPH=empty						
+vn	un	ADVgen	MORPH=empty	MORPH=empty						
+coupeur	coupeur	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+bourſeſans	boursesan	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+ioindre	joindre	VERinf	MORPH=empty	MORPH=empty						
+aà̀	avoir	VERppe	NOMB.=s					NOMB.=s		
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+crime	crime	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+celuy	celui	PROdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+voleur	voleur	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+nuict	nuit	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+puis	puis	ADVgen	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+ceſt	ce	PROper	PERS.=2|NOMB.=p				PERS.=2	NOMB.=p		
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+faueur	faveur	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+des	de_le	PRE.DETdef	NOMB.=p					NOMB.=p		
+tenebres	ténèbre	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+qu	que	PROrel	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+nous	nous	PROper	PERS.=1|NOMB.=p				PERS.=1	NOMB.=p		
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+derobé	dérober	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+noſtreieune	nostreieune	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+Monarque	monarque	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+N’	ne	ADVneg	MORPH=empty	MORPH=empty						
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+pas	pas	ADVneg	MORPH=empty	MORPH=empty						
+vray	vrai	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+die	dire	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+apres	après	PRE	MORPH=empty	MORPH=empty						
+auoir	avoir	VERinf	MORPH=empty	MORPH=empty						
+ouuragé	ouvrager	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+tous	tout	DETind	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+Potentats	potentat	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+terre	terre	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+&	et	CONcoo	MORPH=empty	MORPH=empty						
+toutes	tout	DETind	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+les	le	DETdef	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+nations	nation	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+deſſein	dessein	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+d’	de	PRE	MORPH=empty	MORPH=empty						
+entreprendreſur	entreprendre	VERinf	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+authorité	autorité	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+du	de_le	PRE.DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+S	s	NOMpro	NOMB.=s					NOMB.=s		
+.	.	PONpxx	MORPH=empty	MORPH=empty						
+Siege	siège	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+puis	puis	ADVgen	MORPH=empty	MORPH=empty						
+que	que	CONsub	MORPH=empty	MORPH=empty						
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+eſtant	être	VERppa	MORPH=empty	MORPH=empty						
+pas	pas	ADVgen	MORPH=empty	MORPH=empty						
+Pape	pape	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+veut	vouloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+inſtituer	instituer	VERinf	MORPH=empty	MORPH=empty						
+va	aller	DETcar	PERS.=3|NOMB.=s				PERS.=3	NOMB.=s		
+ouueau	ouveau	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ieuſne	jeune	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+en	en	ADVgen	MORPH=empty	MORPH=empty						
+affamant	affamer	VERppa	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ville	ville	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+Paris	Paris	NOMpro	NOMB.=s					NOMB.=s		
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Mais	mais	CONcoo	MORPH=empty	MORPH=empty						
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+omme	omme	NOMcom	NOMB.=s					NOMB.=s		
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+deſſein	dessein	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+horrible	horrible	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+Ciel	ciel	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+n’	ne	ADVneg	MORPH=empty	MORPH=empty						
+exauce	exaucer	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+pasſes	passer	ADJqua	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+vœux	vœu	ADJqua	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+s’	se	PROper	PERS.=3				PERS.=3			
+oppoſe	opposer	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+a	à	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+ſes	son	DETpos	PERS.=3|NOMB.=p|GENRE=f				PERS.=3	NOMB.=p	GENRE=f	
+iniuſtes	injuste	ADJqua	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+pretentions	prétention	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+Dieu	Dieu	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+ſoin	soin	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+des	de_le	DETndf	NOMB.=p					NOMB.=p		
+innocens	innocent	NOMcom	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+que	que	PROrel	MORPH=empty	MORPH=empty						
+cét	ce	PROper	PERS.=3|NOMB.=s				PERS.=3	NOMB.=s		
+herode	hérode	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+voudroit	vouloir	VERcjg	MODE=con|PERS.=3|NOMB.=s		MODE=con		PERS.=3	NOMB.=s		
+egorger	égorger	VERinf	MORPH=empty	MORPH=empty						
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+Si	si	CONsub	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s|GENRE=n					NOMB.=s	GENRE=n	
+õ6	36	CONcoo	MORPH=empty	MORPH=empty						
+a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+dit	dire	VERppe	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+celuy	celui	PROdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+là	lat	ADJqua	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+valloit	valoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s		MODE=ind	TEMPS=ipf	PERS.=3	NOMB.=s		
+mieux	mieux	ADVgen	MORPH=empty	MORPH=empty						
+étreſon	étréson	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+pourceau	pourceau	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+que	que	CONsub	MORPH=empty	MORPH=empty						
+ſon	son	DETpos	PERS.=3|NOMB.=s|GENRE=m				PERS.=3	NOMB.=s	GENRE=m	
+fils	fils	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+on	on	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+peurt	pouvoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+dire	dire	VERinf	MORPH=empty	MORPH=empty						
+de	de	PRE	MORPH=empty	MORPH=empty						
+ceuy	ceui	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+-	-	PONfbl	MORPH=empty	MORPH=empty						
+cy	ci	ADVgen	MORPH=empty	MORPH=empty						
+qu’	que	CONsub	MORPH=empty	MORPH=empty						
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n				PERS.=3	NOMB.=s	GENRE=m	CAS=n
+vaut	valoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+mieux	mieux	ADVgen	MORPH=empty	MORPH=empty						
+eſtre	être	VERinf	MORPH=empty	MORPH=empty						
+le	le	DETdef	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+iniſtre	inistre	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+de	de	PRE	MORPH=empty	MORPH=empty						
+ſesvoluptez	sévolupte	NOMcom	NOMB.=p					NOMB.=p		
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+ou	ou	CONcoo	MORPH=empty	MORPH=empty						
+quelque	quelque	DETind	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+choſe	chose	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+pire	pire	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+ſi	si	CONsub	MORPH=empty	MORPH=empty						
+l’	le	DETdef	NOMB.=s					NOMB.=s		
+on	on	PROind	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+veut	vouloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+éuirer	esvirer	VERinf	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+fureur	fureur	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+.	.	PONfrt	MORPH=empty	MORPH=empty						
+I’	je	PROimp	PERS.=0|NOMB.=s|GENRE=m|CAS=n				PERS.=0	NOMB.=s	GENRE=m	CAS=n
+aurois	avoir	VERcjg	MODE=con|PERS.=1|NOMB.=s		MODE=con		PERS.=1	NOMB.=s		
+beaucoup	beaucoup	ADVgen	MORPH=empty	MORPH=empty						
+plus	plus	ADVgen	MORPH=empty	MORPH=empty						
+a	à	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+dire	dire	VERinf	MORPH=empty	MORPH=empty						
+ſur	sur	PRE	MORPH=empty	MORPH=empty						
+ce	ce	DETdem	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+ſuiet	sujet	NOMcom	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+;	;	PONfbl	MORPH=empty	MORPH=empty						
+mais	mais	CONcoo	MORPH=empty	MORPH=empty						
+i’	je	PROper	PERS.=3|NOMB.=s|CAS=n				PERS.=3	NOMB.=s		CAS=n
+ay	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+peur	peur	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+me	je	PROper	PERS.=1|NOMB.=s|CAS=r				PERS.=1	NOMB.=s		CAS=r
+ſalir	saillir|salir	VERinf	MORPH=empty	MORPH=empty						
+parmyces	parmice	VERppe	NOMB.=p|GENRE=f					NOMB.=p	GENRE=f	
+ordur	@latin	VERinf	MORPH=empty	MORPH=empty						
+res	@latin	NOMcom	NOMB.=p|GENRE=m					NOMB.=p	GENRE=m	
+,	,	PONfbl	MORPH=empty	MORPH=empty						
+dont	dont	PROrel	MORPH=empty	MORPH=empty						
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+vie	vie	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+de	de	PRE	MORPH=empty	MORPH=empty						
+Mazariu	Mazariu	NOMpro	NOMB.=s|GENRE=m					NOMB.=s	GENRE=m	
+eſt	être	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+la	le	DETdef	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+ſource	source	NOMcom	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+inparemen	inparemen	ADJqua	NOMB.=s|GENRE=f					NOMB.=s	GENRE=f	
+feconde	fécond	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s		MODE=ind	TEMPS=pst	PERS.=3	NOMB.=s		
+.	.	PONfrt	MORPH=empty	MORPH=empty						

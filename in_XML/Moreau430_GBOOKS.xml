@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-model href='https://raw.githubusercontent.com/Antonomaz/ODD/main/Schema/ODD_Antonomaz.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'?>
+<?xml-model href='https://raw.githubusercontent.com/Antonomaz/ODD/main/Schema/ODD_Antonomaz.rng' type='application/xml' schematypens='http://purl.oclc.org/dsdl/schematron'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Moreau430_GBOOKS">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" source="Moreau">L’astrologue françois, prédisant les événements singulier
+          et universels des États et empires du monde, selon le changement des globes célestes dans
+          la présente année astronomique</title>
+        <title type="sub">Édition Antonomaz</title>
+        <respStmt>
+          <resp>Chaîne de traitement</resp>
+          <persName ref="orcid:0000-0001-9518-1040" role="Project_manager">Abiven Karine</persName>
+          <persName ref="orcid:0000-0002-4795-2362" role="Project_manager">Lejeune Gaël</persName>
+          <persName ref="orcid:0000-0002-0007-1664" role="OCRisation">Tanguy
+            Jean-Baptiste</persName>
+          <persName ref="orcid:0000-0003-0850-8266" role="engineer">Bartz Alexandre</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Projet ANTONOMAZ / Sorbonne Université</publisher>
+        <ref target="https://github.com/Antonomaz"/>
+        <date type="file_creation" when="2021-11-02">2 novembre 2021</date>
+        <availability n="cc-by" status="restricted">
+          <licence target="https://creativecommons.org/licenses/by/4.0"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ref target="https://books.google.fr/books?id=scVv4HbV4e4C"/>
+          <author/>
+          <title source="Moreau">Astrologue (l’) françois, prédisant les événements singulier (sic)
+            et universels des États et empires du monde, selon le changement des globes célestes
+            dans la présente année astronomique</title>
+          <pubPlace ref="geonames:2988507" source="Moreau">Paris</pubPlace>
+          <publisher ref="isni:0000000063027789" xml:id="IL_MorlotClaude.xml">
+            <persName>
+              <forename>Claude</forename>
+              <surname>Morlot</surname>
+            </persName>
+          </publisher>
+          <date source="Moreau" when="1649">1649</date>
+          <date source="Carrier" notBefore="1649-01" notAfter="1649-03">pendant le blocus de
+            Paris</date>
+          <extent>
+            <measure quantity="8" unit="page"/>
+          </extent>
+          <note type="format">in-4</note>
+          <relatedItem source="Mazarine" type="identifier" subtype="BM01588" cert="high"
+            target="https://mazarinades.bibliotheque-mazarine.fr/ark:/61562/bm50483"/>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <settlement ref="geonames:2996944">Lyon</settlement>
+            <institution>Bibliothèque municipale</institution>
+            <repository/>
+            <idno type="cote">SJ IF 247/178, 14</idno>
+          </msIdentifier>
+          <history>
+            <provenance>
+              <stamp>False</stamp>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Cette édition a été réalisée dans le cadre du projet ANTONOMAZ. Son objectif principal
+          est de fournir un texte destiné à l'exploration avec des outils électroniques. De ce fait,
+          ce n'est ni une édition philologique, ni une édition pédagogique ou de redécouverte d'un
+          auteur oublié.</p>
+        <p>Les textes encodés dans le cadre du projet ANTONOMAZ sont issus de numérisations de
+          bibliothèques numériques publiques et de Google livres.</p>
+        <p>L'édition présentée ici est issue d'un processus d'OCRisation réalisé avec Kraken.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fra">Document en français</language>
+      </langUsage>
+      <abstract>
+        <p source="Mazarine">D'après Hubert Carrier, texte paru pendant le blocus de Paris
+          (Bibliothèque Mazarine, Ms. 4682-1, f. 227v).</p>
+        <p source="Moreau">430. Astrologue (l’) françois, prédisant les événements singulier (sic)
+          et universels des États et empires du monde, selon le changement des globes célestes dans
+          la présente année astronomique. Parrs, Claude Mor- lot, 1649, B pages.</p>
+      </abstract>
+      <textClass>
+        <keywords>
+          <term type="form">prose</term>
+          <term type="subject">Prophéties</term>
+          <term type="subject">Astrologie et politique</term>
+          <term type="handwritten_note" subtype="no"/>
+          <term type="table_of_content" subtype="no"/>
+          <term type="illustration" subtype="no"/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change status="corrected" when="2022-04-04" who="AB"/>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <pb n="1"/>
+        <lb/>L'ASTROLOGVE
+        <lb/>FRANCOIS.
+        <lb/>PREDISANT LES EVENEMENS
+        <lb/>SINGVLIER ET VNIVERSELS
+        <lb/>DES ESTATS ET EMPIRES DV MONDE.
+        <lb/>Selon le changement des Globes Celeſtes en l’année
+        <lb/>preſente Aſtronomicque. <figure type="decoration"/>
+        <lb/>A PARIS,
+        <lb/>Chez CLAVDE MORLOT, ruë de la Bucherie,
+        <lb/>aux vieilles Eſtuues.
+        <lb/>M. DC. XLIX.
+        <lb/>
+        <imprimatur>AVEC PERMISSION.</imprimatur>
+        <pb n="2"/>
+        <pb n="3"/>
+        <lb/>3
+        <lb/>L’ASTROLOGVE FRANCOIS,
+        <lb/>prediſant les euenemens ſinguliers &amp; vniuer
+        <lb rend="¬" break="no"/>ſels des Eſtats &amp; Empires du monde.
+        <lb/>Selo le changemene des labes eleſtes.
+        <lb/>J EXPERIENCE iournaliere nous fait
+        <lb/>LLvoir que les Anciens Philoſophes ont eu
+        <lb/>bone grace de dire que les Cauſes ſuperieures
+        <lb/>gouuetnent les inferieures; &amp; que ce n’eſt pas ſan
+        <lb/>raiſon qu’vn de nosPoëtes a dit, ſtra regunt ho
+        <lb rend="¬" break="no"/>mines, ſed Deas ftra regit. Dans mon Aſtrolo
+        <lb rend="¬" break="no"/>gie ie n’entends point parler des Euenemens des
+        <lb/>Cauſes Vegetatiues &amp; Senſitiues, ny auſſi des
+        <lb/>Corps ſimples; Si vous exceptez le Ciel &amp; la Ter
+        <lb rend="¬" break="no"/>re, ſeulemet ie deſire monſtrer, le bon-heur &amp;
+        <lb/>leperil desVilles, des Eſtars, des Royaumes &amp;
+        <lb/>Bapires, en deſcouurent le: changement de la
+        <lb/>bonne &amp; mauuaiſe fortune des plus grands hom
+        <lb rend="¬" break="no"/>mes de l’Vniuers. Pour ce ſuject ie ſuiuray la me
+        <lb rend="¬" break="no"/>dode des Anciens Geographes, en diuiſant le
+        <lb/>Clobe Terreſtre en quatre parties. C’eſt à̀ ſça
+        <lb rend="¬" break="no"/>uit, en Europe, Aſie, Affrique, &amp; les deux A
+        <lb rend="¬" break="no"/>meriques. En premier lieu, comme l’Europe eſt
+        <lb/>l plus noble partie de l’Vniuets, dans laquelle
+        <lb/>eſne nous habitons, il ne ſera pas hors de pro¬ <pb n="4"/>
+        <lb/>pos de commencer par elle; Vous remarquerez
+        <lb/>donc que la terre dont la longueur et de trois
+        <lb/>mille trois cens cinquante lieues, Sa lergeur de
+        <lb/>deux mille cent cinquante, &amp; que le Globe de
+        <lb/>l eau &amp; de la terre n’a que neuf mille lieuë detour,
+        <lb/>lequel Globe reçoit non ſeulement les influences
+        <lb rend="¬" break="no"/>des quarante-huit Conſtellations Celeſtes :mais
+        <lb rend="¬" break="no"/>encore tous les Eſtres qui ſont produits, où qui y
+        <lb/>viuent, ſi vous exceptez l’Ame raiſonnable, la
+        <lb rend="¬" break="no"/>quelle eſtant immaterielle eſt incapable de ſouf¬
+        <lb rend="¬" break="no"/>frir des paſſions eſtrangeres. L’LEuropeeſtvne des
+        <lb/>parties de ce Globe, qui contient les Eſtats &amp; les
+        <lb rend="¬" break="no"/>terres du Pape, du Roy de France, de lEmpe
+        <lb rend="¬" break="no"/>reur, du Roy d’Eſpagne, des Ducs de Florence,
+        <lb/>de Veniſe, de Sennes &amp; de Gennes. Comme auſ
+        <lb rend="¬" break="no"/>ſi des Rois d’Angleterre, de Hongrie, de Boëf.
+        <lb/>me; du Portuguez, de Pologne &amp; de Dannemarc,
+        <lb/>ces puiſſances ſuprémes ont ſur leur domination
+        <lb/>pluſieurs grands Perſonnages. Ie preuois par la
+        <lb/>Conijonction de Mars auecque Venus -au ſecond
+        <lb/>degré duBelier, que Bellonne apres quelques aſ
+        <lb rend="¬" break="no"/>ſaurs qu’elle aura donneé, ſera contrainte de faire
+        <lb/>filer ſon bagage ailleurs, ſi elle n’eſt arreſtée en
+        <lb/>Angleterre, &amp; chez les Venitiens, par la feoide
+        <lb/>mine de Mereure, pluſieurs grands Perſonnages
+        <lb/>ſeront accuſez de Peculat &amp; Concuſſions &amp; quel
+        <lb rend="¬" break="no"/>ques vns mourront par poiſons.
+        <lb/>Ie ne puis bien reprimer mes penſeées-ny mes
+        <lb/>con¬ <pb n="5"/>
+        <lb/>1
+        <lb/>1
+        <lb/>iy
+        <lb/>1
+        <lb/>blement des trois parties quireſtent, par ce qu’el
+        <lb rend="¬" break="no"/>les ſont domińes par quatre grande Puiſſances,
+        <lb/>quiſont, le grand Seigneur, le grand Sophy de
+        <lb/>Perſe, le grand Tartare &amp; le Preſtre Iean. Ie ne
+        <lb/>aiſſeraypas de parler le plus diſtinctement que ie
+        <lb/>pourray, Si bien que vous ſçauray que l’Aſie eſt ſa
+        <lb/>ſeconde partie du monde, enuironneée preſque de
+        <lb/>outes pars de la mer Oeceanne, dont la longueur
+        <lb/>depuis l’Orient à l’Occident eſt de dix-ſept cens
+        <lb/>cinquante lieueës, &amp; ce depuis la mer Noire iuſques
+        <lb/>àl’Occean de Lachine Orientale, &amp; ſa largeur eſt
+        <lb/>-de quime cens cinquante lieuës, en ſuitte ſui l’Af
+        <lb rend="¬" break="no"/>fique, qui ſeroit Iſle ſi vn iſtines eſtoit couppé, ſa
+        <lb/>- longueur eſt en droite ligne de 165o. lieuës, &amp;
+        <lb/> ſa largeur qui eſt depuis le Cap de bonne Eſpe
+        <lb rend="¬" break="no"/> ance, iuſques à la Mer Mediterannée, contient
+        <lb/> ſeize cens ſoiante quinze lieuës, ainſi elle eſt plus
+        <lb/> large que longue: En dernier lieu eſt l’Amerique,
+        <lb/> qui eſtneantmoins la plus grande de toutes, &amp; s’e
+        <lb rend="¬" break="no"/> ſtend du Septentrion vers le Midy, &amp; contient
+        <lb/>deux Prouinces ſeulement, qui ſont le Perou&amp;
+        <lb/> Mexicque joints enſemble par viriſtine de terre
+        <lb/> qui a quelques vingt lieuës de larges, ces deux
+        <lb/>1
+        <lb/>contcepions, ſans parler confnſement &amp;. enſem
+        <lb rend="¬" break="no"/> ant renommé́es Prousinces pour l’or &amp; l’argent,
+        <lb/> &amp; autres choſes precieuſes qu’on en apporte en
+        <lb/>noſtre Europe, ont de longueur de l’Occident à
+        <lb/>l’Orient: Scauoir celle de Mexicque deux mille
+        <lb/>B <pb n="6"/>
+        <lb/>eufeens lieuës, &amp; de l’argueur quinie cẽs lieũs,:
+        <lb/>la longueur du Perou, il y a d’vne mer à l’autreen
+        <lb rend="¬" break="no"/>core quine cens lieuës, &amp; de largeur ſeize cen6
+        <lb/>lieuës: de ſorte que ſupputant toutes les terres qui
+        <lb/>ſont és Indes, &amp; qui appartiennent au Roy d’Eſpa
+        <lb rend="¬" break="no"/>gne, ſans les Iſles que i’ay ci-deſſus nommeé, &amp; tou¬!
+        <lb/>rtes les autres lſles qu’il poſſede en l’vne &amp; l’autre
+        <lb/>mer: On verra qu’à bon droict ie ſouſtiens qu’ileſt
+        <lb/>le plus grand terrien du monde, dont le centre&amp;
+        <lb/>le milieu,; eſt la Ville de Ieruſalem, où toutes les
+        <lb/>nuicts ſelon le fidel rapport des pelerins, paroiſtà
+        <lb/>la minuit vn comette d’vne énorme grandeur, qui
+        <lb/>ſemble auoir la teſte d’vn Elephant, &amp; la queuë
+        <lb/>d’vnDragon; ce metheore ne diſparoiſt point,que
+        <lb/>ors que l’Aurore commence à poindre, alorsil
+        <lb/>court plus viſte en la plus haute region de l’air,
+        <lb/>qu’vn Tigre deſeſperéparmy nos campagnes. Ce
+        <lb/>prodige nous teſmoigne aſſez que la plus grand
+        <lb/>part des peuples doiuent eſtre chaſtiés parde fleau
+        <lb/>de la guerre les vns apres les autres, &amp; principale¬ ,
+        <lb/>ment les Iafidelles &amp; Idolatres; car ce n’eſt pas
+        <lb/>ſans miſtere que ce ſigne eſpouuantable paroiſt
+        <lb/>dans le milieu des Nations du monde ſelon Ee
+        <lb rend="¬" break="no"/>chiel, pour nous apprendre que Dieu les veut tou
+        <lb rend="¬" break="no"/>tes chaſtier, &amp; par ce que ſelon Dauid le ſalut des
+        <lb/>hommes fut fait au milieu de la terre, qui eſt blie
+        <lb rend="¬" break="no"/>ruſalen, il eſt auſſi expedient que le ſignal de ſa
+        <lb/>colere paroiſſe au meſme endroit oùu il a prodigué, <pb n="7"/>
+        <lb/>.
+        <lb/>1
+        <lb/>ſa charité, Dauantage les abyſmes des feux ſou
+        <lb rend="¬" break="no"/>ſlerains, les tremblemens de terre &amp; la cheute
+        <lb/>des montagnes, confirment les pronoſtications de
+        <lb/>mon Aſtrologie, tiré́es des plus grands Autheurs
+        <lb/>quipar les Phenomenes ou apparitions des Aſtres
+        <lb/>qui ſe ſelebrent en ces quartiers m’aprenennent
+        <lb/>que laguerre doit quitter entierement l’Europe,
+        <lb/>pour ruiner entierement les trois autres parties,
+        <lb/>l’lris &amp; la Colombe qui eſtoient familieres à ces
+        <lb/>peuples ont paru ſur noſtre chef, quittant les
+        <lb/>eſtrangores Nations, pour y laiſſer gronder le
+        <lb/>tonnerre, &amp; croaſſer les Corbeaux, quand à la
+        <lb/>France n’a plus à craindre aucune reuolution, le
+        <lb/>benin Iupiter qui la regarde d’vn œil amoureux,
+        <lb/>la fauoriſera touſiours de ſes plus douces in uen
+        <lb rend="¬" break="no"/>ces, s’il y arriue quelque changement, ce ſera
+        <lb/>dans les charges de la guerre, à cauſe que Mars eſt
+        <lb/>le Seigneur de noſtre Horiſon, l’Italie, l’Allema
+        <lb rend="¬" break="no"/>gne, l’Eſpagne n’auront point d’autres allarmes.
+        <lb/> que celles que le grand Turc leur cauſera du coſté́
+        <lb/>de la Hongrie, les autres Eſtats de l Europe à cau
+        <lb rend="¬" break="no"/>ſe que Lucine regarde de mauuais œil Saturne qui
+        <lb/>les domine, viuront pluſtoſt en troubles qu’en
+        <lb/>tranquilité, &amp; leur malheur ſeroit plus grand ſi le
+        <lb/>Ciel ne s’armoit d’vnec foudre pour donner de la
+        <lb/>erreur à leur ſeine, le triple regard de Mars auec
+        <lb/>Mereure du coſte de l’Orient, me faict conclurre
+        <lb/> que ces trois grandes parties du monde entreront <pb n="8"/>
+        <lb/>8
+        <lb/>en ſi grande diſſention que les peuples dreſſeront
+        <lb/>des armé́es aà celles de Circez, &amp; l’Amerique
+        <lb/>eſtant ſecond́e par. pluſieurs autres troupes de
+        <lb/>l’Eſpagne, comme auſſi le Preſtre Iean par les ar
+        <lb rend="¬" break="no"/>mé́es de France, ſans doute, que le grand Seigneur
+        <lb/>le Tartare &amp; le grand Sophy donneront du nez
+        <lb/>par terre. Ce qui a eſté declareé́ par les Centu
+        <lb rend="¬" break="no"/>ries de Noſtra-damus, &amp; qui eſt. confirmé par
+        <lb/>cette ſentence commune que les Dieux ont
+        <lb/>les pieds de laine &amp; les bras de fer, ſa diuine
+        <lb/>bonté ayant iuſques icy attendu ces infidelles
+        <lb/>à repentance en punition de leur obſtination,
+        <lb/>à. armer ſon bras d’vne verge de fer pour
+        <lb/>les punir; l’Europe n’a rien plus à craindre nyre
+        <lb rend="¬" break="no"/>douter, la fin de ſes malheurs ſera vn commence
+        <lb rend="¬" break="no"/>ment d’vne proſperité durable, les heureuſes Plàa.
+        <lb rend="¬" break="no"/>nettes qui ont reluy à la natiuité du Roy, &amp; dans la
+        <lb/>naiſſance de Monſeigneur le Duc d’Anjou, nous
+        <lb/>promettent faire couler nos iours dãs les delices,
+        <lb/>parce que ces bons Aſtres Iupiter &amp; le Soleil, qui
+        <lb/>ont doiné au point de leur apparition, rendront
+        <lb/>osS ieunes Princes en humeurs &amp; mœursſi agrea¬,
+        <lb/>bles, que le Ciel en eſtant amoureux aymera par
+        <lb/>conſequent leurs ſubjets.
+        <lb/>FIN. </p>
+    </body>
+  </text>
+</TEI>

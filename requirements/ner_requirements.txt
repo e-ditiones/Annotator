@@ -1,3 +1,3 @@
 fastText==0.9.1
-tensorflow==1.15
 git+https://github.com/danielfrg/word2vec
+pandas==1.3.3

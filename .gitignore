@@ -6,3 +6,5 @@ norm_lstm/
 seg/
 ner/
 wiki/
+.venvs/
+models/
