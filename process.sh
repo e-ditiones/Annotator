@@ -34,7 +34,7 @@ source ".venvs/${ENV}/bin/activate"
 pip install --upgrade pip
 pip install -r "requirements/${FILE}"
 
-python scripts/segment_text.py
+python3.9 scripts/segment_text.py
 
 deactivate
 
@@ -52,7 +52,7 @@ pip install -r "requirements/${FILE}"
 
 # Install lemmatization models
 
-#PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download freem
+PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download freem
 
 # Run script
 
