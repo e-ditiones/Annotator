@@ -72,11 +72,11 @@ if __name__ == "__main__":
     files = glob.glob("in_XML/**/*_segmented.xml", recursive=True)
     for file in files:
         id = os.path.basename(file)
-        id = re.sub("_segmented.xml","",id)
+        new_id = re.sub("_segmented.xml","",id)
         doc = etree.parse(file, parser)
         data = lemmatize(doc)
 
-        with open('out/TSV/%s.tsv' %(id), 'w+', newline='') as csvfile:
+        with open('out/TSV/%s.tsv' %(new_id), 'w+', newline='') as csvfile:
             fieldnames = ['token', 'lemma', 'pos', 'msd', 'msd_morph', 'msd_mode', 'msd_temps', 'msd_pers', 'msd_nomb', 'msd_genre', 'msd_cas']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter='\t')
             writer.writeheader()

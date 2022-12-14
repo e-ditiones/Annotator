@@ -45,14 +45,14 @@ deactivate
 ENV=lemmatization
 FILE=lemmatization_requirements.txt
 
-#python3.7 -m venv ".venvs/${ENV}"
+python3.7 -m venv ".venvs/${ENV}"
 source ".venvs/${ENV}/bin/activate"
-#pip install --upgrade pip
-#pip install -r "requirements/${FILE}"
+pip install --upgrade pip
+pip install -r "requirements/${FILE}"
 
 # Install lemmatization models
 
-#PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download freem
+PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download freem
 
 # Run script
 
@@ -84,7 +84,7 @@ deactivate
 #
 #python3.7 ../../scripts/normalize_lstm.py
 #
-#rm in_XML/*_segmented.xml
+rm in_XML/*_segmented.xml
 #
 #deactivate
 
