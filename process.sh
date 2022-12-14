@@ -29,12 +29,12 @@
 ENV=segmentation
 FILE=seg_requirements.txt
 
-python3.9 -m venv ".venvs/${ENV}"
+python3.7 -m venv ".venvs/${ENV}"
 source ".venvs/${ENV}/bin/activate"
 pip install --upgrade pip
 pip install -r "requirements/${FILE}"
 
-python3.9 scripts/segment_text.py
+python3.7 scripts/segment_text.py
 
 deactivate
 
@@ -45,14 +45,14 @@ deactivate
 ENV=lemmatization
 FILE=lemmatization_requirements.txt
 
-python3.7 -m venv ".venvs/${ENV}"
+#python3.7 -m venv ".venvs/${ENV}"
 source ".venvs/${ENV}/bin/activate"
-pip install --upgrade pip
-pip install -r "requirements/${FILE}"
+#pip install --upgrade pip
+#pip install -r "requirements/${FILE}"
 
 # Install lemmatization models
 
-PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download freem
+#PIE_EXTENDED_DOWNLOADS=~/MesModelsPieExtended pie-extended download freem
 
 # Run script
 
@@ -84,7 +84,7 @@ deactivate
 #
 #python3.7 ../../scripts/normalize_lstm.py
 #
-rm in_XML/*_segmented.xml
+#rm in_XML/*_segmented.xml
 #
 #deactivate
 
@@ -117,9 +117,9 @@ rm in_XML/*_segmented.xml
 # We can reuse the segmentation venv
 ENV=segmentation
 
-python3.9 -m venv ".venvs/${ENV}"
+source ".venvs/${ENV}/bin/activate"
 
-python3.9 scripts/to_xml.py
+python3.7 scripts/to_xml.py
 
 deactivate
 

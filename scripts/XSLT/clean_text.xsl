@@ -120,28 +120,36 @@
         </xsl:copy>
     </xsl:template>
     
-    <xsl:template match="tei:l">
-        <xsl:copy>
-            <xsl:apply-templates/>
-        </xsl:copy>
-    </xsl:template>
-    
-    <xsl:template match="tei:p//tei:placeName/text() | tei:l//tei:placeName/text()">
+    <xsl:template match="tei:l/text()">
         <xsl:copy/>
     </xsl:template>
     
-    <xsl:template match="tei:p//tei:persName/text() | tei:l//tei:persName/text()">
+    <xsl:template match="tei:hi/text()">
         <xsl:copy/>
     </xsl:template>
     
-    <xsl:template match="tei:p//tei:orgName/text() | tei:l//tei:orgName/text()">
+    <xsl:template match="tei:imprimatur/text()">
         <xsl:copy/>
-    </xsl:template> 
+    </xsl:template>
+    
+    <xsl:template match="tei:p//tei:title/text() | tei:l//tei:title/text()">
+        <xsl:copy/>
+    </xsl:template>
+    
+    <xsl:template match="tei:title//tei:hi/text()">
+        <xsl:copy/>
+    </xsl:template>
     
     <xsl:template match="tei:p//tei:lb | tei:l//tei:lb"/>
     
-    <xsl:template match="tei:pb | tei:pb"/>
+    <xsl:template match="tei:pb"/>
     
-    <xsl:template match="tei:fw | tei:fw"/>
+    <xsl:template match="tei:p//tei:p"/>
+    
+    <xsl:template match="tei:figure"/>
+    
+    <xsl:template match="tei:fw"/>
+    
+    <xsl:template match="tei:gap"/>
 
 </xsl:stylesheet>

@@ -29,20 +29,21 @@ def segment_text(text):
     :return: a list of segments
     :rtype: list
     """
-    segments = re.findall(r"[^\.\?:\;!]+[\.\?:\;!]?", text)
-    list = []
-    n = 1
-    for segment in segments:
-        # This makes sure no <seg> is empty
-        text = segment.strip()
-        if text:
-            seg = etree.Element("{http://www.tei-c.org/ns/1.0}seg")
-            seg.text = text
-            seg.attrib["n"] = str(n)
-            # The xml:id attribute is generated with the value of the n attribute.
-            seg.attrib["{http://www.w3.org/XML/1998/namespace}id"] = "s" + seg.get("n")
-            n += 1
-            list.append(seg)
+    if re.findall(r"[^\.\?:\;!]+[\.\?:\;!]?", text)!= None:
+        segments = re.findall(r"[^\.\?:\;!]+[\.\?:\;!]?", text)
+        list = []
+        n = 1
+        for segment in segments:
+            # This makes sure no <seg> is empty
+            text = segment.strip()
+            if text:
+                seg = etree.Element("{http://www.tei-c.org/ns/1.0}seg")
+                seg.text = text
+                seg.attrib["n"] = str(n)
+                # The xml:id attribute is generated with the value of the n attribute.
+                seg.attrib["{http://www.w3.org/XML/1998/namespace}id"] = "s" + seg.get("n")
+                n += 1
+                list.append(seg)
     return list
 
 
@@ -110,8 +111,9 @@ def rebuild_words(doc):
 if __name__ == "__main__":
     parser = etree.XMLParser(remove_blank_text=True)
     
-    files = glob.glob("in_XML/**/*.xml", recursive=True)
+    files = glob.glob("in_XML/**/*", recursive=True)
     for file in files:
+        print(file)
         doc = etree.parse(file, parser)
         rebuild_words(doc)
         text_transformed = transform_text(doc)
